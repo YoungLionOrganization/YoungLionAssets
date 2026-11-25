@@ -1,0 +1,60 @@
+# Each state has a concrete use with its base icon.
+file|add remove check edit search warning lock download upload share history favorite
+file-text|add edit check search lock share translate history
+file-image|add check edit warning download upload favorite
+file-audio|add check download upload play mute
+file-video|add check download upload play lock
+file-table|add check edit download filter search
+folder|add remove check edit search warning lock download upload share history favorite
+folder-open|add check edit search lock share
+archive|add check search warning lock download restore
+clipboard|add check edit search share history
+hard-drive|add check warning lock download upload
+database|add remove check edit search warning lock download upload history restore
+inbox|add check search warning unread
+outbox|check warning clock lock
+terminal|add check warning lock search
+git-branch|add remove check lock search history
+git-commit|check warning lock search restore
+git-pull-request|add check close warning clock lock
+pipeline|check warning clock pause play restore
+webhook|add check warning lock clock
+bug|add check edit search close
+browser|add warning lock download history
+cloud|add remove check warning lock download upload share pause sync
+server|add remove check search warning lock sync
+wifi|add check warning lock off
+router|add check warning lock sync
+ethernet|check warning lock off
+link|add remove check warning lock share
+desktop|add check warning lock share off
+laptop|add check warning lock off
+smartphone|add check warning lock off
+camera|add check warning lock off
+battery|check warning charge off
+printer|add check warning pause off
+gamepad|add check warning lock off
+microphone|add check warning lock mute
+email|add check edit warning lock unread search clock
+message|add check edit warning lock unread search mute
+chat|add check warning lock unread search mute
+notifications|check warning unread mute clock
+image|add check edit search lock download share
+film|add check edit download play lock
+playlist|add remove check edit share play
+stream|check warning lock play pause off
+user|add remove check edit search warning lock close clock
+team|add remove check edit search lock
+id-card|add check edit warning lock
+key|add remove check warning search
+shield|add check lock off
+certificate|add check warning lock download
+calendar|add remove check edit search clock lock
+cart|add remove check warning lock
+card|add remove check warning lock
+receipt|add check search download
+chart-line|add check warning download share
+map|add check search download share
+location|add check search share off
+book|add check edit search lock download favorite
+ticket|add check search warning download

@@ -1,0 +1,5519 @@
+{
+  "license": "MIT",
+  "viewBox": [
+    0,
+    0,
+    64,
+    64
+  ],
+  "pngSize": 256,
+  "iconCount": 676,
+  "categories": {
+    "analytics": 15,
+    "commerce": 27,
+    "communication": 44,
+    "creation": 12,
+    "development": 72,
+    "devices": 52,
+    "education": 13,
+    "files": 130,
+    "gaming": 25,
+    "interface": 45,
+    "media": 43,
+    "nature": 8,
+    "navigation": 45,
+    "network": 55,
+    "people": 31,
+    "security": 28,
+    "time": 16,
+    "travel": 15
+  },
+  "icons": [
+    {
+      "id": "chart-area",
+      "category": "analytics",
+      "origin": "new",
+      "svg": "assets/svg/analytics/chart-area.svg",
+      "png": "assets/png/analytics/chart-area.png",
+      "png-light": "assets/png-light/analytics/chart-area.png"
+    },
+    {
+      "id": "chart-bar",
+      "category": "analytics",
+      "origin": "new",
+      "svg": "assets/svg/analytics/chart-bar.svg",
+      "png": "assets/png/analytics/chart-bar.png",
+      "png-light": "assets/png-light/analytics/chart-bar.png"
+    },
+    {
+      "id": "chart-line",
+      "category": "analytics",
+      "origin": "new",
+      "svg": "assets/svg/analytics/chart-line.svg",
+      "png": "assets/png/analytics/chart-line.png",
+      "png-light": "assets/png-light/analytics/chart-line.png"
+    },
+    {
+      "id": "chart-line-add",
+      "category": "analytics",
+      "origin": "state",
+      "svg": "assets/svg/analytics/chart-line-add.svg",
+      "png": "assets/png/analytics/chart-line-add.png",
+      "png-light": "assets/png-light/analytics/chart-line-add.png"
+    },
+    {
+      "id": "chart-line-check",
+      "category": "analytics",
+      "origin": "state",
+      "svg": "assets/svg/analytics/chart-line-check.svg",
+      "png": "assets/png/analytics/chart-line-check.png",
+      "png-light": "assets/png-light/analytics/chart-line-check.png"
+    },
+    {
+      "id": "chart-line-download",
+      "category": "analytics",
+      "origin": "state",
+      "svg": "assets/svg/analytics/chart-line-download.svg",
+      "png": "assets/png/analytics/chart-line-download.png",
+      "png-light": "assets/png-light/analytics/chart-line-download.png"
+    },
+    {
+      "id": "chart-line-share",
+      "category": "analytics",
+      "origin": "state",
+      "svg": "assets/svg/analytics/chart-line-share.svg",
+      "png": "assets/png/analytics/chart-line-share.png",
+      "png-light": "assets/png-light/analytics/chart-line-share.png"
+    },
+    {
+      "id": "chart-line-warning",
+      "category": "analytics",
+      "origin": "state",
+      "svg": "assets/svg/analytics/chart-line-warning.svg",
+      "png": "assets/png/analytics/chart-line-warning.png",
+      "png-light": "assets/png-light/analytics/chart-line-warning.png"
+    },
+    {
+      "id": "chart-pie",
+      "category": "analytics",
+      "origin": "new",
+      "svg": "assets/svg/analytics/chart-pie.svg",
+      "png": "assets/png/analytics/chart-pie.png",
+      "png-light": "assets/png-light/analytics/chart-pie.png"
+    },
+    {
+      "id": "chart-scatter",
+      "category": "analytics",
+      "origin": "new",
+      "svg": "assets/svg/analytics/chart-scatter.svg",
+      "png": "assets/png/analytics/chart-scatter.png",
+      "png-light": "assets/png-light/analytics/chart-scatter.png"
+    },
+    {
+      "id": "dashboard",
+      "category": "analytics",
+      "origin": "new",
+      "svg": "assets/svg/analytics/dashboard.svg",
+      "png": "assets/png/analytics/dashboard.png",
+      "png-light": "assets/png-light/analytics/dashboard.png"
+    },
+    {
+      "id": "funnel-chart",
+      "category": "analytics",
+      "origin": "new",
+      "svg": "assets/svg/analytics/funnel-chart.svg",
+      "png": "assets/png/analytics/funnel-chart.png",
+      "png-light": "assets/png-light/analytics/funnel-chart.png"
+    },
+    {
+      "id": "gauge",
+      "category": "analytics",
+      "origin": "new",
+      "svg": "assets/svg/analytics/gauge.svg",
+      "png": "assets/png/analytics/gauge.png",
+      "png-light": "assets/png-light/analytics/gauge.png"
+    },
+    {
+      "id": "trend-down",
+      "category": "analytics",
+      "origin": "new",
+      "svg": "assets/svg/analytics/trend-down.svg",
+      "png": "assets/png/analytics/trend-down.png",
+      "png-light": "assets/png-light/analytics/trend-down.png"
+    },
+    {
+      "id": "trend-up",
+      "category": "analytics",
+      "origin": "new",
+      "svg": "assets/svg/analytics/trend-up.svg",
+      "png": "assets/png/analytics/trend-up.png",
+      "png-light": "assets/png-light/analytics/trend-up.png"
+    },
+    {
+      "id": "bag",
+      "category": "commerce",
+      "origin": "new",
+      "svg": "assets/svg/commerce/bag.svg",
+      "png": "assets/png/commerce/bag.png",
+      "png-light": "assets/png-light/commerce/bag.png"
+    },
+    {
+      "id": "barcode",
+      "category": "commerce",
+      "origin": "new",
+      "svg": "assets/svg/commerce/barcode.svg",
+      "png": "assets/png/commerce/barcode.png",
+      "png-light": "assets/png-light/commerce/barcode.png"
+    },
+    {
+      "id": "basket",
+      "category": "commerce",
+      "origin": "new",
+      "svg": "assets/svg/commerce/basket.svg",
+      "png": "assets/png/commerce/basket.png",
+      "png-light": "assets/png-light/commerce/basket.png"
+    },
+    {
+      "id": "card",
+      "category": "commerce",
+      "origin": "new",
+      "svg": "assets/svg/commerce/card.svg",
+      "png": "assets/png/commerce/card.png",
+      "png-light": "assets/png-light/commerce/card.png"
+    },
+    {
+      "id": "card-add",
+      "category": "commerce",
+      "origin": "state",
+      "svg": "assets/svg/commerce/card-add.svg",
+      "png": "assets/png/commerce/card-add.png",
+      "png-light": "assets/png-light/commerce/card-add.png"
+    },
+    {
+      "id": "card-check",
+      "category": "commerce",
+      "origin": "state",
+      "svg": "assets/svg/commerce/card-check.svg",
+      "png": "assets/png/commerce/card-check.png",
+      "png-light": "assets/png-light/commerce/card-check.png"
+    },
+    {
+      "id": "card-lock",
+      "category": "commerce",
+      "origin": "state",
+      "svg": "assets/svg/commerce/card-lock.svg",
+      "png": "assets/png/commerce/card-lock.png",
+      "png-light": "assets/png-light/commerce/card-lock.png"
+    },
+    {
+      "id": "card-remove",
+      "category": "commerce",
+      "origin": "state",
+      "svg": "assets/svg/commerce/card-remove.svg",
+      "png": "assets/png/commerce/card-remove.png",
+      "png-light": "assets/png-light/commerce/card-remove.png"
+    },
+    {
+      "id": "card-warning",
+      "category": "commerce",
+      "origin": "state",
+      "svg": "assets/svg/commerce/card-warning.svg",
+      "png": "assets/png/commerce/card-warning.png",
+      "png-light": "assets/png-light/commerce/card-warning.png"
+    },
+    {
+      "id": "cart",
+      "category": "commerce",
+      "origin": "new",
+      "svg": "assets/svg/commerce/cart.svg",
+      "png": "assets/png/commerce/cart.png",
+      "png-light": "assets/png-light/commerce/cart.png"
+    },
+    {
+      "id": "cart-add",
+      "category": "commerce",
+      "origin": "state",
+      "svg": "assets/svg/commerce/cart-add.svg",
+      "png": "assets/png/commerce/cart-add.png",
+      "png-light": "assets/png-light/commerce/cart-add.png"
+    },
+    {
+      "id": "cart-check",
+      "category": "commerce",
+      "origin": "state",
+      "svg": "assets/svg/commerce/cart-check.svg",
+      "png": "assets/png/commerce/cart-check.png",
+      "png-light": "assets/png-light/commerce/cart-check.png"
+    },
+    {
+      "id": "cart-lock",
+      "category": "commerce",
+      "origin": "state",
+      "svg": "assets/svg/commerce/cart-lock.svg",
+      "png": "assets/png/commerce/cart-lock.png",
+      "png-light": "assets/png-light/commerce/cart-lock.png"
+    },
+    {
+      "id": "cart-remove",
+      "category": "commerce",
+      "origin": "state",
+      "svg": "assets/svg/commerce/cart-remove.svg",
+      "png": "assets/png/commerce/cart-remove.png",
+      "png-light": "assets/png-light/commerce/cart-remove.png"
+    },
+    {
+      "id": "cart-warning",
+      "category": "commerce",
+      "origin": "state",
+      "svg": "assets/svg/commerce/cart-warning.svg",
+      "png": "assets/png/commerce/cart-warning.png",
+      "png-light": "assets/png-light/commerce/cart-warning.png"
+    },
+    {
+      "id": "coin",
+      "category": "commerce",
+      "origin": "new",
+      "svg": "assets/svg/commerce/coin.svg",
+      "png": "assets/png/commerce/coin.png",
+      "png-light": "assets/png-light/commerce/coin.png"
+    },
+    {
+      "id": "gift",
+      "category": "commerce",
+      "origin": "new",
+      "svg": "assets/svg/commerce/gift.svg",
+      "png": "assets/png/commerce/gift.png",
+      "png-light": "assets/png-light/commerce/gift.png"
+    },
+    {
+      "id": "invoice",
+      "category": "commerce",
+      "origin": "new",
+      "svg": "assets/svg/commerce/invoice.svg",
+      "png": "assets/png/commerce/invoice.png",
+      "png-light": "assets/png-light/commerce/invoice.png"
+    },
+    {
+      "id": "percent",
+      "category": "commerce",
+      "origin": "new",
+      "svg": "assets/svg/commerce/percent.svg",
+      "png": "assets/png/commerce/percent.png",
+      "png-light": "assets/png-light/commerce/percent.png"
+    },
+    {
+      "id": "premium",
+      "category": "commerce",
+      "origin": "refined",
+      "svg": "assets/svg/commerce/premium.svg",
+      "legacyName": "premium",
+      "png": "assets/png/commerce/premium.png",
+      "png-light": "assets/png-light/commerce/premium.png"
+    },
+    {
+      "id": "products",
+      "category": "commerce",
+      "origin": "refined",
+      "svg": "assets/svg/commerce/products.svg",
+      "legacyName": "products",
+      "png": "assets/png/commerce/products.png",
+      "png-light": "assets/png-light/commerce/products.png"
+    },
+    {
+      "id": "receipt",
+      "category": "commerce",
+      "origin": "new",
+      "svg": "assets/svg/commerce/receipt.svg",
+      "png": "assets/png/commerce/receipt.png",
+      "png-light": "assets/png-light/commerce/receipt.png"
+    },
+    {
+      "id": "receipt-add",
+      "category": "commerce",
+      "origin": "state",
+      "svg": "assets/svg/commerce/receipt-add.svg",
+      "png": "assets/png/commerce/receipt-add.png",
+      "png-light": "assets/png-light/commerce/receipt-add.png"
+    },
+    {
+      "id": "receipt-check",
+      "category": "commerce",
+      "origin": "state",
+      "svg": "assets/svg/commerce/receipt-check.svg",
+      "png": "assets/png/commerce/receipt-check.png",
+      "png-light": "assets/png-light/commerce/receipt-check.png"
+    },
+    {
+      "id": "receipt-download",
+      "category": "commerce",
+      "origin": "state",
+      "svg": "assets/svg/commerce/receipt-download.svg",
+      "png": "assets/png/commerce/receipt-download.png",
+      "png-light": "assets/png-light/commerce/receipt-download.png"
+    },
+    {
+      "id": "receipt-search",
+      "category": "commerce",
+      "origin": "state",
+      "svg": "assets/svg/commerce/receipt-search.svg",
+      "png": "assets/png/commerce/receipt-search.png",
+      "png-light": "assets/png-light/commerce/receipt-search.png"
+    },
+    {
+      "id": "wallet",
+      "category": "commerce",
+      "origin": "new",
+      "svg": "assets/svg/commerce/wallet.svg",
+      "png": "assets/png/commerce/wallet.png",
+      "png-light": "assets/png-light/commerce/wallet.png"
+    },
+    {
+      "id": "chat",
+      "category": "communication",
+      "origin": "new",
+      "svg": "assets/svg/communication/chat.svg",
+      "png": "assets/png/communication/chat.png",
+      "png-light": "assets/png-light/communication/chat.png"
+    },
+    {
+      "id": "chat-add",
+      "category": "communication",
+      "origin": "state",
+      "svg": "assets/svg/communication/chat-add.svg",
+      "png": "assets/png/communication/chat-add.png",
+      "png-light": "assets/png-light/communication/chat-add.png"
+    },
+    {
+      "id": "chat-check",
+      "category": "communication",
+      "origin": "state",
+      "svg": "assets/svg/communication/chat-check.svg",
+      "png": "assets/png/communication/chat-check.png",
+      "png-light": "assets/png-light/communication/chat-check.png"
+    },
+    {
+      "id": "chat-lock",
+      "category": "communication",
+      "origin": "state",
+      "svg": "assets/svg/communication/chat-lock.svg",
+      "png": "assets/png/communication/chat-lock.png",
+      "png-light": "assets/png-light/communication/chat-lock.png"
+    },
+    {
+      "id": "chat-mute",
+      "category": "communication",
+      "origin": "state",
+      "svg": "assets/svg/communication/chat-mute.svg",
+      "png": "assets/png/communication/chat-mute.png",
+      "png-light": "assets/png-light/communication/chat-mute.png"
+    },
+    {
+      "id": "chat-search",
+      "category": "communication",
+      "origin": "state",
+      "svg": "assets/svg/communication/chat-search.svg",
+      "png": "assets/png/communication/chat-search.png",
+      "png-light": "assets/png-light/communication/chat-search.png"
+    },
+    {
+      "id": "chat-unread",
+      "category": "communication",
+      "origin": "state",
+      "svg": "assets/svg/communication/chat-unread.svg",
+      "png": "assets/png/communication/chat-unread.png",
+      "png-light": "assets/png-light/communication/chat-unread.png"
+    },
+    {
+      "id": "chat-warning",
+      "category": "communication",
+      "origin": "state",
+      "svg": "assets/svg/communication/chat-warning.svg",
+      "png": "assets/png/communication/chat-warning.png",
+      "png-light": "assets/png-light/communication/chat-warning.png"
+    },
+    {
+      "id": "contact",
+      "category": "communication",
+      "origin": "redrawn",
+      "svg": "assets/svg/communication/contact.svg",
+      "legacyName": "contact",
+      "png": "assets/png/communication/contact.png",
+      "png-light": "assets/png-light/communication/contact.png"
+    },
+    {
+      "id": "email",
+      "category": "communication",
+      "origin": "refined",
+      "svg": "assets/svg/communication/email.svg",
+      "legacyName": "email",
+      "png": "assets/png/communication/email.png",
+      "png-light": "assets/png-light/communication/email.png"
+    },
+    {
+      "id": "email-add",
+      "category": "communication",
+      "origin": "state",
+      "svg": "assets/svg/communication/email-add.svg",
+      "png": "assets/png/communication/email-add.png",
+      "png-light": "assets/png-light/communication/email-add.png"
+    },
+    {
+      "id": "email-check",
+      "category": "communication",
+      "origin": "state",
+      "svg": "assets/svg/communication/email-check.svg",
+      "png": "assets/png/communication/email-check.png",
+      "png-light": "assets/png-light/communication/email-check.png"
+    },
+    {
+      "id": "email-clock",
+      "category": "communication",
+      "origin": "state",
+      "svg": "assets/svg/communication/email-clock.svg",
+      "png": "assets/png/communication/email-clock.png",
+      "png-light": "assets/png-light/communication/email-clock.png"
+    },
+    {
+      "id": "email-edit",
+      "category": "communication",
+      "origin": "state",
+      "svg": "assets/svg/communication/email-edit.svg",
+      "png": "assets/png/communication/email-edit.png",
+      "png-light": "assets/png-light/communication/email-edit.png"
+    },
+    {
+      "id": "email-lock",
+      "category": "communication",
+      "origin": "state",
+      "svg": "assets/svg/communication/email-lock.svg",
+      "png": "assets/png/communication/email-lock.png",
+      "png-light": "assets/png-light/communication/email-lock.png"
+    },
+    {
+      "id": "email-search",
+      "category": "communication",
+      "origin": "state",
+      "svg": "assets/svg/communication/email-search.svg",
+      "png": "assets/png/communication/email-search.png",
+      "png-light": "assets/png-light/communication/email-search.png"
+    },
+    {
+      "id": "email-unread",
+      "category": "communication",
+      "origin": "state",
+      "svg": "assets/svg/communication/email-unread.svg",
+      "png": "assets/png/communication/email-unread.png",
+      "png-light": "assets/png-light/communication/email-unread.png"
+    },
+    {
+      "id": "email-warning",
+      "category": "communication",
+      "origin": "state",
+      "svg": "assets/svg/communication/email-warning.svg",
+      "png": "assets/png/communication/email-warning.png",
+      "png-light": "assets/png-light/communication/email-warning.png"
+    },
+    {
+      "id": "faq",
+      "category": "communication",
+      "origin": "refined",
+      "svg": "assets/svg/communication/faq.svg",
+      "legacyName": "faq",
+      "png": "assets/png/communication/faq.png",
+      "png-light": "assets/png-light/communication/faq.png"
+    },
+    {
+      "id": "forward",
+      "category": "communication",
+      "origin": "new",
+      "svg": "assets/svg/communication/forward.svg",
+      "png": "assets/png/communication/forward.png",
+      "png-light": "assets/png-light/communication/forward.png"
+    },
+    {
+      "id": "megaphone",
+      "category": "communication",
+      "origin": "new",
+      "svg": "assets/svg/communication/megaphone.svg",
+      "png": "assets/png/communication/megaphone.png",
+      "png-light": "assets/png-light/communication/megaphone.png"
+    },
+    {
+      "id": "mention",
+      "category": "communication",
+      "origin": "new",
+      "svg": "assets/svg/communication/mention.svg",
+      "png": "assets/png/communication/mention.png",
+      "png-light": "assets/png-light/communication/mention.png"
+    },
+    {
+      "id": "message",
+      "category": "communication",
+      "origin": "new",
+      "svg": "assets/svg/communication/message.svg",
+      "png": "assets/png/communication/message.png",
+      "png-light": "assets/png-light/communication/message.png"
+    },
+    {
+      "id": "message-add",
+      "category": "communication",
+      "origin": "state",
+      "svg": "assets/svg/communication/message-add.svg",
+      "png": "assets/png/communication/message-add.png",
+      "png-light": "assets/png-light/communication/message-add.png"
+    },
+    {
+      "id": "message-check",
+      "category": "communication",
+      "origin": "state",
+      "svg": "assets/svg/communication/message-check.svg",
+      "png": "assets/png/communication/message-check.png",
+      "png-light": "assets/png-light/communication/message-check.png"
+    },
+    {
+      "id": "message-edit",
+      "category": "communication",
+      "origin": "state",
+      "svg": "assets/svg/communication/message-edit.svg",
+      "png": "assets/png/communication/message-edit.png",
+      "png-light": "assets/png-light/communication/message-edit.png"
+    },
+    {
+      "id": "message-lock",
+      "category": "communication",
+      "origin": "state",
+      "svg": "assets/svg/communication/message-lock.svg",
+      "png": "assets/png/communication/message-lock.png",
+      "png-light": "assets/png-light/communication/message-lock.png"
+    },
+    {
+      "id": "message-mute",
+      "category": "communication",
+      "origin": "state",
+      "svg": "assets/svg/communication/message-mute.svg",
+      "png": "assets/png/communication/message-mute.png",
+      "png-light": "assets/png-light/communication/message-mute.png"
+    },
+    {
+      "id": "message-search",
+      "category": "communication",
+      "origin": "state",
+      "svg": "assets/svg/communication/message-search.svg",
+      "png": "assets/png/communication/message-search.png",
+      "png-light": "assets/png-light/communication/message-search.png"
+    },
+    {
+      "id": "message-unread",
+      "category": "communication",
+      "origin": "state",
+      "svg": "assets/svg/communication/message-unread.svg",
+      "png": "assets/png/communication/message-unread.png",
+      "png-light": "assets/png-light/communication/message-unread.png"
+    },
+    {
+      "id": "message-warning",
+      "category": "communication",
+      "origin": "state",
+      "svg": "assets/svg/communication/message-warning.svg",
+      "png": "assets/png/communication/message-warning.png",
+      "png-light": "assets/png-light/communication/message-warning.png"
+    },
+    {
+      "id": "notifications",
+      "category": "communication",
+      "origin": "refined",
+      "svg": "assets/svg/communication/notifications.svg",
+      "legacyName": "notifications",
+      "png": "assets/png/communication/notifications.png",
+      "png-light": "assets/png-light/communication/notifications.png"
+    },
+    {
+      "id": "notifications-check",
+      "category": "communication",
+      "origin": "state",
+      "svg": "assets/svg/communication/notifications-check.svg",
+      "png": "assets/png/communication/notifications-check.png",
+      "png-light": "assets/png-light/communication/notifications-check.png"
+    },
+    {
+      "id": "notifications-clock",
+      "category": "communication",
+      "origin": "state",
+      "svg": "assets/svg/communication/notifications-clock.svg",
+      "png": "assets/png/communication/notifications-clock.png",
+      "png-light": "assets/png-light/communication/notifications-clock.png"
+    },
+    {
+      "id": "notifications-mute",
+      "category": "communication",
+      "origin": "state",
+      "svg": "assets/svg/communication/notifications-mute.svg",
+      "png": "assets/png/communication/notifications-mute.png",
+      "png-light": "assets/png-light/communication/notifications-mute.png"
+    },
+    {
+      "id": "notifications-unread",
+      "category": "communication",
+      "origin": "state",
+      "svg": "assets/svg/communication/notifications-unread.svg",
+      "png": "assets/png/communication/notifications-unread.png",
+      "png-light": "assets/png-light/communication/notifications-unread.png"
+    },
+    {
+      "id": "notifications-warning",
+      "category": "communication",
+      "origin": "state",
+      "svg": "assets/svg/communication/notifications-warning.svg",
+      "png": "assets/png/communication/notifications-warning.png",
+      "png-light": "assets/png-light/communication/notifications-warning.png"
+    },
+    {
+      "id": "phone",
+      "category": "communication",
+      "origin": "refined",
+      "svg": "assets/svg/communication/phone.svg",
+      "legacyName": "phone",
+      "png": "assets/png/communication/phone.png",
+      "png-light": "assets/png-light/communication/phone.png"
+    },
+    {
+      "id": "quotation",
+      "category": "communication",
+      "origin": "new",
+      "svg": "assets/svg/communication/quotation.svg",
+      "png": "assets/png/communication/quotation.png",
+      "png-light": "assets/png-light/communication/quotation.png"
+    },
+    {
+      "id": "reply",
+      "category": "communication",
+      "origin": "new",
+      "svg": "assets/svg/communication/reply.svg",
+      "png": "assets/png/communication/reply.png",
+      "png-light": "assets/png-light/communication/reply.png"
+    },
+    {
+      "id": "send",
+      "category": "communication",
+      "origin": "new",
+      "svg": "assets/svg/communication/send.svg",
+      "png": "assets/png/communication/send.png",
+      "png-light": "assets/png-light/communication/send.png"
+    },
+    {
+      "id": "support",
+      "category": "communication",
+      "origin": "refined",
+      "svg": "assets/svg/communication/support.svg",
+      "legacyName": "support",
+      "png": "assets/png/communication/support.png",
+      "png-light": "assets/png-light/communication/support.png"
+    },
+    {
+      "id": "translate",
+      "category": "communication",
+      "origin": "new",
+      "svg": "assets/svg/communication/translate.svg",
+      "png": "assets/png/communication/translate.png",
+      "png-light": "assets/png-light/communication/translate.png"
+    },
+    {
+      "id": "voicemail",
+      "category": "communication",
+      "origin": "new",
+      "svg": "assets/svg/communication/voicemail.svg",
+      "png": "assets/png/communication/voicemail.png",
+      "png-light": "assets/png-light/communication/voicemail.png"
+    },
+    {
+      "id": "align-center",
+      "category": "creation",
+      "origin": "new",
+      "svg": "assets/svg/creation/align-center.svg",
+      "png": "assets/png/creation/align-center.png",
+      "png-light": "assets/png-light/creation/align-center.png"
+    },
+    {
+      "id": "align-left",
+      "category": "creation",
+      "origin": "new",
+      "svg": "assets/svg/creation/align-left.svg",
+      "png": "assets/png/creation/align-left.png",
+      "png-light": "assets/png-light/creation/align-left.png"
+    },
+    {
+      "id": "align-right",
+      "category": "creation",
+      "origin": "new",
+      "svg": "assets/svg/creation/align-right.svg",
+      "png": "assets/png/creation/align-right.png",
+      "png-light": "assets/png-light/creation/align-right.png"
+    },
+    {
+      "id": "bezier",
+      "category": "creation",
+      "origin": "new",
+      "svg": "assets/svg/creation/bezier.svg",
+      "png": "assets/png/creation/bezier.png",
+      "png-light": "assets/png-light/creation/bezier.png"
+    },
+    {
+      "id": "brush",
+      "category": "creation",
+      "origin": "new",
+      "svg": "assets/svg/creation/brush.svg",
+      "png": "assets/png/creation/brush.png",
+      "png-light": "assets/png-light/creation/brush.png"
+    },
+    {
+      "id": "color-picker",
+      "category": "creation",
+      "origin": "new",
+      "svg": "assets/svg/creation/color-picker.svg",
+      "png": "assets/png/creation/color-picker.png",
+      "png-light": "assets/png-light/creation/color-picker.png"
+    },
+    {
+      "id": "crop",
+      "category": "creation",
+      "origin": "new",
+      "svg": "assets/svg/creation/crop.svg",
+      "png": "assets/png/creation/crop.png",
+      "png-light": "assets/png-light/creation/crop.png"
+    },
+    {
+      "id": "eraser",
+      "category": "creation",
+      "origin": "new",
+      "svg": "assets/svg/creation/eraser.svg",
+      "png": "assets/png/creation/eraser.png",
+      "png-light": "assets/png-light/creation/eraser.png"
+    },
+    {
+      "id": "palette",
+      "category": "creation",
+      "origin": "new",
+      "svg": "assets/svg/creation/palette.svg",
+      "png": "assets/png/creation/palette.png",
+      "png-light": "assets/png-light/creation/palette.png"
+    },
+    {
+      "id": "pen",
+      "category": "creation",
+      "origin": "new",
+      "svg": "assets/svg/creation/pen.svg",
+      "png": "assets/png/creation/pen.png",
+      "png-light": "assets/png-light/creation/pen.png"
+    },
+    {
+      "id": "ruler",
+      "category": "creation",
+      "origin": "new",
+      "svg": "assets/svg/creation/ruler.svg",
+      "png": "assets/png/creation/ruler.png",
+      "png-light": "assets/png-light/creation/ruler.png"
+    },
+    {
+      "id": "scissors",
+      "category": "creation",
+      "origin": "new",
+      "svg": "assets/svg/creation/scissors.svg",
+      "png": "assets/png/creation/scissors.png",
+      "png-light": "assets/png-light/creation/scissors.png"
+    },
+    {
+      "id": "api",
+      "category": "development",
+      "origin": "refined",
+      "svg": "assets/svg/development/api.svg",
+      "legacyName": "api",
+      "png": "assets/png/development/api.png",
+      "png-light": "assets/png-light/development/api.png"
+    },
+    {
+      "id": "braces",
+      "category": "development",
+      "origin": "new",
+      "svg": "assets/svg/development/braces.svg",
+      "png": "assets/png/development/braces.png",
+      "png-light": "assets/png-light/development/braces.png"
+    },
+    {
+      "id": "brackets",
+      "category": "development",
+      "origin": "new",
+      "svg": "assets/svg/development/brackets.svg",
+      "png": "assets/png/development/brackets.png",
+      "png-light": "assets/png-light/development/brackets.png"
+    },
+    {
+      "id": "browser",
+      "category": "development",
+      "origin": "new",
+      "svg": "assets/svg/development/browser.svg",
+      "png": "assets/png/development/browser.png",
+      "png-light": "assets/png-light/development/browser.png"
+    },
+    {
+      "id": "browser-add",
+      "category": "development",
+      "origin": "state",
+      "svg": "assets/svg/development/browser-add.svg",
+      "png": "assets/png/development/browser-add.png",
+      "png-light": "assets/png-light/development/browser-add.png"
+    },
+    {
+      "id": "browser-download",
+      "category": "development",
+      "origin": "state",
+      "svg": "assets/svg/development/browser-download.svg",
+      "png": "assets/png/development/browser-download.png",
+      "png-light": "assets/png-light/development/browser-download.png"
+    },
+    {
+      "id": "browser-history",
+      "category": "development",
+      "origin": "state",
+      "svg": "assets/svg/development/browser-history.svg",
+      "png": "assets/png/development/browser-history.png",
+      "png-light": "assets/png-light/development/browser-history.png"
+    },
+    {
+      "id": "browser-lock",
+      "category": "development",
+      "origin": "state",
+      "svg": "assets/svg/development/browser-lock.svg",
+      "png": "assets/png/development/browser-lock.png",
+      "png-light": "assets/png-light/development/browser-lock.png"
+    },
+    {
+      "id": "browser-warning",
+      "category": "development",
+      "origin": "state",
+      "svg": "assets/svg/development/browser-warning.svg",
+      "png": "assets/png/development/browser-warning.png",
+      "png-light": "assets/png-light/development/browser-warning.png"
+    },
+    {
+      "id": "bug",
+      "category": "development",
+      "origin": "new",
+      "svg": "assets/svg/development/bug.svg",
+      "png": "assets/png/development/bug.png",
+      "png-light": "assets/png-light/development/bug.png"
+    },
+    {
+      "id": "bug-add",
+      "category": "development",
+      "origin": "state",
+      "svg": "assets/svg/development/bug-add.svg",
+      "png": "assets/png/development/bug-add.png",
+      "png-light": "assets/png-light/development/bug-add.png"
+    },
+    {
+      "id": "bug-check",
+      "category": "development",
+      "origin": "state",
+      "svg": "assets/svg/development/bug-check.svg",
+      "png": "assets/png/development/bug-check.png",
+      "png-light": "assets/png-light/development/bug-check.png"
+    },
+    {
+      "id": "bug-close",
+      "category": "development",
+      "origin": "state",
+      "svg": "assets/svg/development/bug-close.svg",
+      "png": "assets/png/development/bug-close.png",
+      "png-light": "assets/png-light/development/bug-close.png"
+    },
+    {
+      "id": "bug-edit",
+      "category": "development",
+      "origin": "state",
+      "svg": "assets/svg/development/bug-edit.svg",
+      "png": "assets/png/development/bug-edit.png",
+      "png-light": "assets/png-light/development/bug-edit.png"
+    },
+    {
+      "id": "bug-search",
+      "category": "development",
+      "origin": "state",
+      "svg": "assets/svg/development/bug-search.svg",
+      "png": "assets/png/development/bug-search.png",
+      "png-light": "assets/png-light/development/bug-search.png"
+    },
+    {
+      "id": "build",
+      "category": "development",
+      "origin": "new",
+      "svg": "assets/svg/development/build.svg",
+      "png": "assets/png/development/build.png",
+      "png-light": "assets/png-light/development/build.png"
+    },
+    {
+      "id": "code",
+      "category": "development",
+      "origin": "refined",
+      "svg": "assets/svg/development/code.svg",
+      "legacyName": "code",
+      "png": "assets/png/development/code.png",
+      "png-light": "assets/png-light/development/code.png"
+    },
+    {
+      "id": "command",
+      "category": "development",
+      "origin": "new",
+      "svg": "assets/svg/development/command.svg",
+      "png": "assets/png/development/command.png",
+      "png-light": "assets/png-light/development/command.png"
+    },
+    {
+      "id": "dependency",
+      "category": "development",
+      "origin": "new",
+      "svg": "assets/svg/development/dependency.svg",
+      "png": "assets/png/development/dependency.png",
+      "png-light": "assets/png-light/development/dependency.png"
+    },
+    {
+      "id": "developer",
+      "category": "development",
+      "origin": "redrawn",
+      "svg": "assets/svg/development/developer.svg",
+      "legacyName": "developer",
+      "png": "assets/png/development/developer.png",
+      "png-light": "assets/png-light/development/developer.png"
+    },
+    {
+      "id": "flask",
+      "category": "development",
+      "origin": "new",
+      "svg": "assets/svg/development/flask.svg",
+      "png": "assets/png/development/flask.png",
+      "png-light": "assets/png-light/development/flask.png"
+    },
+    {
+      "id": "function",
+      "category": "development",
+      "origin": "new",
+      "svg": "assets/svg/development/function.svg",
+      "png": "assets/png/development/function.png",
+      "png-light": "assets/png-light/development/function.png"
+    },
+    {
+      "id": "git-branch",
+      "category": "development",
+      "origin": "new",
+      "svg": "assets/svg/development/git-branch.svg",
+      "png": "assets/png/development/git-branch.png",
+      "png-light": "assets/png-light/development/git-branch.png"
+    },
+    {
+      "id": "git-branch-add",
+      "category": "development",
+      "origin": "state",
+      "svg": "assets/svg/development/git-branch-add.svg",
+      "png": "assets/png/development/git-branch-add.png",
+      "png-light": "assets/png-light/development/git-branch-add.png"
+    },
+    {
+      "id": "git-branch-check",
+      "category": "development",
+      "origin": "state",
+      "svg": "assets/svg/development/git-branch-check.svg",
+      "png": "assets/png/development/git-branch-check.png",
+      "png-light": "assets/png-light/development/git-branch-check.png"
+    },
+    {
+      "id": "git-branch-history",
+      "category": "development",
+      "origin": "state",
+      "svg": "assets/svg/development/git-branch-history.svg",
+      "png": "assets/png/development/git-branch-history.png",
+      "png-light": "assets/png-light/development/git-branch-history.png"
+    },
+    {
+      "id": "git-branch-lock",
+      "category": "development",
+      "origin": "state",
+      "svg": "assets/svg/development/git-branch-lock.svg",
+      "png": "assets/png/development/git-branch-lock.png",
+      "png-light": "assets/png-light/development/git-branch-lock.png"
+    },
+    {
+      "id": "git-branch-remove",
+      "category": "development",
+      "origin": "state",
+      "svg": "assets/svg/development/git-branch-remove.svg",
+      "png": "assets/png/development/git-branch-remove.png",
+      "png-light": "assets/png-light/development/git-branch-remove.png"
+    },
+    {
+      "id": "git-branch-search",
+      "category": "development",
+      "origin": "state",
+      "svg": "assets/svg/development/git-branch-search.svg",
+      "png": "assets/png/development/git-branch-search.png",
+      "png-light": "assets/png-light/development/git-branch-search.png"
+    },
+    {
+      "id": "git-commit",
+      "category": "development",
+      "origin": "new",
+      "svg": "assets/svg/development/git-commit.svg",
+      "png": "assets/png/development/git-commit.png",
+      "png-light": "assets/png-light/development/git-commit.png"
+    },
+    {
+      "id": "git-commit-check",
+      "category": "development",
+      "origin": "state",
+      "svg": "assets/svg/development/git-commit-check.svg",
+      "png": "assets/png/development/git-commit-check.png",
+      "png-light": "assets/png-light/development/git-commit-check.png"
+    },
+    {
+      "id": "git-commit-lock",
+      "category": "development",
+      "origin": "state",
+      "svg": "assets/svg/development/git-commit-lock.svg",
+      "png": "assets/png/development/git-commit-lock.png",
+      "png-light": "assets/png-light/development/git-commit-lock.png"
+    },
+    {
+      "id": "git-commit-restore",
+      "category": "development",
+      "origin": "state",
+      "svg": "assets/svg/development/git-commit-restore.svg",
+      "png": "assets/png/development/git-commit-restore.png",
+      "png-light": "assets/png-light/development/git-commit-restore.png"
+    },
+    {
+      "id": "git-commit-search",
+      "category": "development",
+      "origin": "state",
+      "svg": "assets/svg/development/git-commit-search.svg",
+      "png": "assets/png/development/git-commit-search.png",
+      "png-light": "assets/png-light/development/git-commit-search.png"
+    },
+    {
+      "id": "git-commit-warning",
+      "category": "development",
+      "origin": "state",
+      "svg": "assets/svg/development/git-commit-warning.svg",
+      "png": "assets/png/development/git-commit-warning.png",
+      "png-light": "assets/png-light/development/git-commit-warning.png"
+    },
+    {
+      "id": "git-merge",
+      "category": "development",
+      "origin": "new",
+      "svg": "assets/svg/development/git-merge.svg",
+      "png": "assets/png/development/git-merge.png",
+      "png-light": "assets/png-light/development/git-merge.png"
+    },
+    {
+      "id": "git-pull-request",
+      "category": "development",
+      "origin": "new",
+      "svg": "assets/svg/development/git-pull-request.svg",
+      "png": "assets/png/development/git-pull-request.png",
+      "png-light": "assets/png-light/development/git-pull-request.png"
+    },
+    {
+      "id": "git-pull-request-add",
+      "category": "development",
+      "origin": "state",
+      "svg": "assets/svg/development/git-pull-request-add.svg",
+      "png": "assets/png/development/git-pull-request-add.png",
+      "png-light": "assets/png-light/development/git-pull-request-add.png"
+    },
+    {
+      "id": "git-pull-request-check",
+      "category": "development",
+      "origin": "state",
+      "svg": "assets/svg/development/git-pull-request-check.svg",
+      "png": "assets/png/development/git-pull-request-check.png",
+      "png-light": "assets/png-light/development/git-pull-request-check.png"
+    },
+    {
+      "id": "git-pull-request-clock",
+      "category": "development",
+      "origin": "state",
+      "svg": "assets/svg/development/git-pull-request-clock.svg",
+      "png": "assets/png/development/git-pull-request-clock.png",
+      "png-light": "assets/png-light/development/git-pull-request-clock.png"
+    },
+    {
+      "id": "git-pull-request-close",
+      "category": "development",
+      "origin": "state",
+      "svg": "assets/svg/development/git-pull-request-close.svg",
+      "png": "assets/png/development/git-pull-request-close.png",
+      "png-light": "assets/png-light/development/git-pull-request-close.png"
+    },
+    {
+      "id": "git-pull-request-lock",
+      "category": "development",
+      "origin": "state",
+      "svg": "assets/svg/development/git-pull-request-lock.svg",
+      "png": "assets/png/development/git-pull-request-lock.png",
+      "png-light": "assets/png-light/development/git-pull-request-lock.png"
+    },
+    {
+      "id": "git-pull-request-warning",
+      "category": "development",
+      "origin": "state",
+      "svg": "assets/svg/development/git-pull-request-warning.svg",
+      "png": "assets/png/development/git-pull-request-warning.png",
+      "png-light": "assets/png-light/development/git-pull-request-warning.png"
+    },
+    {
+      "id": "github",
+      "category": "development",
+      "origin": "redrawn",
+      "svg": "assets/svg/development/github.svg",
+      "legacyName": "github",
+      "png": "assets/png/development/github.png",
+      "png-light": "assets/png-light/development/github.png"
+    },
+    {
+      "id": "launch",
+      "category": "development",
+      "origin": "redrawn",
+      "svg": "assets/svg/development/launch.svg",
+      "legacyName": "launch",
+      "png": "assets/png/development/launch.png",
+      "png-light": "assets/png-light/development/launch.png"
+    },
+    {
+      "id": "package-manager",
+      "category": "development",
+      "origin": "new",
+      "svg": "assets/svg/development/package-manager.svg",
+      "png": "assets/png/development/package-manager.png",
+      "png-light": "assets/png-light/development/package-manager.png"
+    },
+    {
+      "id": "pipeline",
+      "category": "development",
+      "origin": "new",
+      "svg": "assets/svg/development/pipeline.svg",
+      "png": "assets/png/development/pipeline.png",
+      "png-light": "assets/png-light/development/pipeline.png"
+    },
+    {
+      "id": "pipeline-check",
+      "category": "development",
+      "origin": "state",
+      "svg": "assets/svg/development/pipeline-check.svg",
+      "png": "assets/png/development/pipeline-check.png",
+      "png-light": "assets/png-light/development/pipeline-check.png"
+    },
+    {
+      "id": "pipeline-clock",
+      "category": "development",
+      "origin": "state",
+      "svg": "assets/svg/development/pipeline-clock.svg",
+      "png": "assets/png/development/pipeline-clock.png",
+      "png-light": "assets/png-light/development/pipeline-clock.png"
+    },
+    {
+      "id": "pipeline-pause",
+      "category": "development",
+      "origin": "state",
+      "svg": "assets/svg/development/pipeline-pause.svg",
+      "png": "assets/png/development/pipeline-pause.png",
+      "png-light": "assets/png-light/development/pipeline-pause.png"
+    },
+    {
+      "id": "pipeline-play",
+      "category": "development",
+      "origin": "state",
+      "svg": "assets/svg/development/pipeline-play.svg",
+      "png": "assets/png/development/pipeline-play.png",
+      "png-light": "assets/png-light/development/pipeline-play.png"
+    },
+    {
+      "id": "pipeline-restore",
+      "category": "development",
+      "origin": "state",
+      "svg": "assets/svg/development/pipeline-restore.svg",
+      "png": "assets/png/development/pipeline-restore.png",
+      "png-light": "assets/png-light/development/pipeline-restore.png"
+    },
+    {
+      "id": "pipeline-warning",
+      "category": "development",
+      "origin": "state",
+      "svg": "assets/svg/development/pipeline-warning.svg",
+      "png": "assets/png/development/pipeline-warning.png",
+      "png-light": "assets/png-light/development/pipeline-warning.png"
+    },
+    {
+      "id": "projects",
+      "category": "development",
+      "origin": "refined",
+      "svg": "assets/svg/development/projects.svg",
+      "legacyName": "projects",
+      "png": "assets/png/development/projects.png",
+      "png-light": "assets/png-light/development/projects.png"
+    },
+    {
+      "id": "regex",
+      "category": "development",
+      "origin": "new",
+      "svg": "assets/svg/development/regex.svg",
+      "png": "assets/png/development/regex.png",
+      "png-light": "assets/png-light/development/regex.png"
+    },
+    {
+      "id": "sandbox",
+      "category": "development",
+      "origin": "new",
+      "svg": "assets/svg/development/sandbox.svg",
+      "png": "assets/png/development/sandbox.png",
+      "png-light": "assets/png-light/development/sandbox.png"
+    },
+    {
+      "id": "script",
+      "category": "development",
+      "origin": "new",
+      "svg": "assets/svg/development/script.svg",
+      "png": "assets/png/development/script.png",
+      "png-light": "assets/png-light/development/script.png"
+    },
+    {
+      "id": "terminal",
+      "category": "development",
+      "origin": "new",
+      "svg": "assets/svg/development/terminal.svg",
+      "png": "assets/png/development/terminal.png",
+      "png-light": "assets/png-light/development/terminal.png"
+    },
+    {
+      "id": "terminal-add",
+      "category": "development",
+      "origin": "state",
+      "svg": "assets/svg/development/terminal-add.svg",
+      "png": "assets/png/development/terminal-add.png",
+      "png-light": "assets/png-light/development/terminal-add.png"
+    },
+    {
+      "id": "terminal-check",
+      "category": "development",
+      "origin": "state",
+      "svg": "assets/svg/development/terminal-check.svg",
+      "png": "assets/png/development/terminal-check.png",
+      "png-light": "assets/png-light/development/terminal-check.png"
+    },
+    {
+      "id": "terminal-lock",
+      "category": "development",
+      "origin": "state",
+      "svg": "assets/svg/development/terminal-lock.svg",
+      "png": "assets/png/development/terminal-lock.png",
+      "png-light": "assets/png-light/development/terminal-lock.png"
+    },
+    {
+      "id": "terminal-search",
+      "category": "development",
+      "origin": "state",
+      "svg": "assets/svg/development/terminal-search.svg",
+      "png": "assets/png/development/terminal-search.png",
+      "png-light": "assets/png-light/development/terminal-search.png"
+    },
+    {
+      "id": "terminal-warning",
+      "category": "development",
+      "origin": "state",
+      "svg": "assets/svg/development/terminal-warning.svg",
+      "png": "assets/png/development/terminal-warning.png",
+      "png-light": "assets/png-light/development/terminal-warning.png"
+    },
+    {
+      "id": "test-tube",
+      "category": "development",
+      "origin": "new",
+      "svg": "assets/svg/development/test-tube.svg",
+      "png": "assets/png/development/test-tube.png",
+      "png-light": "assets/png-light/development/test-tube.png"
+    },
+    {
+      "id": "variable",
+      "category": "development",
+      "origin": "new",
+      "svg": "assets/svg/development/variable.svg",
+      "png": "assets/png/development/variable.png",
+      "png-light": "assets/png-light/development/variable.png"
+    },
+    {
+      "id": "webhook",
+      "category": "development",
+      "origin": "new",
+      "svg": "assets/svg/development/webhook.svg",
+      "png": "assets/png/development/webhook.png",
+      "png-light": "assets/png-light/development/webhook.png"
+    },
+    {
+      "id": "webhook-add",
+      "category": "development",
+      "origin": "state",
+      "svg": "assets/svg/development/webhook-add.svg",
+      "png": "assets/png/development/webhook-add.png",
+      "png-light": "assets/png-light/development/webhook-add.png"
+    },
+    {
+      "id": "webhook-check",
+      "category": "development",
+      "origin": "state",
+      "svg": "assets/svg/development/webhook-check.svg",
+      "png": "assets/png/development/webhook-check.png",
+      "png-light": "assets/png-light/development/webhook-check.png"
+    },
+    {
+      "id": "webhook-clock",
+      "category": "development",
+      "origin": "state",
+      "svg": "assets/svg/development/webhook-clock.svg",
+      "png": "assets/png/development/webhook-clock.png",
+      "png-light": "assets/png-light/development/webhook-clock.png"
+    },
+    {
+      "id": "webhook-lock",
+      "category": "development",
+      "origin": "state",
+      "svg": "assets/svg/development/webhook-lock.svg",
+      "png": "assets/png/development/webhook-lock.png",
+      "png-light": "assets/png-light/development/webhook-lock.png"
+    },
+    {
+      "id": "webhook-warning",
+      "category": "development",
+      "origin": "state",
+      "svg": "assets/svg/development/webhook-warning.svg",
+      "png": "assets/png/development/webhook-warning.png",
+      "png-light": "assets/png-light/development/webhook-warning.png"
+    },
+    {
+      "id": "workflow",
+      "category": "development",
+      "origin": "new",
+      "svg": "assets/svg/development/workflow.svg",
+      "png": "assets/png/development/workflow.png",
+      "png-light": "assets/png-light/development/workflow.png"
+    },
+    {
+      "id": "battery",
+      "category": "devices",
+      "origin": "new",
+      "svg": "assets/svg/devices/battery.svg",
+      "png": "assets/png/devices/battery.png",
+      "png-light": "assets/png-light/devices/battery.png"
+    },
+    {
+      "id": "battery-charge",
+      "category": "devices",
+      "origin": "state",
+      "svg": "assets/svg/devices/battery-charge.svg",
+      "png": "assets/png/devices/battery-charge.png",
+      "png-light": "assets/png-light/devices/battery-charge.png"
+    },
+    {
+      "id": "battery-check",
+      "category": "devices",
+      "origin": "state",
+      "svg": "assets/svg/devices/battery-check.svg",
+      "png": "assets/png/devices/battery-check.png",
+      "png-light": "assets/png-light/devices/battery-check.png"
+    },
+    {
+      "id": "battery-off",
+      "category": "devices",
+      "origin": "state",
+      "svg": "assets/svg/devices/battery-off.svg",
+      "png": "assets/png/devices/battery-off.png",
+      "png-light": "assets/png-light/devices/battery-off.png"
+    },
+    {
+      "id": "battery-warning",
+      "category": "devices",
+      "origin": "state",
+      "svg": "assets/svg/devices/battery-warning.svg",
+      "png": "assets/png/devices/battery-warning.png",
+      "png-light": "assets/png-light/devices/battery-warning.png"
+    },
+    {
+      "id": "camera",
+      "category": "devices",
+      "origin": "new",
+      "svg": "assets/svg/devices/camera.svg",
+      "png": "assets/png/devices/camera.png",
+      "png-light": "assets/png-light/devices/camera.png"
+    },
+    {
+      "id": "camera-add",
+      "category": "devices",
+      "origin": "state",
+      "svg": "assets/svg/devices/camera-add.svg",
+      "png": "assets/png/devices/camera-add.png",
+      "png-light": "assets/png-light/devices/camera-add.png"
+    },
+    {
+      "id": "camera-check",
+      "category": "devices",
+      "origin": "state",
+      "svg": "assets/svg/devices/camera-check.svg",
+      "png": "assets/png/devices/camera-check.png",
+      "png-light": "assets/png-light/devices/camera-check.png"
+    },
+    {
+      "id": "camera-lock",
+      "category": "devices",
+      "origin": "state",
+      "svg": "assets/svg/devices/camera-lock.svg",
+      "png": "assets/png/devices/camera-lock.png",
+      "png-light": "assets/png-light/devices/camera-lock.png"
+    },
+    {
+      "id": "camera-off",
+      "category": "devices",
+      "origin": "state",
+      "svg": "assets/svg/devices/camera-off.svg",
+      "png": "assets/png/devices/camera-off.png",
+      "png-light": "assets/png-light/devices/camera-off.png"
+    },
+    {
+      "id": "camera-warning",
+      "category": "devices",
+      "origin": "state",
+      "svg": "assets/svg/devices/camera-warning.svg",
+      "png": "assets/png/devices/camera-warning.png",
+      "png-light": "assets/png-light/devices/camera-warning.png"
+    },
+    {
+      "id": "desktop",
+      "category": "devices",
+      "origin": "new",
+      "svg": "assets/svg/devices/desktop.svg",
+      "png": "assets/png/devices/desktop.png",
+      "png-light": "assets/png-light/devices/desktop.png"
+    },
+    {
+      "id": "desktop-add",
+      "category": "devices",
+      "origin": "state",
+      "svg": "assets/svg/devices/desktop-add.svg",
+      "png": "assets/png/devices/desktop-add.png",
+      "png-light": "assets/png-light/devices/desktop-add.png"
+    },
+    {
+      "id": "desktop-check",
+      "category": "devices",
+      "origin": "state",
+      "svg": "assets/svg/devices/desktop-check.svg",
+      "png": "assets/png/devices/desktop-check.png",
+      "png-light": "assets/png-light/devices/desktop-check.png"
+    },
+    {
+      "id": "desktop-lock",
+      "category": "devices",
+      "origin": "state",
+      "svg": "assets/svg/devices/desktop-lock.svg",
+      "png": "assets/png/devices/desktop-lock.png",
+      "png-light": "assets/png-light/devices/desktop-lock.png"
+    },
+    {
+      "id": "desktop-off",
+      "category": "devices",
+      "origin": "state",
+      "svg": "assets/svg/devices/desktop-off.svg",
+      "png": "assets/png/devices/desktop-off.png",
+      "png-light": "assets/png-light/devices/desktop-off.png"
+    },
+    {
+      "id": "desktop-share",
+      "category": "devices",
+      "origin": "state",
+      "svg": "assets/svg/devices/desktop-share.svg",
+      "png": "assets/png/devices/desktop-share.png",
+      "png-light": "assets/png-light/devices/desktop-share.png"
+    },
+    {
+      "id": "desktop-warning",
+      "category": "devices",
+      "origin": "state",
+      "svg": "assets/svg/devices/desktop-warning.svg",
+      "png": "assets/png/devices/desktop-warning.png",
+      "png-light": "assets/png-light/devices/desktop-warning.png"
+    },
+    {
+      "id": "gpu-rig",
+      "category": "devices",
+      "origin": "refined",
+      "svg": "assets/svg/devices/gpu-rig.svg",
+      "legacyName": "gpu_rig",
+      "png": "assets/png/devices/gpu-rig.png",
+      "png-light": "assets/png-light/devices/gpu-rig.png"
+    },
+    {
+      "id": "headphones",
+      "category": "devices",
+      "origin": "new",
+      "svg": "assets/svg/devices/headphones.svg",
+      "png": "assets/png/devices/headphones.png",
+      "png-light": "assets/png-light/devices/headphones.png"
+    },
+    {
+      "id": "keyboard",
+      "category": "devices",
+      "origin": "new",
+      "svg": "assets/svg/devices/keyboard.svg",
+      "png": "assets/png/devices/keyboard.png",
+      "png-light": "assets/png-light/devices/keyboard.png"
+    },
+    {
+      "id": "laptop",
+      "category": "devices",
+      "origin": "new",
+      "svg": "assets/svg/devices/laptop.svg",
+      "png": "assets/png/devices/laptop.png",
+      "png-light": "assets/png-light/devices/laptop.png"
+    },
+    {
+      "id": "laptop-add",
+      "category": "devices",
+      "origin": "state",
+      "svg": "assets/svg/devices/laptop-add.svg",
+      "png": "assets/png/devices/laptop-add.png",
+      "png-light": "assets/png-light/devices/laptop-add.png"
+    },
+    {
+      "id": "laptop-check",
+      "category": "devices",
+      "origin": "state",
+      "svg": "assets/svg/devices/laptop-check.svg",
+      "png": "assets/png/devices/laptop-check.png",
+      "png-light": "assets/png-light/devices/laptop-check.png"
+    },
+    {
+      "id": "laptop-lock",
+      "category": "devices",
+      "origin": "state",
+      "svg": "assets/svg/devices/laptop-lock.svg",
+      "png": "assets/png/devices/laptop-lock.png",
+      "png-light": "assets/png-light/devices/laptop-lock.png"
+    },
+    {
+      "id": "laptop-off",
+      "category": "devices",
+      "origin": "state",
+      "svg": "assets/svg/devices/laptop-off.svg",
+      "png": "assets/png/devices/laptop-off.png",
+      "png-light": "assets/png-light/devices/laptop-off.png"
+    },
+    {
+      "id": "laptop-warning",
+      "category": "devices",
+      "origin": "state",
+      "svg": "assets/svg/devices/laptop-warning.svg",
+      "png": "assets/png/devices/laptop-warning.png",
+      "png-light": "assets/png-light/devices/laptop-warning.png"
+    },
+    {
+      "id": "microphone",
+      "category": "devices",
+      "origin": "new",
+      "svg": "assets/svg/devices/microphone.svg",
+      "png": "assets/png/devices/microphone.png",
+      "png-light": "assets/png-light/devices/microphone.png"
+    },
+    {
+      "id": "microphone-add",
+      "category": "devices",
+      "origin": "state",
+      "svg": "assets/svg/devices/microphone-add.svg",
+      "png": "assets/png/devices/microphone-add.png",
+      "png-light": "assets/png-light/devices/microphone-add.png"
+    },
+    {
+      "id": "microphone-check",
+      "category": "devices",
+      "origin": "state",
+      "svg": "assets/svg/devices/microphone-check.svg",
+      "png": "assets/png/devices/microphone-check.png",
+      "png-light": "assets/png-light/devices/microphone-check.png"
+    },
+    {
+      "id": "microphone-lock",
+      "category": "devices",
+      "origin": "state",
+      "svg": "assets/svg/devices/microphone-lock.svg",
+      "png": "assets/png/devices/microphone-lock.png",
+      "png-light": "assets/png-light/devices/microphone-lock.png"
+    },
+    {
+      "id": "microphone-mute",
+      "category": "devices",
+      "origin": "state",
+      "svg": "assets/svg/devices/microphone-mute.svg",
+      "png": "assets/png/devices/microphone-mute.png",
+      "png-light": "assets/png-light/devices/microphone-mute.png"
+    },
+    {
+      "id": "microphone-warning",
+      "category": "devices",
+      "origin": "state",
+      "svg": "assets/svg/devices/microphone-warning.svg",
+      "png": "assets/png/devices/microphone-warning.png",
+      "png-light": "assets/png-light/devices/microphone-warning.png"
+    },
+    {
+      "id": "mouse",
+      "category": "devices",
+      "origin": "new",
+      "svg": "assets/svg/devices/mouse.svg",
+      "png": "assets/png/devices/mouse.png",
+      "png-light": "assets/png-light/devices/mouse.png"
+    },
+    {
+      "id": "plug",
+      "category": "devices",
+      "origin": "new",
+      "svg": "assets/svg/devices/plug.svg",
+      "png": "assets/png/devices/plug.png",
+      "png-light": "assets/png-light/devices/plug.png"
+    },
+    {
+      "id": "printer",
+      "category": "devices",
+      "origin": "new",
+      "svg": "assets/svg/devices/printer.svg",
+      "png": "assets/png/devices/printer.png",
+      "png-light": "assets/png-light/devices/printer.png"
+    },
+    {
+      "id": "printer-add",
+      "category": "devices",
+      "origin": "state",
+      "svg": "assets/svg/devices/printer-add.svg",
+      "png": "assets/png/devices/printer-add.png",
+      "png-light": "assets/png-light/devices/printer-add.png"
+    },
+    {
+      "id": "printer-check",
+      "category": "devices",
+      "origin": "state",
+      "svg": "assets/svg/devices/printer-check.svg",
+      "png": "assets/png/devices/printer-check.png",
+      "png-light": "assets/png-light/devices/printer-check.png"
+    },
+    {
+      "id": "printer-off",
+      "category": "devices",
+      "origin": "state",
+      "svg": "assets/svg/devices/printer-off.svg",
+      "png": "assets/png/devices/printer-off.png",
+      "png-light": "assets/png-light/devices/printer-off.png"
+    },
+    {
+      "id": "printer-pause",
+      "category": "devices",
+      "origin": "state",
+      "svg": "assets/svg/devices/printer-pause.svg",
+      "png": "assets/png/devices/printer-pause.png",
+      "png-light": "assets/png-light/devices/printer-pause.png"
+    },
+    {
+      "id": "printer-warning",
+      "category": "devices",
+      "origin": "state",
+      "svg": "assets/svg/devices/printer-warning.svg",
+      "png": "assets/png/devices/printer-warning.png",
+      "png-light": "assets/png-light/devices/printer-warning.png"
+    },
+    {
+      "id": "smartphone",
+      "category": "devices",
+      "origin": "new",
+      "svg": "assets/svg/devices/smartphone.svg",
+      "png": "assets/png/devices/smartphone.png",
+      "png-light": "assets/png-light/devices/smartphone.png"
+    },
+    {
+      "id": "smartphone-add",
+      "category": "devices",
+      "origin": "state",
+      "svg": "assets/svg/devices/smartphone-add.svg",
+      "png": "assets/png/devices/smartphone-add.png",
+      "png-light": "assets/png-light/devices/smartphone-add.png"
+    },
+    {
+      "id": "smartphone-check",
+      "category": "devices",
+      "origin": "state",
+      "svg": "assets/svg/devices/smartphone-check.svg",
+      "png": "assets/png/devices/smartphone-check.png",
+      "png-light": "assets/png-light/devices/smartphone-check.png"
+    },
+    {
+      "id": "smartphone-lock",
+      "category": "devices",
+      "origin": "state",
+      "svg": "assets/svg/devices/smartphone-lock.svg",
+      "png": "assets/png/devices/smartphone-lock.png",
+      "png-light": "assets/png-light/devices/smartphone-lock.png"
+    },
+    {
+      "id": "smartphone-off",
+      "category": "devices",
+      "origin": "state",
+      "svg": "assets/svg/devices/smartphone-off.svg",
+      "png": "assets/png/devices/smartphone-off.png",
+      "png-light": "assets/png-light/devices/smartphone-off.png"
+    },
+    {
+      "id": "smartphone-warning",
+      "category": "devices",
+      "origin": "state",
+      "svg": "assets/svg/devices/smartphone-warning.svg",
+      "png": "assets/png/devices/smartphone-warning.png",
+      "png-light": "assets/png-light/devices/smartphone-warning.png"
+    },
+    {
+      "id": "speaker",
+      "category": "devices",
+      "origin": "new",
+      "svg": "assets/svg/devices/speaker.svg",
+      "png": "assets/png/devices/speaker.png",
+      "png-light": "assets/png-light/devices/speaker.png"
+    },
+    {
+      "id": "tablet",
+      "category": "devices",
+      "origin": "new",
+      "svg": "assets/svg/devices/tablet.svg",
+      "png": "assets/png/devices/tablet.png",
+      "png-light": "assets/png-light/devices/tablet.png"
+    },
+    {
+      "id": "usb",
+      "category": "devices",
+      "origin": "new",
+      "svg": "assets/svg/devices/usb.svg",
+      "png": "assets/png/devices/usb.png",
+      "png-light": "assets/png-light/devices/usb.png"
+    },
+    {
+      "id": "watch",
+      "category": "devices",
+      "origin": "new",
+      "svg": "assets/svg/devices/watch.svg",
+      "png": "assets/png/devices/watch.png",
+      "png-light": "assets/png-light/devices/watch.png"
+    },
+    {
+      "id": "webcam",
+      "category": "devices",
+      "origin": "new",
+      "svg": "assets/svg/devices/webcam.svg",
+      "png": "assets/png/devices/webcam.png",
+      "png-light": "assets/png-light/devices/webcam.png"
+    },
+    {
+      "id": "book",
+      "category": "education",
+      "origin": "new",
+      "svg": "assets/svg/education/book.svg",
+      "png": "assets/png/education/book.png",
+      "png-light": "assets/png-light/education/book.png"
+    },
+    {
+      "id": "book-add",
+      "category": "education",
+      "origin": "state",
+      "svg": "assets/svg/education/book-add.svg",
+      "png": "assets/png/education/book-add.png",
+      "png-light": "assets/png-light/education/book-add.png"
+    },
+    {
+      "id": "book-check",
+      "category": "education",
+      "origin": "state",
+      "svg": "assets/svg/education/book-check.svg",
+      "png": "assets/png/education/book-check.png",
+      "png-light": "assets/png-light/education/book-check.png"
+    },
+    {
+      "id": "book-download",
+      "category": "education",
+      "origin": "state",
+      "svg": "assets/svg/education/book-download.svg",
+      "png": "assets/png/education/book-download.png",
+      "png-light": "assets/png-light/education/book-download.png"
+    },
+    {
+      "id": "book-edit",
+      "category": "education",
+      "origin": "state",
+      "svg": "assets/svg/education/book-edit.svg",
+      "png": "assets/png/education/book-edit.png",
+      "png-light": "assets/png-light/education/book-edit.png"
+    },
+    {
+      "id": "book-favorite",
+      "category": "education",
+      "origin": "state",
+      "svg": "assets/svg/education/book-favorite.svg",
+      "png": "assets/png/education/book-favorite.png",
+      "png-light": "assets/png-light/education/book-favorite.png"
+    },
+    {
+      "id": "book-lock",
+      "category": "education",
+      "origin": "state",
+      "svg": "assets/svg/education/book-lock.svg",
+      "png": "assets/png/education/book-lock.png",
+      "png-light": "assets/png-light/education/book-lock.png"
+    },
+    {
+      "id": "book-search",
+      "category": "education",
+      "origin": "state",
+      "svg": "assets/svg/education/book-search.svg",
+      "png": "assets/png/education/book-search.png",
+      "png-light": "assets/png-light/education/book-search.png"
+    },
+    {
+      "id": "calculator",
+      "category": "education",
+      "origin": "new",
+      "svg": "assets/svg/education/calculator.svg",
+      "png": "assets/png/education/calculator.png",
+      "png-light": "assets/png-light/education/calculator.png"
+    },
+    {
+      "id": "graduation",
+      "category": "education",
+      "origin": "new",
+      "svg": "assets/svg/education/graduation.svg",
+      "png": "assets/png/education/graduation.png",
+      "png-light": "assets/png-light/education/graduation.png"
+    },
+    {
+      "id": "microscope",
+      "category": "education",
+      "origin": "new",
+      "svg": "assets/svg/education/microscope.svg",
+      "png": "assets/png/education/microscope.png",
+      "png-light": "assets/png-light/education/microscope.png"
+    },
+    {
+      "id": "pencil",
+      "category": "education",
+      "origin": "new",
+      "svg": "assets/svg/education/pencil.svg",
+      "png": "assets/png/education/pencil.png",
+      "png-light": "assets/png-light/education/pencil.png"
+    },
+    {
+      "id": "whiteboard",
+      "category": "education",
+      "origin": "new",
+      "svg": "assets/svg/education/whiteboard.svg",
+      "png": "assets/png/education/whiteboard.png",
+      "png-light": "assets/png-light/education/whiteboard.png"
+    },
+    {
+      "id": "archive",
+      "category": "files",
+      "origin": "new",
+      "svg": "assets/svg/files/archive.svg",
+      "png": "assets/png/files/archive.png",
+      "png-light": "assets/png-light/files/archive.png"
+    },
+    {
+      "id": "archive-add",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/archive-add.svg",
+      "png": "assets/png/files/archive-add.png",
+      "png-light": "assets/png-light/files/archive-add.png"
+    },
+    {
+      "id": "archive-check",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/archive-check.svg",
+      "png": "assets/png/files/archive-check.png",
+      "png-light": "assets/png-light/files/archive-check.png"
+    },
+    {
+      "id": "archive-download",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/archive-download.svg",
+      "png": "assets/png/files/archive-download.png",
+      "png-light": "assets/png-light/files/archive-download.png"
+    },
+    {
+      "id": "archive-lock",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/archive-lock.svg",
+      "png": "assets/png/files/archive-lock.png",
+      "png-light": "assets/png-light/files/archive-lock.png"
+    },
+    {
+      "id": "archive-restore",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/archive-restore.svg",
+      "png": "assets/png/files/archive-restore.png",
+      "png-light": "assets/png-light/files/archive-restore.png"
+    },
+    {
+      "id": "archive-search",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/archive-search.svg",
+      "png": "assets/png/files/archive-search.png",
+      "png-light": "assets/png-light/files/archive-search.png"
+    },
+    {
+      "id": "archive-warning",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/archive-warning.svg",
+      "png": "assets/png/files/archive-warning.png",
+      "png-light": "assets/png-light/files/archive-warning.png"
+    },
+    {
+      "id": "clipboard",
+      "category": "files",
+      "origin": "new",
+      "svg": "assets/svg/files/clipboard.svg",
+      "png": "assets/png/files/clipboard.png",
+      "png-light": "assets/png-light/files/clipboard.png"
+    },
+    {
+      "id": "clipboard-add",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/clipboard-add.svg",
+      "png": "assets/png/files/clipboard-add.png",
+      "png-light": "assets/png-light/files/clipboard-add.png"
+    },
+    {
+      "id": "clipboard-check",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/clipboard-check.svg",
+      "png": "assets/png/files/clipboard-check.png",
+      "png-light": "assets/png-light/files/clipboard-check.png"
+    },
+    {
+      "id": "clipboard-edit",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/clipboard-edit.svg",
+      "png": "assets/png/files/clipboard-edit.png",
+      "png-light": "assets/png-light/files/clipboard-edit.png"
+    },
+    {
+      "id": "clipboard-history",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/clipboard-history.svg",
+      "png": "assets/png/files/clipboard-history.png",
+      "png-light": "assets/png-light/files/clipboard-history.png"
+    },
+    {
+      "id": "clipboard-search",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/clipboard-search.svg",
+      "png": "assets/png/files/clipboard-search.png",
+      "png-light": "assets/png-light/files/clipboard-search.png"
+    },
+    {
+      "id": "clipboard-share",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/clipboard-share.svg",
+      "png": "assets/png/files/clipboard-share.png",
+      "png-light": "assets/png-light/files/clipboard-share.png"
+    },
+    {
+      "id": "database",
+      "category": "files",
+      "origin": "new",
+      "svg": "assets/svg/files/database.svg",
+      "png": "assets/png/files/database.png",
+      "png-light": "assets/png-light/files/database.png"
+    },
+    {
+      "id": "database-add",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/database-add.svg",
+      "png": "assets/png/files/database-add.png",
+      "png-light": "assets/png-light/files/database-add.png"
+    },
+    {
+      "id": "database-check",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/database-check.svg",
+      "png": "assets/png/files/database-check.png",
+      "png-light": "assets/png-light/files/database-check.png"
+    },
+    {
+      "id": "database-download",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/database-download.svg",
+      "png": "assets/png/files/database-download.png",
+      "png-light": "assets/png-light/files/database-download.png"
+    },
+    {
+      "id": "database-edit",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/database-edit.svg",
+      "png": "assets/png/files/database-edit.png",
+      "png-light": "assets/png-light/files/database-edit.png"
+    },
+    {
+      "id": "database-history",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/database-history.svg",
+      "png": "assets/png/files/database-history.png",
+      "png-light": "assets/png-light/files/database-history.png"
+    },
+    {
+      "id": "database-lock",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/database-lock.svg",
+      "png": "assets/png/files/database-lock.png",
+      "png-light": "assets/png-light/files/database-lock.png"
+    },
+    {
+      "id": "database-remove",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/database-remove.svg",
+      "png": "assets/png/files/database-remove.png",
+      "png-light": "assets/png-light/files/database-remove.png"
+    },
+    {
+      "id": "database-restore",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/database-restore.svg",
+      "png": "assets/png/files/database-restore.png",
+      "png-light": "assets/png-light/files/database-restore.png"
+    },
+    {
+      "id": "database-search",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/database-search.svg",
+      "png": "assets/png/files/database-search.png",
+      "png-light": "assets/png-light/files/database-search.png"
+    },
+    {
+      "id": "database-upload",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/database-upload.svg",
+      "png": "assets/png/files/database-upload.png",
+      "png-light": "assets/png-light/files/database-upload.png"
+    },
+    {
+      "id": "database-warning",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/database-warning.svg",
+      "png": "assets/png/files/database-warning.png",
+      "png-light": "assets/png-light/files/database-warning.png"
+    },
+    {
+      "id": "documentation",
+      "category": "files",
+      "origin": "refined",
+      "svg": "assets/svg/files/documentation.svg",
+      "legacyName": "documentation",
+      "png": "assets/png/files/documentation.png",
+      "png-light": "assets/png-light/files/documentation.png"
+    },
+    {
+      "id": "download",
+      "category": "files",
+      "origin": "refined",
+      "svg": "assets/svg/files/download.svg",
+      "legacyName": "download",
+      "png": "assets/png/files/download.png",
+      "png-light": "assets/png-light/files/download.png"
+    },
+    {
+      "id": "file",
+      "category": "files",
+      "origin": "new",
+      "svg": "assets/svg/files/file.svg",
+      "png": "assets/png/files/file.png",
+      "png-light": "assets/png-light/files/file.png"
+    },
+    {
+      "id": "file-add",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/file-add.svg",
+      "png": "assets/png/files/file-add.png",
+      "png-light": "assets/png-light/files/file-add.png"
+    },
+    {
+      "id": "file-audio",
+      "category": "files",
+      "origin": "new",
+      "svg": "assets/svg/files/file-audio.svg",
+      "png": "assets/png/files/file-audio.png",
+      "png-light": "assets/png-light/files/file-audio.png"
+    },
+    {
+      "id": "file-audio-add",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/file-audio-add.svg",
+      "png": "assets/png/files/file-audio-add.png",
+      "png-light": "assets/png-light/files/file-audio-add.png"
+    },
+    {
+      "id": "file-audio-check",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/file-audio-check.svg",
+      "png": "assets/png/files/file-audio-check.png",
+      "png-light": "assets/png-light/files/file-audio-check.png"
+    },
+    {
+      "id": "file-audio-download",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/file-audio-download.svg",
+      "png": "assets/png/files/file-audio-download.png",
+      "png-light": "assets/png-light/files/file-audio-download.png"
+    },
+    {
+      "id": "file-audio-mute",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/file-audio-mute.svg",
+      "png": "assets/png/files/file-audio-mute.png",
+      "png-light": "assets/png-light/files/file-audio-mute.png"
+    },
+    {
+      "id": "file-audio-play",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/file-audio-play.svg",
+      "png": "assets/png/files/file-audio-play.png",
+      "png-light": "assets/png-light/files/file-audio-play.png"
+    },
+    {
+      "id": "file-audio-upload",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/file-audio-upload.svg",
+      "png": "assets/png/files/file-audio-upload.png",
+      "png-light": "assets/png-light/files/file-audio-upload.png"
+    },
+    {
+      "id": "file-binary",
+      "category": "files",
+      "origin": "new",
+      "svg": "assets/svg/files/file-binary.svg",
+      "png": "assets/png/files/file-binary.png",
+      "png-light": "assets/png-light/files/file-binary.png"
+    },
+    {
+      "id": "file-check",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/file-check.svg",
+      "png": "assets/png/files/file-check.png",
+      "png-light": "assets/png-light/files/file-check.png"
+    },
+    {
+      "id": "file-code",
+      "category": "files",
+      "origin": "new",
+      "svg": "assets/svg/files/file-code.svg",
+      "png": "assets/png/files/file-code.png",
+      "png-light": "assets/png-light/files/file-code.png"
+    },
+    {
+      "id": "file-compare",
+      "category": "files",
+      "origin": "new",
+      "svg": "assets/svg/files/file-compare.svg",
+      "png": "assets/png/files/file-compare.png",
+      "png-light": "assets/png-light/files/file-compare.png"
+    },
+    {
+      "id": "file-download",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/file-download.svg",
+      "png": "assets/png/files/file-download.png",
+      "png-light": "assets/png-light/files/file-download.png"
+    },
+    {
+      "id": "file-edit",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/file-edit.svg",
+      "png": "assets/png/files/file-edit.png",
+      "png-light": "assets/png-light/files/file-edit.png"
+    },
+    {
+      "id": "file-export",
+      "category": "files",
+      "origin": "new",
+      "svg": "assets/svg/files/file-export.svg",
+      "png": "assets/png/files/file-export.png",
+      "png-light": "assets/png-light/files/file-export.png"
+    },
+    {
+      "id": "file-favorite",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/file-favorite.svg",
+      "png": "assets/png/files/file-favorite.png",
+      "png-light": "assets/png-light/files/file-favorite.png"
+    },
+    {
+      "id": "file-history",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/file-history.svg",
+      "png": "assets/png/files/file-history.png",
+      "png-light": "assets/png-light/files/file-history.png"
+    },
+    {
+      "id": "file-image",
+      "category": "files",
+      "origin": "new",
+      "svg": "assets/svg/files/file-image.svg",
+      "png": "assets/png/files/file-image.png",
+      "png-light": "assets/png-light/files/file-image.png"
+    },
+    {
+      "id": "file-image-add",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/file-image-add.svg",
+      "png": "assets/png/files/file-image-add.png",
+      "png-light": "assets/png-light/files/file-image-add.png"
+    },
+    {
+      "id": "file-image-check",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/file-image-check.svg",
+      "png": "assets/png/files/file-image-check.png",
+      "png-light": "assets/png-light/files/file-image-check.png"
+    },
+    {
+      "id": "file-image-download",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/file-image-download.svg",
+      "png": "assets/png/files/file-image-download.png",
+      "png-light": "assets/png-light/files/file-image-download.png"
+    },
+    {
+      "id": "file-image-edit",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/file-image-edit.svg",
+      "png": "assets/png/files/file-image-edit.png",
+      "png-light": "assets/png-light/files/file-image-edit.png"
+    },
+    {
+      "id": "file-image-favorite",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/file-image-favorite.svg",
+      "png": "assets/png/files/file-image-favorite.png",
+      "png-light": "assets/png-light/files/file-image-favorite.png"
+    },
+    {
+      "id": "file-image-upload",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/file-image-upload.svg",
+      "png": "assets/png/files/file-image-upload.png",
+      "png-light": "assets/png-light/files/file-image-upload.png"
+    },
+    {
+      "id": "file-image-warning",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/file-image-warning.svg",
+      "png": "assets/png/files/file-image-warning.png",
+      "png-light": "assets/png-light/files/file-image-warning.png"
+    },
+    {
+      "id": "file-import",
+      "category": "files",
+      "origin": "new",
+      "svg": "assets/svg/files/file-import.svg",
+      "png": "assets/png/files/file-import.png",
+      "png-light": "assets/png-light/files/file-import.png"
+    },
+    {
+      "id": "file-lock",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/file-lock.svg",
+      "png": "assets/png/files/file-lock.png",
+      "png-light": "assets/png-light/files/file-lock.png"
+    },
+    {
+      "id": "file-remove",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/file-remove.svg",
+      "png": "assets/png/files/file-remove.png",
+      "png-light": "assets/png-light/files/file-remove.png"
+    },
+    {
+      "id": "file-search",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/file-search.svg",
+      "png": "assets/png/files/file-search.png",
+      "png-light": "assets/png-light/files/file-search.png"
+    },
+    {
+      "id": "file-share",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/file-share.svg",
+      "png": "assets/png/files/file-share.png",
+      "png-light": "assets/png-light/files/file-share.png"
+    },
+    {
+      "id": "file-signature",
+      "category": "files",
+      "origin": "new",
+      "svg": "assets/svg/files/file-signature.svg",
+      "png": "assets/png/files/file-signature.png",
+      "png-light": "assets/png-light/files/file-signature.png"
+    },
+    {
+      "id": "file-table",
+      "category": "files",
+      "origin": "new",
+      "svg": "assets/svg/files/file-table.svg",
+      "png": "assets/png/files/file-table.png",
+      "png-light": "assets/png-light/files/file-table.png"
+    },
+    {
+      "id": "file-table-add",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/file-table-add.svg",
+      "png": "assets/png/files/file-table-add.png",
+      "png-light": "assets/png-light/files/file-table-add.png"
+    },
+    {
+      "id": "file-table-check",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/file-table-check.svg",
+      "png": "assets/png/files/file-table-check.png",
+      "png-light": "assets/png-light/files/file-table-check.png"
+    },
+    {
+      "id": "file-table-download",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/file-table-download.svg",
+      "png": "assets/png/files/file-table-download.png",
+      "png-light": "assets/png-light/files/file-table-download.png"
+    },
+    {
+      "id": "file-table-edit",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/file-table-edit.svg",
+      "png": "assets/png/files/file-table-edit.png",
+      "png-light": "assets/png-light/files/file-table-edit.png"
+    },
+    {
+      "id": "file-table-filter",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/file-table-filter.svg",
+      "png": "assets/png/files/file-table-filter.png",
+      "png-light": "assets/png-light/files/file-table-filter.png"
+    },
+    {
+      "id": "file-table-search",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/file-table-search.svg",
+      "png": "assets/png/files/file-table-search.png",
+      "png-light": "assets/png-light/files/file-table-search.png"
+    },
+    {
+      "id": "file-text",
+      "category": "files",
+      "origin": "new",
+      "svg": "assets/svg/files/file-text.svg",
+      "png": "assets/png/files/file-text.png",
+      "png-light": "assets/png-light/files/file-text.png"
+    },
+    {
+      "id": "file-text-add",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/file-text-add.svg",
+      "png": "assets/png/files/file-text-add.png",
+      "png-light": "assets/png-light/files/file-text-add.png"
+    },
+    {
+      "id": "file-text-check",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/file-text-check.svg",
+      "png": "assets/png/files/file-text-check.png",
+      "png-light": "assets/png-light/files/file-text-check.png"
+    },
+    {
+      "id": "file-text-edit",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/file-text-edit.svg",
+      "png": "assets/png/files/file-text-edit.png",
+      "png-light": "assets/png-light/files/file-text-edit.png"
+    },
+    {
+      "id": "file-text-history",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/file-text-history.svg",
+      "png": "assets/png/files/file-text-history.png",
+      "png-light": "assets/png-light/files/file-text-history.png"
+    },
+    {
+      "id": "file-text-lock",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/file-text-lock.svg",
+      "png": "assets/png/files/file-text-lock.png",
+      "png-light": "assets/png-light/files/file-text-lock.png"
+    },
+    {
+      "id": "file-text-search",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/file-text-search.svg",
+      "png": "assets/png/files/file-text-search.png",
+      "png-light": "assets/png-light/files/file-text-search.png"
+    },
+    {
+      "id": "file-text-share",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/file-text-share.svg",
+      "png": "assets/png/files/file-text-share.png",
+      "png-light": "assets/png-light/files/file-text-share.png"
+    },
+    {
+      "id": "file-text-translate",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/file-text-translate.svg",
+      "png": "assets/png/files/file-text-translate.png",
+      "png-light": "assets/png-light/files/file-text-translate.png"
+    },
+    {
+      "id": "file-upload",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/file-upload.svg",
+      "png": "assets/png/files/file-upload.png",
+      "png-light": "assets/png-light/files/file-upload.png"
+    },
+    {
+      "id": "file-video",
+      "category": "files",
+      "origin": "new",
+      "svg": "assets/svg/files/file-video.svg",
+      "png": "assets/png/files/file-video.png",
+      "png-light": "assets/png-light/files/file-video.png"
+    },
+    {
+      "id": "file-video-add",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/file-video-add.svg",
+      "png": "assets/png/files/file-video-add.png",
+      "png-light": "assets/png-light/files/file-video-add.png"
+    },
+    {
+      "id": "file-video-check",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/file-video-check.svg",
+      "png": "assets/png/files/file-video-check.png",
+      "png-light": "assets/png-light/files/file-video-check.png"
+    },
+    {
+      "id": "file-video-download",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/file-video-download.svg",
+      "png": "assets/png/files/file-video-download.png",
+      "png-light": "assets/png-light/files/file-video-download.png"
+    },
+    {
+      "id": "file-video-lock",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/file-video-lock.svg",
+      "png": "assets/png/files/file-video-lock.png",
+      "png-light": "assets/png-light/files/file-video-lock.png"
+    },
+    {
+      "id": "file-video-play",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/file-video-play.svg",
+      "png": "assets/png/files/file-video-play.png",
+      "png-light": "assets/png-light/files/file-video-play.png"
+    },
+    {
+      "id": "file-video-upload",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/file-video-upload.svg",
+      "png": "assets/png/files/file-video-upload.png",
+      "png-light": "assets/png-light/files/file-video-upload.png"
+    },
+    {
+      "id": "file-warning",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/file-warning.svg",
+      "png": "assets/png/files/file-warning.png",
+      "png-light": "assets/png-light/files/file-warning.png"
+    },
+    {
+      "id": "file-zip",
+      "category": "files",
+      "origin": "new",
+      "svg": "assets/svg/files/file-zip.svg",
+      "png": "assets/png/files/file-zip.png",
+      "png-light": "assets/png-light/files/file-zip.png"
+    },
+    {
+      "id": "folder",
+      "category": "files",
+      "origin": "new",
+      "svg": "assets/svg/files/folder.svg",
+      "png": "assets/png/files/folder.png",
+      "png-light": "assets/png-light/files/folder.png"
+    },
+    {
+      "id": "folder-add",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/folder-add.svg",
+      "png": "assets/png/files/folder-add.png",
+      "png-light": "assets/png-light/files/folder-add.png"
+    },
+    {
+      "id": "folder-check",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/folder-check.svg",
+      "png": "assets/png/files/folder-check.png",
+      "png-light": "assets/png-light/files/folder-check.png"
+    },
+    {
+      "id": "folder-download",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/folder-download.svg",
+      "png": "assets/png/files/folder-download.png",
+      "png-light": "assets/png-light/files/folder-download.png"
+    },
+    {
+      "id": "folder-edit",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/folder-edit.svg",
+      "png": "assets/png/files/folder-edit.png",
+      "png-light": "assets/png-light/files/folder-edit.png"
+    },
+    {
+      "id": "folder-favorite",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/folder-favorite.svg",
+      "png": "assets/png/files/folder-favorite.png",
+      "png-light": "assets/png-light/files/folder-favorite.png"
+    },
+    {
+      "id": "folder-history",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/folder-history.svg",
+      "png": "assets/png/files/folder-history.png",
+      "png-light": "assets/png-light/files/folder-history.png"
+    },
+    {
+      "id": "folder-lock",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/folder-lock.svg",
+      "png": "assets/png/files/folder-lock.png",
+      "png-light": "assets/png-light/files/folder-lock.png"
+    },
+    {
+      "id": "folder-open",
+      "category": "files",
+      "origin": "new",
+      "svg": "assets/svg/files/folder-open.svg",
+      "png": "assets/png/files/folder-open.png",
+      "png-light": "assets/png-light/files/folder-open.png"
+    },
+    {
+      "id": "folder-open-add",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/folder-open-add.svg",
+      "png": "assets/png/files/folder-open-add.png",
+      "png-light": "assets/png-light/files/folder-open-add.png"
+    },
+    {
+      "id": "folder-open-check",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/folder-open-check.svg",
+      "png": "assets/png/files/folder-open-check.png",
+      "png-light": "assets/png-light/files/folder-open-check.png"
+    },
+    {
+      "id": "folder-open-edit",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/folder-open-edit.svg",
+      "png": "assets/png/files/folder-open-edit.png",
+      "png-light": "assets/png-light/files/folder-open-edit.png"
+    },
+    {
+      "id": "folder-open-lock",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/folder-open-lock.svg",
+      "png": "assets/png/files/folder-open-lock.png",
+      "png-light": "assets/png-light/files/folder-open-lock.png"
+    },
+    {
+      "id": "folder-open-search",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/folder-open-search.svg",
+      "png": "assets/png/files/folder-open-search.png",
+      "png-light": "assets/png-light/files/folder-open-search.png"
+    },
+    {
+      "id": "folder-open-share",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/folder-open-share.svg",
+      "png": "assets/png/files/folder-open-share.png",
+      "png-light": "assets/png-light/files/folder-open-share.png"
+    },
+    {
+      "id": "folder-remove",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/folder-remove.svg",
+      "png": "assets/png/files/folder-remove.png",
+      "png-light": "assets/png-light/files/folder-remove.png"
+    },
+    {
+      "id": "folder-search",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/folder-search.svg",
+      "png": "assets/png/files/folder-search.png",
+      "png-light": "assets/png-light/files/folder-search.png"
+    },
+    {
+      "id": "folder-share",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/folder-share.svg",
+      "png": "assets/png/files/folder-share.png",
+      "png-light": "assets/png-light/files/folder-share.png"
+    },
+    {
+      "id": "folder-upload",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/folder-upload.svg",
+      "png": "assets/png/files/folder-upload.png",
+      "png-light": "assets/png-light/files/folder-upload.png"
+    },
+    {
+      "id": "folder-warning",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/folder-warning.svg",
+      "png": "assets/png/files/folder-warning.png",
+      "png-light": "assets/png-light/files/folder-warning.png"
+    },
+    {
+      "id": "hard-drive",
+      "category": "files",
+      "origin": "new",
+      "svg": "assets/svg/files/hard-drive.svg",
+      "png": "assets/png/files/hard-drive.png",
+      "png-light": "assets/png-light/files/hard-drive.png"
+    },
+    {
+      "id": "hard-drive-add",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/hard-drive-add.svg",
+      "png": "assets/png/files/hard-drive-add.png",
+      "png-light": "assets/png-light/files/hard-drive-add.png"
+    },
+    {
+      "id": "hard-drive-check",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/hard-drive-check.svg",
+      "png": "assets/png/files/hard-drive-check.png",
+      "png-light": "assets/png-light/files/hard-drive-check.png"
+    },
+    {
+      "id": "hard-drive-download",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/hard-drive-download.svg",
+      "png": "assets/png/files/hard-drive-download.png",
+      "png-light": "assets/png-light/files/hard-drive-download.png"
+    },
+    {
+      "id": "hard-drive-lock",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/hard-drive-lock.svg",
+      "png": "assets/png/files/hard-drive-lock.png",
+      "png-light": "assets/png-light/files/hard-drive-lock.png"
+    },
+    {
+      "id": "hard-drive-upload",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/hard-drive-upload.svg",
+      "png": "assets/png/files/hard-drive-upload.png",
+      "png-light": "assets/png-light/files/hard-drive-upload.png"
+    },
+    {
+      "id": "hard-drive-warning",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/hard-drive-warning.svg",
+      "png": "assets/png/files/hard-drive-warning.png",
+      "png-light": "assets/png-light/files/hard-drive-warning.png"
+    },
+    {
+      "id": "inbox",
+      "category": "files",
+      "origin": "new",
+      "svg": "assets/svg/files/inbox.svg",
+      "png": "assets/png/files/inbox.png",
+      "png-light": "assets/png-light/files/inbox.png"
+    },
+    {
+      "id": "inbox-add",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/inbox-add.svg",
+      "png": "assets/png/files/inbox-add.png",
+      "png-light": "assets/png-light/files/inbox-add.png"
+    },
+    {
+      "id": "inbox-check",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/inbox-check.svg",
+      "png": "assets/png/files/inbox-check.png",
+      "png-light": "assets/png-light/files/inbox-check.png"
+    },
+    {
+      "id": "inbox-search",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/inbox-search.svg",
+      "png": "assets/png/files/inbox-search.png",
+      "png-light": "assets/png-light/files/inbox-search.png"
+    },
+    {
+      "id": "inbox-unread",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/inbox-unread.svg",
+      "png": "assets/png/files/inbox-unread.png",
+      "png-light": "assets/png-light/files/inbox-unread.png"
+    },
+    {
+      "id": "inbox-warning",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/inbox-warning.svg",
+      "png": "assets/png/files/inbox-warning.png",
+      "png-light": "assets/png-light/files/inbox-warning.png"
+    },
+    {
+      "id": "news",
+      "category": "files",
+      "origin": "refined",
+      "svg": "assets/svg/files/news.svg",
+      "legacyName": "news",
+      "png": "assets/png/files/news.png",
+      "png-light": "assets/png-light/files/news.png"
+    },
+    {
+      "id": "outbox",
+      "category": "files",
+      "origin": "new",
+      "svg": "assets/svg/files/outbox.svg",
+      "png": "assets/png/files/outbox.png",
+      "png-light": "assets/png-light/files/outbox.png"
+    },
+    {
+      "id": "outbox-check",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/outbox-check.svg",
+      "png": "assets/png/files/outbox-check.png",
+      "png-light": "assets/png-light/files/outbox-check.png"
+    },
+    {
+      "id": "outbox-clock",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/outbox-clock.svg",
+      "png": "assets/png/files/outbox-clock.png",
+      "png-light": "assets/png-light/files/outbox-clock.png"
+    },
+    {
+      "id": "outbox-lock",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/outbox-lock.svg",
+      "png": "assets/png/files/outbox-lock.png",
+      "png-light": "assets/png-light/files/outbox-lock.png"
+    },
+    {
+      "id": "outbox-warning",
+      "category": "files",
+      "origin": "state",
+      "svg": "assets/svg/files/outbox-warning.svg",
+      "png": "assets/png/files/outbox-warning.png",
+      "png-light": "assets/png-light/files/outbox-warning.png"
+    },
+    {
+      "id": "package-open",
+      "category": "files",
+      "origin": "new",
+      "svg": "assets/svg/files/package-open.svg",
+      "png": "assets/png/files/package-open.png",
+      "png-light": "assets/png-light/files/package-open.png"
+    },
+    {
+      "id": "save",
+      "category": "files",
+      "origin": "new",
+      "svg": "assets/svg/files/save.svg",
+      "png": "assets/png/files/save.png",
+      "png-light": "assets/png-light/files/save.png"
+    },
+    {
+      "id": "trash",
+      "category": "files",
+      "origin": "new",
+      "svg": "assets/svg/files/trash.svg",
+      "png": "assets/png/files/trash.png",
+      "png-light": "assets/png-light/files/trash.png"
+    },
+    {
+      "id": "upload",
+      "category": "files",
+      "origin": "new",
+      "svg": "assets/svg/files/upload.svg",
+      "png": "assets/png/files/upload.png",
+      "png-light": "assets/png-light/files/upload.png"
+    },
+    {
+      "id": "achievement",
+      "category": "gaming",
+      "origin": "new",
+      "svg": "assets/svg/gaming/achievement.svg",
+      "png": "assets/png/gaming/achievement.png",
+      "png-light": "assets/png-light/gaming/achievement.png"
+    },
+    {
+      "id": "action",
+      "category": "gaming",
+      "origin": "refined",
+      "svg": "assets/svg/gaming/action.svg",
+      "legacyName": "action",
+      "png": "assets/png/gaming/action.png",
+      "png-light": "assets/png-light/gaming/action.png"
+    },
+    {
+      "id": "adventure",
+      "category": "gaming",
+      "origin": "refined",
+      "svg": "assets/svg/gaming/adventure.svg",
+      "legacyName": "adventure",
+      "png": "assets/png/gaming/adventure.png",
+      "png-light": "assets/png-light/gaming/adventure.png"
+    },
+    {
+      "id": "checkpoint",
+      "category": "gaming",
+      "origin": "new",
+      "svg": "assets/svg/gaming/checkpoint.svg",
+      "png": "assets/png/gaming/checkpoint.png",
+      "png-light": "assets/png-light/gaming/checkpoint.png"
+    },
+    {
+      "id": "chess-knight",
+      "category": "gaming",
+      "origin": "new",
+      "svg": "assets/svg/gaming/chess-knight.svg",
+      "png": "assets/png/gaming/chess-knight.png",
+      "png-light": "assets/png-light/gaming/chess-knight.png"
+    },
+    {
+      "id": "dice",
+      "category": "gaming",
+      "origin": "new",
+      "svg": "assets/svg/gaming/dice.svg",
+      "png": "assets/png/gaming/dice.png",
+      "png-light": "assets/png-light/gaming/dice.png"
+    },
+    {
+      "id": "flag",
+      "category": "gaming",
+      "origin": "new",
+      "svg": "assets/svg/gaming/flag.svg",
+      "png": "assets/png/gaming/flag.png",
+      "png-light": "assets/png-light/gaming/flag.png"
+    },
+    {
+      "id": "fps",
+      "category": "gaming",
+      "origin": "redrawn",
+      "svg": "assets/svg/gaming/fps.svg",
+      "legacyName": "fps",
+      "png": "assets/png/gaming/fps.png",
+      "png-light": "assets/png-light/gaming/fps.png"
+    },
+    {
+      "id": "gamepad",
+      "category": "gaming",
+      "origin": "refined",
+      "svg": "assets/svg/gaming/gamepad.svg",
+      "legacyName": "gamepad",
+      "png": "assets/png/gaming/gamepad.png",
+      "png-light": "assets/png-light/gaming/gamepad.png"
+    },
+    {
+      "id": "gamepad-add",
+      "category": "gaming",
+      "origin": "state",
+      "svg": "assets/svg/gaming/gamepad-add.svg",
+      "png": "assets/png/gaming/gamepad-add.png",
+      "png-light": "assets/png-light/gaming/gamepad-add.png"
+    },
+    {
+      "id": "gamepad-check",
+      "category": "gaming",
+      "origin": "state",
+      "svg": "assets/svg/gaming/gamepad-check.svg",
+      "png": "assets/png/gaming/gamepad-check.png",
+      "png-light": "assets/png-light/gaming/gamepad-check.png"
+    },
+    {
+      "id": "gamepad-lock",
+      "category": "gaming",
+      "origin": "state",
+      "svg": "assets/svg/gaming/gamepad-lock.svg",
+      "png": "assets/png/gaming/gamepad-lock.png",
+      "png-light": "assets/png-light/gaming/gamepad-lock.png"
+    },
+    {
+      "id": "gamepad-off",
+      "category": "gaming",
+      "origin": "state",
+      "svg": "assets/svg/gaming/gamepad-off.svg",
+      "png": "assets/png/gaming/gamepad-off.png",
+      "png-light": "assets/png-light/gaming/gamepad-off.png"
+    },
+    {
+      "id": "gamepad-warning",
+      "category": "gaming",
+      "origin": "state",
+      "svg": "assets/svg/gaming/gamepad-warning.svg",
+      "png": "assets/png/gaming/gamepad-warning.png",
+      "png-light": "assets/png-light/gaming/gamepad-warning.png"
+    },
+    {
+      "id": "joystick",
+      "category": "gaming",
+      "origin": "new",
+      "svg": "assets/svg/gaming/joystick.svg",
+      "png": "assets/png/gaming/joystick.png",
+      "png-light": "assets/png-light/gaming/joystick.png"
+    },
+    {
+      "id": "lives",
+      "category": "gaming",
+      "origin": "new",
+      "svg": "assets/svg/gaming/lives.svg",
+      "png": "assets/png/gaming/lives.png",
+      "png-light": "assets/png-light/gaming/lives.png"
+    },
+    {
+      "id": "medal",
+      "category": "gaming",
+      "origin": "new",
+      "svg": "assets/svg/gaming/medal.svg",
+      "png": "assets/png/gaming/medal.png",
+      "png-light": "assets/png-light/gaming/medal.png"
+    },
+    {
+      "id": "open-world",
+      "category": "gaming",
+      "origin": "redrawn",
+      "svg": "assets/svg/gaming/open-world.svg",
+      "legacyName": "open_world",
+      "png": "assets/png/gaming/open-world.png",
+      "png-light": "assets/png-light/gaming/open-world.png"
+    },
+    {
+      "id": "potion",
+      "category": "gaming",
+      "origin": "new",
+      "svg": "assets/svg/gaming/potion.svg",
+      "png": "assets/png/gaming/potion.png",
+      "png-light": "assets/png-light/gaming/potion.png"
+    },
+    {
+      "id": "puzzle",
+      "category": "gaming",
+      "origin": "new",
+      "svg": "assets/svg/gaming/puzzle.svg",
+      "png": "assets/png/gaming/puzzle.png",
+      "png-light": "assets/png-light/gaming/puzzle.png"
+    },
+    {
+      "id": "racing",
+      "category": "gaming",
+      "origin": "refined",
+      "svg": "assets/svg/gaming/racing.svg",
+      "legacyName": "racing",
+      "png": "assets/png/gaming/racing.png",
+      "png-light": "assets/png-light/gaming/racing.png"
+    },
+    {
+      "id": "rpg",
+      "category": "gaming",
+      "origin": "refined",
+      "svg": "assets/svg/gaming/rpg.svg",
+      "legacyName": "rpg",
+      "png": "assets/png/gaming/rpg.png",
+      "png-light": "assets/png-light/gaming/rpg.png"
+    },
+    {
+      "id": "strategy",
+      "category": "gaming",
+      "origin": "refined",
+      "svg": "assets/svg/gaming/strategy.svg",
+      "legacyName": "strategy",
+      "png": "assets/png/gaming/strategy.png",
+      "png-light": "assets/png-light/gaming/strategy.png"
+    },
+    {
+      "id": "target",
+      "category": "gaming",
+      "origin": "new",
+      "svg": "assets/svg/gaming/target.svg",
+      "png": "assets/png/gaming/target.png",
+      "png-light": "assets/png-light/gaming/target.png"
+    },
+    {
+      "id": "trophy",
+      "category": "gaming",
+      "origin": "new",
+      "svg": "assets/svg/gaming/trophy.svg",
+      "png": "assets/png/gaming/trophy.png",
+      "png-light": "assets/png-light/gaming/trophy.png"
+    },
+    {
+      "id": "about",
+      "category": "interface",
+      "origin": "redrawn",
+      "svg": "assets/svg/interface/about.svg",
+      "legacyName": "about",
+      "png": "assets/png/interface/about.png",
+      "png-light": "assets/png-light/interface/about.png"
+    },
+    {
+      "id": "bookmark",
+      "category": "interface",
+      "origin": "refined",
+      "svg": "assets/svg/interface/bookmark.svg",
+      "legacyName": "bookmark",
+      "png": "assets/png/interface/bookmark.png",
+      "png-light": "assets/png-light/interface/bookmark.png"
+    },
+    {
+      "id": "check",
+      "category": "interface",
+      "origin": "refined",
+      "svg": "assets/svg/interface/check.svg",
+      "legacyName": "check",
+      "png": "assets/png/interface/check.png",
+      "png-light": "assets/png-light/interface/check.png"
+    },
+    {
+      "id": "check-circle",
+      "category": "interface",
+      "origin": "refined",
+      "svg": "assets/svg/interface/check-circle.svg",
+      "legacyName": "check_circle",
+      "png": "assets/png/interface/check-circle.png",
+      "png-light": "assets/png-light/interface/check-circle.png"
+    },
+    {
+      "id": "checkbox",
+      "category": "interface",
+      "origin": "new",
+      "svg": "assets/svg/interface/checkbox.svg",
+      "png": "assets/png/interface/checkbox.png",
+      "png-light": "assets/png-light/interface/checkbox.png"
+    },
+    {
+      "id": "checkbox-checked",
+      "category": "interface",
+      "origin": "new",
+      "svg": "assets/svg/interface/checkbox-checked.svg",
+      "png": "assets/png/interface/checkbox-checked.png",
+      "png-light": "assets/png-light/interface/checkbox-checked.png"
+    },
+    {
+      "id": "close",
+      "category": "interface",
+      "origin": "refined",
+      "svg": "assets/svg/interface/close.svg",
+      "legacyName": "close",
+      "png": "assets/png/interface/close.png",
+      "png-light": "assets/png-light/interface/close.png"
+    },
+    {
+      "id": "copy",
+      "category": "interface",
+      "origin": "refined",
+      "svg": "assets/svg/interface/copy.svg",
+      "legacyName": "copy",
+      "png": "assets/png/interface/copy.png",
+      "png-light": "assets/png-light/interface/copy.png"
+    },
+    {
+      "id": "cursor",
+      "category": "interface",
+      "origin": "new",
+      "svg": "assets/svg/interface/cursor.svg",
+      "png": "assets/png/interface/cursor.png",
+      "png-light": "assets/png-light/interface/cursor.png"
+    },
+    {
+      "id": "error",
+      "category": "interface",
+      "origin": "redrawn",
+      "svg": "assets/svg/interface/error.svg",
+      "legacyName": "error",
+      "png": "assets/png/interface/error.png",
+      "png-light": "assets/png-light/interface/error.png"
+    },
+    {
+      "id": "eye",
+      "category": "interface",
+      "origin": "new",
+      "svg": "assets/svg/interface/eye.svg",
+      "png": "assets/png/interface/eye.png",
+      "png-light": "assets/png-light/interface/eye.png"
+    },
+    {
+      "id": "eye-off",
+      "category": "interface",
+      "origin": "new",
+      "svg": "assets/svg/interface/eye-off.svg",
+      "png": "assets/png/interface/eye-off.png",
+      "png-light": "assets/png-light/interface/eye-off.png"
+    },
+    {
+      "id": "favorite",
+      "category": "interface",
+      "origin": "refined",
+      "svg": "assets/svg/interface/favorite.svg",
+      "legacyName": "favorite",
+      "png": "assets/png/interface/favorite.png",
+      "png-light": "assets/png-light/interface/favorite.png"
+    },
+    {
+      "id": "filter",
+      "category": "interface",
+      "origin": "refined",
+      "svg": "assets/svg/interface/filter.svg",
+      "legacyName": "filter",
+      "png": "assets/png/interface/filter.png",
+      "png-light": "assets/png-light/interface/filter.png"
+    },
+    {
+      "id": "focus",
+      "category": "interface",
+      "origin": "new",
+      "svg": "assets/svg/interface/focus.svg",
+      "png": "assets/png/interface/focus.png",
+      "png-light": "assets/png-light/interface/focus.png"
+    },
+    {
+      "id": "grid",
+      "category": "interface",
+      "origin": "new",
+      "svg": "assets/svg/interface/grid.svg",
+      "png": "assets/png/interface/grid.png",
+      "png-light": "assets/png-light/interface/grid.png"
+    },
+    {
+      "id": "hand",
+      "category": "interface",
+      "origin": "new",
+      "svg": "assets/svg/interface/hand.svg",
+      "png": "assets/png/interface/hand.png",
+      "png-light": "assets/png-light/interface/hand.png"
+    },
+    {
+      "id": "info",
+      "category": "interface",
+      "origin": "refined",
+      "svg": "assets/svg/interface/info.svg",
+      "legacyName": "info",
+      "png": "assets/png/interface/info.png",
+      "png-light": "assets/png-light/interface/info.png"
+    },
+    {
+      "id": "layers",
+      "category": "interface",
+      "origin": "new",
+      "svg": "assets/svg/interface/layers.svg",
+      "png": "assets/png/interface/layers.png",
+      "png-light": "assets/png-light/interface/layers.png"
+    },
+    {
+      "id": "library",
+      "category": "interface",
+      "origin": "redrawn",
+      "svg": "assets/svg/interface/library.svg",
+      "legacyName": "library",
+      "png": "assets/png/interface/library.png",
+      "png-light": "assets/png-light/interface/library.png"
+    },
+    {
+      "id": "list",
+      "category": "interface",
+      "origin": "new",
+      "svg": "assets/svg/interface/list.svg",
+      "png": "assets/png/interface/list.png",
+      "png-light": "assets/png-light/interface/list.png"
+    },
+    {
+      "id": "menu",
+      "category": "interface",
+      "origin": "refined",
+      "svg": "assets/svg/interface/menu.svg",
+      "legacyName": "menu",
+      "png": "assets/png/interface/menu.png",
+      "png-light": "assets/png-light/interface/menu.png"
+    },
+    {
+      "id": "minus",
+      "category": "interface",
+      "origin": "new",
+      "svg": "assets/svg/interface/minus.svg",
+      "png": "assets/png/interface/minus.png",
+      "png-light": "assets/png-light/interface/minus.png"
+    },
+    {
+      "id": "more-horizontal",
+      "category": "interface",
+      "origin": "new",
+      "svg": "assets/svg/interface/more-horizontal.svg",
+      "png": "assets/png/interface/more-horizontal.png",
+      "png-light": "assets/png-light/interface/more-horizontal.png"
+    },
+    {
+      "id": "more-vertical",
+      "category": "interface",
+      "origin": "new",
+      "svg": "assets/svg/interface/more-vertical.svg",
+      "png": "assets/png/interface/more-vertical.png",
+      "png-light": "assets/png-light/interface/more-vertical.png"
+    },
+    {
+      "id": "move",
+      "category": "interface",
+      "origin": "new",
+      "svg": "assets/svg/interface/move.svg",
+      "png": "assets/png/interface/move.png",
+      "png-light": "assets/png-light/interface/move.png"
+    },
+    {
+      "id": "new-badge",
+      "category": "interface",
+      "origin": "refined",
+      "svg": "assets/svg/interface/new-badge.svg",
+      "legacyName": "new_badge",
+      "png": "assets/png/interface/new-badge.png",
+      "png-light": "assets/png-light/interface/new-badge.png"
+    },
+    {
+      "id": "pin",
+      "category": "interface",
+      "origin": "new",
+      "svg": "assets/svg/interface/pin.svg",
+      "png": "assets/png/interface/pin.png",
+      "png-light": "assets/png-light/interface/pin.png"
+    },
+    {
+      "id": "plus",
+      "category": "interface",
+      "origin": "refined",
+      "svg": "assets/svg/interface/plus.svg",
+      "legacyName": "plus",
+      "png": "assets/png/interface/plus.png",
+      "png-light": "assets/png-light/interface/plus.png"
+    },
+    {
+      "id": "radio",
+      "category": "interface",
+      "origin": "new",
+      "svg": "assets/svg/interface/radio.svg",
+      "png": "assets/png/interface/radio.png",
+      "png-light": "assets/png-light/interface/radio.png"
+    },
+    {
+      "id": "radio-selected",
+      "category": "interface",
+      "origin": "new",
+      "svg": "assets/svg/interface/radio-selected.svg",
+      "png": "assets/png/interface/radio-selected.png",
+      "png-light": "assets/png-light/interface/radio-selected.png"
+    },
+    {
+      "id": "refresh",
+      "category": "interface",
+      "origin": "refined",
+      "svg": "assets/svg/interface/refresh.svg",
+      "legacyName": "refresh",
+      "png": "assets/png/interface/refresh.png",
+      "png-light": "assets/png-light/interface/refresh.png"
+    },
+    {
+      "id": "search",
+      "category": "interface",
+      "origin": "refined",
+      "svg": "assets/svg/interface/search.svg",
+      "legacyName": "search",
+      "png": "assets/png/interface/search.png",
+      "png-light": "assets/png-light/interface/search.png"
+    },
+    {
+      "id": "settings",
+      "category": "interface",
+      "origin": "refined",
+      "svg": "assets/svg/interface/settings.svg",
+      "legacyName": "settings",
+      "png": "assets/png/interface/settings.png",
+      "png-light": "assets/png-light/interface/settings.png"
+    },
+    {
+      "id": "sliders",
+      "category": "interface",
+      "origin": "new",
+      "svg": "assets/svg/interface/sliders.svg",
+      "png": "assets/png/interface/sliders.png",
+      "png-light": "assets/png-light/interface/sliders.png"
+    },
+    {
+      "id": "sort",
+      "category": "interface",
+      "origin": "new",
+      "svg": "assets/svg/interface/sort.svg",
+      "png": "assets/png/interface/sort.png",
+      "png-light": "assets/png-light/interface/sort.png"
+    },
+    {
+      "id": "sort-ascending",
+      "category": "interface",
+      "origin": "new",
+      "svg": "assets/svg/interface/sort-ascending.svg",
+      "png": "assets/png/interface/sort-ascending.png",
+      "png-light": "assets/png-light/interface/sort-ascending.png"
+    },
+    {
+      "id": "sort-descending",
+      "category": "interface",
+      "origin": "new",
+      "svg": "assets/svg/interface/sort-descending.svg",
+      "png": "assets/png/interface/sort-descending.png",
+      "png-light": "assets/png-light/interface/sort-descending.png"
+    },
+    {
+      "id": "star",
+      "category": "interface",
+      "origin": "refined",
+      "svg": "assets/svg/interface/star.svg",
+      "legacyName": "star",
+      "png": "assets/png/interface/star.png",
+      "png-light": "assets/png-light/interface/star.png"
+    },
+    {
+      "id": "status",
+      "category": "interface",
+      "origin": "refined",
+      "svg": "assets/svg/interface/status.svg",
+      "legacyName": "status",
+      "png": "assets/png/interface/status.png",
+      "png-light": "assets/png-light/interface/status.png"
+    },
+    {
+      "id": "tag",
+      "category": "interface",
+      "origin": "refined",
+      "svg": "assets/svg/interface/tag.svg",
+      "legacyName": "tag",
+      "png": "assets/png/interface/tag.png",
+      "png-light": "assets/png-light/interface/tag.png"
+    },
+    {
+      "id": "toggle-off",
+      "category": "interface",
+      "origin": "new",
+      "svg": "assets/svg/interface/toggle-off.svg",
+      "png": "assets/png/interface/toggle-off.png",
+      "png-light": "assets/png-light/interface/toggle-off.png"
+    },
+    {
+      "id": "toggle-on",
+      "category": "interface",
+      "origin": "new",
+      "svg": "assets/svg/interface/toggle-on.svg",
+      "png": "assets/png/interface/toggle-on.png",
+      "png-light": "assets/png-light/interface/toggle-on.png"
+    },
+    {
+      "id": "warning",
+      "category": "interface",
+      "origin": "refined",
+      "svg": "assets/svg/interface/warning.svg",
+      "legacyName": "warning",
+      "png": "assets/png/interface/warning.png",
+      "png-light": "assets/png-light/interface/warning.png"
+    },
+    {
+      "id": "x-circle",
+      "category": "interface",
+      "origin": "new",
+      "svg": "assets/svg/interface/x-circle.svg",
+      "png": "assets/png/interface/x-circle.png",
+      "png-light": "assets/png-light/interface/x-circle.png"
+    },
+    {
+      "id": "equalizer",
+      "category": "media",
+      "origin": "new",
+      "svg": "assets/svg/media/equalizer.svg",
+      "png": "assets/png/media/equalizer.png",
+      "png-light": "assets/png-light/media/equalizer.png"
+    },
+    {
+      "id": "film",
+      "category": "media",
+      "origin": "new",
+      "svg": "assets/svg/media/film.svg",
+      "png": "assets/png/media/film.png",
+      "png-light": "assets/png-light/media/film.png"
+    },
+    {
+      "id": "film-add",
+      "category": "media",
+      "origin": "state",
+      "svg": "assets/svg/media/film-add.svg",
+      "png": "assets/png/media/film-add.png",
+      "png-light": "assets/png-light/media/film-add.png"
+    },
+    {
+      "id": "film-check",
+      "category": "media",
+      "origin": "state",
+      "svg": "assets/svg/media/film-check.svg",
+      "png": "assets/png/media/film-check.png",
+      "png-light": "assets/png-light/media/film-check.png"
+    },
+    {
+      "id": "film-download",
+      "category": "media",
+      "origin": "state",
+      "svg": "assets/svg/media/film-download.svg",
+      "png": "assets/png/media/film-download.png",
+      "png-light": "assets/png-light/media/film-download.png"
+    },
+    {
+      "id": "film-edit",
+      "category": "media",
+      "origin": "state",
+      "svg": "assets/svg/media/film-edit.svg",
+      "png": "assets/png/media/film-edit.png",
+      "png-light": "assets/png-light/media/film-edit.png"
+    },
+    {
+      "id": "film-lock",
+      "category": "media",
+      "origin": "state",
+      "svg": "assets/svg/media/film-lock.svg",
+      "png": "assets/png/media/film-lock.png",
+      "png-light": "assets/png-light/media/film-lock.png"
+    },
+    {
+      "id": "film-play",
+      "category": "media",
+      "origin": "state",
+      "svg": "assets/svg/media/film-play.svg",
+      "png": "assets/png/media/film-play.png",
+      "png-light": "assets/png-light/media/film-play.png"
+    },
+    {
+      "id": "image",
+      "category": "media",
+      "origin": "new",
+      "svg": "assets/svg/media/image.svg",
+      "png": "assets/png/media/image.png",
+      "png-light": "assets/png-light/media/image.png"
+    },
+    {
+      "id": "image-add",
+      "category": "media",
+      "origin": "state",
+      "svg": "assets/svg/media/image-add.svg",
+      "png": "assets/png/media/image-add.png",
+      "png-light": "assets/png-light/media/image-add.png"
+    },
+    {
+      "id": "image-check",
+      "category": "media",
+      "origin": "state",
+      "svg": "assets/svg/media/image-check.svg",
+      "png": "assets/png/media/image-check.png",
+      "png-light": "assets/png-light/media/image-check.png"
+    },
+    {
+      "id": "image-download",
+      "category": "media",
+      "origin": "state",
+      "svg": "assets/svg/media/image-download.svg",
+      "png": "assets/png/media/image-download.png",
+      "png-light": "assets/png-light/media/image-download.png"
+    },
+    {
+      "id": "image-edit",
+      "category": "media",
+      "origin": "state",
+      "svg": "assets/svg/media/image-edit.svg",
+      "png": "assets/png/media/image-edit.png",
+      "png-light": "assets/png-light/media/image-edit.png"
+    },
+    {
+      "id": "image-lock",
+      "category": "media",
+      "origin": "state",
+      "svg": "assets/svg/media/image-lock.svg",
+      "png": "assets/png/media/image-lock.png",
+      "png-light": "assets/png-light/media/image-lock.png"
+    },
+    {
+      "id": "image-search",
+      "category": "media",
+      "origin": "state",
+      "svg": "assets/svg/media/image-search.svg",
+      "png": "assets/png/media/image-search.png",
+      "png-light": "assets/png-light/media/image-search.png"
+    },
+    {
+      "id": "image-share",
+      "category": "media",
+      "origin": "state",
+      "svg": "assets/svg/media/image-share.svg",
+      "png": "assets/png/media/image-share.png",
+      "png-light": "assets/png-light/media/image-share.png"
+    },
+    {
+      "id": "music",
+      "category": "media",
+      "origin": "new",
+      "svg": "assets/svg/media/music.svg",
+      "png": "assets/png/media/music.png",
+      "png-light": "assets/png-light/media/music.png"
+    },
+    {
+      "id": "pause",
+      "category": "media",
+      "origin": "refined",
+      "svg": "assets/svg/media/pause.svg",
+      "legacyName": "pause",
+      "png": "assets/png/media/pause.png",
+      "png-light": "assets/png-light/media/pause.png"
+    },
+    {
+      "id": "play",
+      "category": "media",
+      "origin": "refined",
+      "svg": "assets/svg/media/play.svg",
+      "legacyName": "play",
+      "png": "assets/png/media/play.png",
+      "png-light": "assets/png-light/media/play.png"
+    },
+    {
+      "id": "playlist",
+      "category": "media",
+      "origin": "new",
+      "svg": "assets/svg/media/playlist.svg",
+      "png": "assets/png/media/playlist.png",
+      "png-light": "assets/png-light/media/playlist.png"
+    },
+    {
+      "id": "playlist-add",
+      "category": "media",
+      "origin": "state",
+      "svg": "assets/svg/media/playlist-add.svg",
+      "png": "assets/png/media/playlist-add.png",
+      "png-light": "assets/png-light/media/playlist-add.png"
+    },
+    {
+      "id": "playlist-check",
+      "category": "media",
+      "origin": "state",
+      "svg": "assets/svg/media/playlist-check.svg",
+      "png": "assets/png/media/playlist-check.png",
+      "png-light": "assets/png-light/media/playlist-check.png"
+    },
+    {
+      "id": "playlist-edit",
+      "category": "media",
+      "origin": "state",
+      "svg": "assets/svg/media/playlist-edit.svg",
+      "png": "assets/png/media/playlist-edit.png",
+      "png-light": "assets/png-light/media/playlist-edit.png"
+    },
+    {
+      "id": "playlist-play",
+      "category": "media",
+      "origin": "state",
+      "svg": "assets/svg/media/playlist-play.svg",
+      "png": "assets/png/media/playlist-play.png",
+      "png-light": "assets/png-light/media/playlist-play.png"
+    },
+    {
+      "id": "playlist-remove",
+      "category": "media",
+      "origin": "state",
+      "svg": "assets/svg/media/playlist-remove.svg",
+      "png": "assets/png/media/playlist-remove.png",
+      "png-light": "assets/png-light/media/playlist-remove.png"
+    },
+    {
+      "id": "playlist-share",
+      "category": "media",
+      "origin": "state",
+      "svg": "assets/svg/media/playlist-share.svg",
+      "png": "assets/png/media/playlist-share.png",
+      "png-light": "assets/png-light/media/playlist-share.png"
+    },
+    {
+      "id": "record",
+      "category": "media",
+      "origin": "new",
+      "svg": "assets/svg/media/record.svg",
+      "png": "assets/png/media/record.png",
+      "png-light": "assets/png-light/media/record.png"
+    },
+    {
+      "id": "repeat",
+      "category": "media",
+      "origin": "new",
+      "svg": "assets/svg/media/repeat.svg",
+      "png": "assets/png/media/repeat.png",
+      "png-light": "assets/png-light/media/repeat.png"
+    },
+    {
+      "id": "shuffle",
+      "category": "media",
+      "origin": "new",
+      "svg": "assets/svg/media/shuffle.svg",
+      "png": "assets/png/media/shuffle.png",
+      "png-light": "assets/png-light/media/shuffle.png"
+    },
+    {
+      "id": "skip-back",
+      "category": "media",
+      "origin": "new",
+      "svg": "assets/svg/media/skip-back.svg",
+      "png": "assets/png/media/skip-back.png",
+      "png-light": "assets/png-light/media/skip-back.png"
+    },
+    {
+      "id": "skip-forward",
+      "category": "media",
+      "origin": "new",
+      "svg": "assets/svg/media/skip-forward.svg",
+      "png": "assets/png/media/skip-forward.png",
+      "png-light": "assets/png-light/media/skip-forward.png"
+    },
+    {
+      "id": "stop",
+      "category": "media",
+      "origin": "new",
+      "svg": "assets/svg/media/stop.svg",
+      "png": "assets/png/media/stop.png",
+      "png-light": "assets/png-light/media/stop.png"
+    },
+    {
+      "id": "stream",
+      "category": "media",
+      "origin": "refined",
+      "svg": "assets/svg/media/stream.svg",
+      "legacyName": "stream",
+      "png": "assets/png/media/stream.png",
+      "png-light": "assets/png-light/media/stream.png"
+    },
+    {
+      "id": "stream-check",
+      "category": "media",
+      "origin": "state",
+      "svg": "assets/svg/media/stream-check.svg",
+      "png": "assets/png/media/stream-check.png",
+      "png-light": "assets/png-light/media/stream-check.png"
+    },
+    {
+      "id": "stream-lock",
+      "category": "media",
+      "origin": "state",
+      "svg": "assets/svg/media/stream-lock.svg",
+      "png": "assets/png/media/stream-lock.png",
+      "png-light": "assets/png-light/media/stream-lock.png"
+    },
+    {
+      "id": "stream-off",
+      "category": "media",
+      "origin": "state",
+      "svg": "assets/svg/media/stream-off.svg",
+      "png": "assets/png/media/stream-off.png",
+      "png-light": "assets/png-light/media/stream-off.png"
+    },
+    {
+      "id": "stream-pause",
+      "category": "media",
+      "origin": "state",
+      "svg": "assets/svg/media/stream-pause.svg",
+      "png": "assets/png/media/stream-pause.png",
+      "png-light": "assets/png-light/media/stream-pause.png"
+    },
+    {
+      "id": "stream-play",
+      "category": "media",
+      "origin": "state",
+      "svg": "assets/svg/media/stream-play.svg",
+      "png": "assets/png/media/stream-play.png",
+      "png-light": "assets/png-light/media/stream-play.png"
+    },
+    {
+      "id": "stream-warning",
+      "category": "media",
+      "origin": "state",
+      "svg": "assets/svg/media/stream-warning.svg",
+      "png": "assets/png/media/stream-warning.png",
+      "png-light": "assets/png-light/media/stream-warning.png"
+    },
+    {
+      "id": "subtitles",
+      "category": "media",
+      "origin": "new",
+      "svg": "assets/svg/media/subtitles.svg",
+      "png": "assets/png/media/subtitles.png",
+      "png-light": "assets/png-light/media/subtitles.png"
+    },
+    {
+      "id": "video",
+      "category": "media",
+      "origin": "new",
+      "svg": "assets/svg/media/video.svg",
+      "png": "assets/png/media/video.png",
+      "png-light": "assets/png-light/media/video.png"
+    },
+    {
+      "id": "volume",
+      "category": "media",
+      "origin": "new",
+      "svg": "assets/svg/media/volume.svg",
+      "png": "assets/png/media/volume.png",
+      "png-light": "assets/png-light/media/volume.png"
+    },
+    {
+      "id": "volume-muted",
+      "category": "media",
+      "origin": "new",
+      "svg": "assets/svg/media/volume-muted.svg",
+      "png": "assets/png/media/volume-muted.png",
+      "png-light": "assets/png-light/media/volume-muted.png"
+    },
+    {
+      "id": "droplet",
+      "category": "nature",
+      "origin": "new",
+      "svg": "assets/svg/nature/droplet.svg",
+      "png": "assets/png/nature/droplet.png",
+      "png-light": "assets/png-light/nature/droplet.png"
+    },
+    {
+      "id": "leaf",
+      "category": "nature",
+      "origin": "new",
+      "svg": "assets/svg/nature/leaf.svg",
+      "png": "assets/png/nature/leaf.png",
+      "png-light": "assets/png-light/nature/leaf.png"
+    },
+    {
+      "id": "moon",
+      "category": "nature",
+      "origin": "new",
+      "svg": "assets/svg/nature/moon.svg",
+      "png": "assets/png/nature/moon.png",
+      "png-light": "assets/png-light/nature/moon.png"
+    },
+    {
+      "id": "rain",
+      "category": "nature",
+      "origin": "new",
+      "svg": "assets/svg/nature/rain.svg",
+      "png": "assets/png/nature/rain.png",
+      "png-light": "assets/png-light/nature/rain.png"
+    },
+    {
+      "id": "snowflake",
+      "category": "nature",
+      "origin": "new",
+      "svg": "assets/svg/nature/snowflake.svg",
+      "png": "assets/png/nature/snowflake.png",
+      "png-light": "assets/png-light/nature/snowflake.png"
+    },
+    {
+      "id": "sun",
+      "category": "nature",
+      "origin": "new",
+      "svg": "assets/svg/nature/sun.svg",
+      "png": "assets/png/nature/sun.png",
+      "png-light": "assets/png-light/nature/sun.png"
+    },
+    {
+      "id": "tree",
+      "category": "nature",
+      "origin": "new",
+      "svg": "assets/svg/nature/tree.svg",
+      "png": "assets/png/nature/tree.png",
+      "png-light": "assets/png-light/nature/tree.png"
+    },
+    {
+      "id": "wind",
+      "category": "nature",
+      "origin": "new",
+      "svg": "assets/svg/nature/wind.svg",
+      "png": "assets/png/nature/wind.png",
+      "png-light": "assets/png-light/nature/wind.png"
+    },
+    {
+      "id": "arrow-down",
+      "category": "navigation",
+      "origin": "new",
+      "svg": "assets/svg/navigation/arrow-down.svg",
+      "png": "assets/png/navigation/arrow-down.png",
+      "png-light": "assets/png-light/navigation/arrow-down.png"
+    },
+    {
+      "id": "arrow-down-left",
+      "category": "navigation",
+      "origin": "new",
+      "svg": "assets/svg/navigation/arrow-down-left.svg",
+      "png": "assets/png/navigation/arrow-down-left.png",
+      "png-light": "assets/png-light/navigation/arrow-down-left.png"
+    },
+    {
+      "id": "arrow-down-right",
+      "category": "navigation",
+      "origin": "new",
+      "svg": "assets/svg/navigation/arrow-down-right.svg",
+      "png": "assets/png/navigation/arrow-down-right.png",
+      "png-light": "assets/png-light/navigation/arrow-down-right.png"
+    },
+    {
+      "id": "arrow-first",
+      "category": "navigation",
+      "origin": "new",
+      "svg": "assets/svg/navigation/arrow-first.svg",
+      "png": "assets/png/navigation/arrow-first.png",
+      "png-light": "assets/png-light/navigation/arrow-first.png"
+    },
+    {
+      "id": "arrow-last",
+      "category": "navigation",
+      "origin": "new",
+      "svg": "assets/svg/navigation/arrow-last.svg",
+      "png": "assets/png/navigation/arrow-last.png",
+      "png-light": "assets/png-light/navigation/arrow-last.png"
+    },
+    {
+      "id": "arrow-left",
+      "category": "navigation",
+      "origin": "refined",
+      "svg": "assets/svg/navigation/arrow-left.svg",
+      "legacyName": "arrow_left",
+      "png": "assets/png/navigation/arrow-left.png",
+      "png-light": "assets/png-light/navigation/arrow-left.png"
+    },
+    {
+      "id": "arrow-right",
+      "category": "navigation",
+      "origin": "refined",
+      "svg": "assets/svg/navigation/arrow-right.svg",
+      "legacyName": "arrow_right",
+      "png": "assets/png/navigation/arrow-right.png",
+      "png-light": "assets/png-light/navigation/arrow-right.png"
+    },
+    {
+      "id": "arrow-up",
+      "category": "navigation",
+      "origin": "new",
+      "svg": "assets/svg/navigation/arrow-up.svg",
+      "png": "assets/png/navigation/arrow-up.png",
+      "png-light": "assets/png-light/navigation/arrow-up.png"
+    },
+    {
+      "id": "arrow-up-left",
+      "category": "navigation",
+      "origin": "new",
+      "svg": "assets/svg/navigation/arrow-up-left.svg",
+      "png": "assets/png/navigation/arrow-up-left.png",
+      "png-light": "assets/png-light/navigation/arrow-up-left.png"
+    },
+    {
+      "id": "arrow-up-right",
+      "category": "navigation",
+      "origin": "new",
+      "svg": "assets/svg/navigation/arrow-up-right.svg",
+      "png": "assets/png/navigation/arrow-up-right.png",
+      "png-light": "assets/png-light/navigation/arrow-up-right.png"
+    },
+    {
+      "id": "back",
+      "category": "navigation",
+      "origin": "redrawn",
+      "svg": "assets/svg/navigation/back.svg",
+      "legacyName": "back",
+      "png": "assets/png/navigation/back.png",
+      "png-light": "assets/png-light/navigation/back.png"
+    },
+    {
+      "id": "breadcrumb",
+      "category": "navigation",
+      "origin": "new",
+      "svg": "assets/svg/navigation/breadcrumb.svg",
+      "png": "assets/png/navigation/breadcrumb.png",
+      "png-light": "assets/png-light/navigation/breadcrumb.png"
+    },
+    {
+      "id": "chevron-down",
+      "category": "navigation",
+      "origin": "refined",
+      "svg": "assets/svg/navigation/chevron-down.svg",
+      "legacyName": "chevron_down",
+      "png": "assets/png/navigation/chevron-down.png",
+      "png-light": "assets/png-light/navigation/chevron-down.png"
+    },
+    {
+      "id": "chevron-left",
+      "category": "navigation",
+      "origin": "new",
+      "svg": "assets/svg/navigation/chevron-left.svg",
+      "png": "assets/png/navigation/chevron-left.png",
+      "png-light": "assets/png-light/navigation/chevron-left.png"
+    },
+    {
+      "id": "chevron-right",
+      "category": "navigation",
+      "origin": "refined",
+      "svg": "assets/svg/navigation/chevron-right.svg",
+      "legacyName": "chevron_right",
+      "png": "assets/png/navigation/chevron-right.png",
+      "png-light": "assets/png-light/navigation/chevron-right.png"
+    },
+    {
+      "id": "chevron-up",
+      "category": "navigation",
+      "origin": "refined",
+      "svg": "assets/svg/navigation/chevron-up.svg",
+      "legacyName": "chevron_up",
+      "png": "assets/png/navigation/chevron-up.png",
+      "png-light": "assets/png-light/navigation/chevron-up.png"
+    },
+    {
+      "id": "chevrons-down",
+      "category": "navigation",
+      "origin": "new",
+      "svg": "assets/svg/navigation/chevrons-down.svg",
+      "png": "assets/png/navigation/chevrons-down.png",
+      "png-light": "assets/png-light/navigation/chevrons-down.png"
+    },
+    {
+      "id": "chevrons-up",
+      "category": "navigation",
+      "origin": "new",
+      "svg": "assets/svg/navigation/chevrons-up.svg",
+      "png": "assets/png/navigation/chevrons-up.png",
+      "png-light": "assets/png-light/navigation/chevrons-up.png"
+    },
+    {
+      "id": "compass",
+      "category": "navigation",
+      "origin": "new",
+      "svg": "assets/svg/navigation/compass.svg",
+      "png": "assets/png/navigation/compass.png",
+      "png-light": "assets/png-light/navigation/compass.png"
+    },
+    {
+      "id": "corner-up-left",
+      "category": "navigation",
+      "origin": "new",
+      "svg": "assets/svg/navigation/corner-up-left.svg",
+      "png": "assets/png/navigation/corner-up-left.png",
+      "png-light": "assets/png-light/navigation/corner-up-left.png"
+    },
+    {
+      "id": "corner-up-right",
+      "category": "navigation",
+      "origin": "new",
+      "svg": "assets/svg/navigation/corner-up-right.svg",
+      "png": "assets/png/navigation/corner-up-right.png",
+      "png-light": "assets/png-light/navigation/corner-up-right.png"
+    },
+    {
+      "id": "discover",
+      "category": "navigation",
+      "origin": "refined",
+      "svg": "assets/svg/navigation/discover.svg",
+      "legacyName": "discover",
+      "png": "assets/png/navigation/discover.png",
+      "png-light": "assets/png-light/navigation/discover.png"
+    },
+    {
+      "id": "external-link",
+      "category": "navigation",
+      "origin": "refined",
+      "svg": "assets/svg/navigation/external-link.svg",
+      "legacyName": "external_link",
+      "png": "assets/png/navigation/external-link.png",
+      "png-light": "assets/png-light/navigation/external-link.png"
+    },
+    {
+      "id": "home",
+      "category": "navigation",
+      "origin": "refined",
+      "svg": "assets/svg/navigation/home.svg",
+      "legacyName": "home",
+      "png": "assets/png/navigation/home.png",
+      "png-light": "assets/png-light/navigation/home.png"
+    },
+    {
+      "id": "location",
+      "category": "navigation",
+      "origin": "refined",
+      "svg": "assets/svg/navigation/location.svg",
+      "legacyName": "location",
+      "png": "assets/png/navigation/location.png",
+      "png-light": "assets/png-light/navigation/location.png"
+    },
+    {
+      "id": "location-add",
+      "category": "navigation",
+      "origin": "state",
+      "svg": "assets/svg/navigation/location-add.svg",
+      "png": "assets/png/navigation/location-add.png",
+      "png-light": "assets/png-light/navigation/location-add.png"
+    },
+    {
+      "id": "location-check",
+      "category": "navigation",
+      "origin": "state",
+      "svg": "assets/svg/navigation/location-check.svg",
+      "png": "assets/png/navigation/location-check.png",
+      "png-light": "assets/png-light/navigation/location-check.png"
+    },
+    {
+      "id": "location-off",
+      "category": "navigation",
+      "origin": "state",
+      "svg": "assets/svg/navigation/location-off.svg",
+      "png": "assets/png/navigation/location-off.png",
+      "png-light": "assets/png-light/navigation/location-off.png"
+    },
+    {
+      "id": "location-search",
+      "category": "navigation",
+      "origin": "state",
+      "svg": "assets/svg/navigation/location-search.svg",
+      "png": "assets/png/navigation/location-search.png",
+      "png-light": "assets/png-light/navigation/location-search.png"
+    },
+    {
+      "id": "location-share",
+      "category": "navigation",
+      "origin": "state",
+      "svg": "assets/svg/navigation/location-share.svg",
+      "png": "assets/png/navigation/location-share.png",
+      "png-light": "assets/png-light/navigation/location-share.png"
+    },
+    {
+      "id": "map",
+      "category": "navigation",
+      "origin": "new",
+      "svg": "assets/svg/navigation/map.svg",
+      "png": "assets/png/navigation/map.png",
+      "png-light": "assets/png-light/navigation/map.png"
+    },
+    {
+      "id": "map-add",
+      "category": "navigation",
+      "origin": "state",
+      "svg": "assets/svg/navigation/map-add.svg",
+      "png": "assets/png/navigation/map-add.png",
+      "png-light": "assets/png-light/navigation/map-add.png"
+    },
+    {
+      "id": "map-check",
+      "category": "navigation",
+      "origin": "state",
+      "svg": "assets/svg/navigation/map-check.svg",
+      "png": "assets/png/navigation/map-check.png",
+      "png-light": "assets/png-light/navigation/map-check.png"
+    },
+    {
+      "id": "map-download",
+      "category": "navigation",
+      "origin": "state",
+      "svg": "assets/svg/navigation/map-download.svg",
+      "png": "assets/png/navigation/map-download.png",
+      "png-light": "assets/png-light/navigation/map-download.png"
+    },
+    {
+      "id": "map-search",
+      "category": "navigation",
+      "origin": "state",
+      "svg": "assets/svg/navigation/map-search.svg",
+      "png": "assets/png/navigation/map-search.png",
+      "png-light": "assets/png-light/navigation/map-search.png"
+    },
+    {
+      "id": "map-share",
+      "category": "navigation",
+      "origin": "state",
+      "svg": "assets/svg/navigation/map-share.svg",
+      "png": "assets/png/navigation/map-share.png",
+      "png-light": "assets/png-light/navigation/map-share.png"
+    },
+    {
+      "id": "maximize",
+      "category": "navigation",
+      "origin": "new",
+      "svg": "assets/svg/navigation/maximize.svg",
+      "png": "assets/png/navigation/maximize.png",
+      "png-light": "assets/png-light/navigation/maximize.png"
+    },
+    {
+      "id": "minimize",
+      "category": "navigation",
+      "origin": "new",
+      "svg": "assets/svg/navigation/minimize.svg",
+      "png": "assets/png/navigation/minimize.png",
+      "png-light": "assets/png-light/navigation/minimize.png"
+    },
+    {
+      "id": "panel-left",
+      "category": "navigation",
+      "origin": "new",
+      "svg": "assets/svg/navigation/panel-left.svg",
+      "png": "assets/png/navigation/panel-left.png",
+      "png-light": "assets/png-light/navigation/panel-left.png"
+    },
+    {
+      "id": "panel-right",
+      "category": "navigation",
+      "origin": "new",
+      "svg": "assets/svg/navigation/panel-right.svg",
+      "png": "assets/png/navigation/panel-right.png",
+      "png-light": "assets/png-light/navigation/panel-right.png"
+    },
+    {
+      "id": "redo",
+      "category": "navigation",
+      "origin": "new",
+      "svg": "assets/svg/navigation/redo.svg",
+      "png": "assets/png/navigation/redo.png",
+      "png-light": "assets/png-light/navigation/redo.png"
+    },
+    {
+      "id": "route",
+      "category": "navigation",
+      "origin": "new",
+      "svg": "assets/svg/navigation/route.svg",
+      "png": "assets/png/navigation/route.png",
+      "png-light": "assets/png-light/navigation/route.png"
+    },
+    {
+      "id": "split-horizontal",
+      "category": "navigation",
+      "origin": "new",
+      "svg": "assets/svg/navigation/split-horizontal.svg",
+      "png": "assets/png/navigation/split-horizontal.png",
+      "png-light": "assets/png-light/navigation/split-horizontal.png"
+    },
+    {
+      "id": "undo",
+      "category": "navigation",
+      "origin": "new",
+      "svg": "assets/svg/navigation/undo.svg",
+      "png": "assets/png/navigation/undo.png",
+      "png-light": "assets/png-light/navigation/undo.png"
+    },
+    {
+      "id": "waypoint",
+      "category": "navigation",
+      "origin": "new",
+      "svg": "assets/svg/navigation/waypoint.svg",
+      "png": "assets/png/navigation/waypoint.png",
+      "png-light": "assets/png-light/navigation/waypoint.png"
+    },
+    {
+      "id": "antenna",
+      "category": "network",
+      "origin": "new",
+      "svg": "assets/svg/network/antenna.svg",
+      "png": "assets/png/network/antenna.png",
+      "png-light": "assets/png-light/network/antenna.png"
+    },
+    {
+      "id": "broadcast-tower",
+      "category": "network",
+      "origin": "new",
+      "svg": "assets/svg/network/broadcast-tower.svg",
+      "png": "assets/png/network/broadcast-tower.png",
+      "png-light": "assets/png-light/network/broadcast-tower.png"
+    },
+    {
+      "id": "cloud",
+      "category": "network",
+      "origin": "refined",
+      "svg": "assets/svg/network/cloud.svg",
+      "legacyName": "cloud",
+      "png": "assets/png/network/cloud.png",
+      "png-light": "assets/png-light/network/cloud.png"
+    },
+    {
+      "id": "cloud-add",
+      "category": "network",
+      "origin": "state",
+      "svg": "assets/svg/network/cloud-add.svg",
+      "png": "assets/png/network/cloud-add.png",
+      "png-light": "assets/png-light/network/cloud-add.png"
+    },
+    {
+      "id": "cloud-check",
+      "category": "network",
+      "origin": "state",
+      "svg": "assets/svg/network/cloud-check.svg",
+      "png": "assets/png/network/cloud-check.png",
+      "png-light": "assets/png-light/network/cloud-check.png"
+    },
+    {
+      "id": "cloud-download",
+      "category": "network",
+      "origin": "state",
+      "svg": "assets/svg/network/cloud-download.svg",
+      "png": "assets/png/network/cloud-download.png",
+      "png-light": "assets/png-light/network/cloud-download.png"
+    },
+    {
+      "id": "cloud-lock",
+      "category": "network",
+      "origin": "state",
+      "svg": "assets/svg/network/cloud-lock.svg",
+      "png": "assets/png/network/cloud-lock.png",
+      "png-light": "assets/png-light/network/cloud-lock.png"
+    },
+    {
+      "id": "cloud-pause",
+      "category": "network",
+      "origin": "state",
+      "svg": "assets/svg/network/cloud-pause.svg",
+      "png": "assets/png/network/cloud-pause.png",
+      "png-light": "assets/png-light/network/cloud-pause.png"
+    },
+    {
+      "id": "cloud-remove",
+      "category": "network",
+      "origin": "state",
+      "svg": "assets/svg/network/cloud-remove.svg",
+      "png": "assets/png/network/cloud-remove.png",
+      "png-light": "assets/png-light/network/cloud-remove.png"
+    },
+    {
+      "id": "cloud-share",
+      "category": "network",
+      "origin": "state",
+      "svg": "assets/svg/network/cloud-share.svg",
+      "png": "assets/png/network/cloud-share.png",
+      "png-light": "assets/png-light/network/cloud-share.png"
+    },
+    {
+      "id": "cloud-sync",
+      "category": "network",
+      "origin": "state",
+      "svg": "assets/svg/network/cloud-sync.svg",
+      "png": "assets/png/network/cloud-sync.png",
+      "png-light": "assets/png-light/network/cloud-sync.png"
+    },
+    {
+      "id": "cloud-upload",
+      "category": "network",
+      "origin": "state",
+      "svg": "assets/svg/network/cloud-upload.svg",
+      "png": "assets/png/network/cloud-upload.png",
+      "png-light": "assets/png-light/network/cloud-upload.png"
+    },
+    {
+      "id": "cloud-warning",
+      "category": "network",
+      "origin": "state",
+      "svg": "assets/svg/network/cloud-warning.svg",
+      "png": "assets/png/network/cloud-warning.png",
+      "png-light": "assets/png-light/network/cloud-warning.png"
+    },
+    {
+      "id": "dns",
+      "category": "network",
+      "origin": "new",
+      "svg": "assets/svg/network/dns.svg",
+      "png": "assets/png/network/dns.png",
+      "png-light": "assets/png-light/network/dns.png"
+    },
+    {
+      "id": "ethernet",
+      "category": "network",
+      "origin": "new",
+      "svg": "assets/svg/network/ethernet.svg",
+      "png": "assets/png/network/ethernet.png",
+      "png-light": "assets/png-light/network/ethernet.png"
+    },
+    {
+      "id": "ethernet-check",
+      "category": "network",
+      "origin": "state",
+      "svg": "assets/svg/network/ethernet-check.svg",
+      "png": "assets/png/network/ethernet-check.png",
+      "png-light": "assets/png-light/network/ethernet-check.png"
+    },
+    {
+      "id": "ethernet-lock",
+      "category": "network",
+      "origin": "state",
+      "svg": "assets/svg/network/ethernet-lock.svg",
+      "png": "assets/png/network/ethernet-lock.png",
+      "png-light": "assets/png-light/network/ethernet-lock.png"
+    },
+    {
+      "id": "ethernet-off",
+      "category": "network",
+      "origin": "state",
+      "svg": "assets/svg/network/ethernet-off.svg",
+      "png": "assets/png/network/ethernet-off.png",
+      "png-light": "assets/png-light/network/ethernet-off.png"
+    },
+    {
+      "id": "ethernet-warning",
+      "category": "network",
+      "origin": "state",
+      "svg": "assets/svg/network/ethernet-warning.svg",
+      "png": "assets/png/network/ethernet-warning.png",
+      "png-light": "assets/png-light/network/ethernet-warning.png"
+    },
+    {
+      "id": "globe",
+      "category": "network",
+      "origin": "new",
+      "svg": "assets/svg/network/globe.svg",
+      "png": "assets/png/network/globe.png",
+      "png-light": "assets/png-light/network/globe.png"
+    },
+    {
+      "id": "language",
+      "category": "network",
+      "origin": "redrawn",
+      "svg": "assets/svg/network/language.svg",
+      "legacyName": "language",
+      "png": "assets/png/network/language.png",
+      "png-light": "assets/png-light/network/language.png"
+    },
+    {
+      "id": "latency",
+      "category": "network",
+      "origin": "refined",
+      "svg": "assets/svg/network/latency.svg",
+      "legacyName": "latency",
+      "png": "assets/png/network/latency.png",
+      "png-light": "assets/png-light/network/latency.png"
+    },
+    {
+      "id": "link",
+      "category": "network",
+      "origin": "refined",
+      "svg": "assets/svg/network/link.svg",
+      "legacyName": "link",
+      "png": "assets/png/network/link.png",
+      "png-light": "assets/png-light/network/link.png"
+    },
+    {
+      "id": "link-add",
+      "category": "network",
+      "origin": "state",
+      "svg": "assets/svg/network/link-add.svg",
+      "png": "assets/png/network/link-add.png",
+      "png-light": "assets/png-light/network/link-add.png"
+    },
+    {
+      "id": "link-broken",
+      "category": "network",
+      "origin": "new",
+      "svg": "assets/svg/network/link-broken.svg",
+      "png": "assets/png/network/link-broken.png",
+      "png-light": "assets/png-light/network/link-broken.png"
+    },
+    {
+      "id": "link-check",
+      "category": "network",
+      "origin": "state",
+      "svg": "assets/svg/network/link-check.svg",
+      "png": "assets/png/network/link-check.png",
+      "png-light": "assets/png-light/network/link-check.png"
+    },
+    {
+      "id": "link-lock",
+      "category": "network",
+      "origin": "state",
+      "svg": "assets/svg/network/link-lock.svg",
+      "png": "assets/png/network/link-lock.png",
+      "png-light": "assets/png-light/network/link-lock.png"
+    },
+    {
+      "id": "link-remove",
+      "category": "network",
+      "origin": "state",
+      "svg": "assets/svg/network/link-remove.svg",
+      "png": "assets/png/network/link-remove.png",
+      "png-light": "assets/png-light/network/link-remove.png"
+    },
+    {
+      "id": "link-share",
+      "category": "network",
+      "origin": "state",
+      "svg": "assets/svg/network/link-share.svg",
+      "png": "assets/png/network/link-share.png",
+      "png-light": "assets/png-light/network/link-share.png"
+    },
+    {
+      "id": "link-warning",
+      "category": "network",
+      "origin": "state",
+      "svg": "assets/svg/network/link-warning.svg",
+      "png": "assets/png/network/link-warning.png",
+      "png-light": "assets/png-light/network/link-warning.png"
+    },
+    {
+      "id": "live",
+      "category": "network",
+      "origin": "refined",
+      "svg": "assets/svg/network/live.svg",
+      "legacyName": "live",
+      "png": "assets/png/network/live.png",
+      "png-light": "assets/png-light/network/live.png"
+    },
+    {
+      "id": "packet-loss",
+      "category": "network",
+      "origin": "redrawn",
+      "svg": "assets/svg/network/packet-loss.svg",
+      "legacyName": "packet_loss",
+      "png": "assets/png/network/packet-loss.png",
+      "png-light": "assets/png-light/network/packet-loss.png"
+    },
+    {
+      "id": "router",
+      "category": "network",
+      "origin": "new",
+      "svg": "assets/svg/network/router.svg",
+      "png": "assets/png/network/router.png",
+      "png-light": "assets/png-light/network/router.png"
+    },
+    {
+      "id": "router-add",
+      "category": "network",
+      "origin": "state",
+      "svg": "assets/svg/network/router-add.svg",
+      "png": "assets/png/network/router-add.png",
+      "png-light": "assets/png-light/network/router-add.png"
+    },
+    {
+      "id": "router-check",
+      "category": "network",
+      "origin": "state",
+      "svg": "assets/svg/network/router-check.svg",
+      "png": "assets/png/network/router-check.png",
+      "png-light": "assets/png-light/network/router-check.png"
+    },
+    {
+      "id": "router-lock",
+      "category": "network",
+      "origin": "state",
+      "svg": "assets/svg/network/router-lock.svg",
+      "png": "assets/png/network/router-lock.png",
+      "png-light": "assets/png-light/network/router-lock.png"
+    },
+    {
+      "id": "router-sync",
+      "category": "network",
+      "origin": "state",
+      "svg": "assets/svg/network/router-sync.svg",
+      "png": "assets/png/network/router-sync.png",
+      "png-light": "assets/png-light/network/router-sync.png"
+    },
+    {
+      "id": "router-warning",
+      "category": "network",
+      "origin": "state",
+      "svg": "assets/svg/network/router-warning.svg",
+      "png": "assets/png/network/router-warning.png",
+      "png-light": "assets/png-light/network/router-warning.png"
+    },
+    {
+      "id": "rss",
+      "category": "network",
+      "origin": "refined",
+      "svg": "assets/svg/network/rss.svg",
+      "legacyName": "rss",
+      "png": "assets/png/network/rss.png",
+      "png-light": "assets/png-light/network/rss.png"
+    },
+    {
+      "id": "satellite",
+      "category": "network",
+      "origin": "new",
+      "svg": "assets/svg/network/satellite.svg",
+      "png": "assets/png/network/satellite.png",
+      "png-light": "assets/png-light/network/satellite.png"
+    },
+    {
+      "id": "server",
+      "category": "network",
+      "origin": "refined",
+      "svg": "assets/svg/network/server.svg",
+      "legacyName": "server",
+      "png": "assets/png/network/server.png",
+      "png-light": "assets/png-light/network/server.png"
+    },
+    {
+      "id": "server-add",
+      "category": "network",
+      "origin": "state",
+      "svg": "assets/svg/network/server-add.svg",
+      "png": "assets/png/network/server-add.png",
+      "png-light": "assets/png-light/network/server-add.png"
+    },
+    {
+      "id": "server-check",
+      "category": "network",
+      "origin": "state",
+      "svg": "assets/svg/network/server-check.svg",
+      "png": "assets/png/network/server-check.png",
+      "png-light": "assets/png-light/network/server-check.png"
+    },
+    {
+      "id": "server-lock",
+      "category": "network",
+      "origin": "state",
+      "svg": "assets/svg/network/server-lock.svg",
+      "png": "assets/png/network/server-lock.png",
+      "png-light": "assets/png-light/network/server-lock.png"
+    },
+    {
+      "id": "server-remove",
+      "category": "network",
+      "origin": "state",
+      "svg": "assets/svg/network/server-remove.svg",
+      "png": "assets/png/network/server-remove.png",
+      "png-light": "assets/png-light/network/server-remove.png"
+    },
+    {
+      "id": "server-search",
+      "category": "network",
+      "origin": "state",
+      "svg": "assets/svg/network/server-search.svg",
+      "png": "assets/png/network/server-search.png",
+      "png-light": "assets/png-light/network/server-search.png"
+    },
+    {
+      "id": "server-sync",
+      "category": "network",
+      "origin": "state",
+      "svg": "assets/svg/network/server-sync.svg",
+      "png": "assets/png/network/server-sync.png",
+      "png-light": "assets/png-light/network/server-sync.png"
+    },
+    {
+      "id": "server-warning",
+      "category": "network",
+      "origin": "state",
+      "svg": "assets/svg/network/server-warning.svg",
+      "png": "assets/png/network/server-warning.png",
+      "png-light": "assets/png-light/network/server-warning.png"
+    },
+    {
+      "id": "signal",
+      "category": "network",
+      "origin": "new",
+      "svg": "assets/svg/network/signal.svg",
+      "png": "assets/png/network/signal.png",
+      "png-light": "assets/png-light/network/signal.png"
+    },
+    {
+      "id": "wifi",
+      "category": "network",
+      "origin": "new",
+      "svg": "assets/svg/network/wifi.svg",
+      "png": "assets/png/network/wifi.png",
+      "png-light": "assets/png-light/network/wifi.png"
+    },
+    {
+      "id": "wifi-add",
+      "category": "network",
+      "origin": "state",
+      "svg": "assets/svg/network/wifi-add.svg",
+      "png": "assets/png/network/wifi-add.png",
+      "png-light": "assets/png-light/network/wifi-add.png"
+    },
+    {
+      "id": "wifi-check",
+      "category": "network",
+      "origin": "state",
+      "svg": "assets/svg/network/wifi-check.svg",
+      "png": "assets/png/network/wifi-check.png",
+      "png-light": "assets/png-light/network/wifi-check.png"
+    },
+    {
+      "id": "wifi-lock",
+      "category": "network",
+      "origin": "state",
+      "svg": "assets/svg/network/wifi-lock.svg",
+      "png": "assets/png/network/wifi-lock.png",
+      "png-light": "assets/png-light/network/wifi-lock.png"
+    },
+    {
+      "id": "wifi-off",
+      "category": "network",
+      "origin": "state",
+      "svg": "assets/svg/network/wifi-off.svg",
+      "png": "assets/png/network/wifi-off.png",
+      "png-light": "assets/png-light/network/wifi-off.png"
+    },
+    {
+      "id": "wifi-warning",
+      "category": "network",
+      "origin": "state",
+      "svg": "assets/svg/network/wifi-warning.svg",
+      "png": "assets/png/network/wifi-warning.png",
+      "png-light": "assets/png-light/network/wifi-warning.png"
+    },
+    {
+      "id": "accessibility",
+      "category": "people",
+      "origin": "new",
+      "svg": "assets/svg/people/accessibility.svg",
+      "png": "assets/png/people/accessibility.png",
+      "png-light": "assets/png-light/people/accessibility.png"
+    },
+    {
+      "id": "account",
+      "category": "people",
+      "origin": "refined",
+      "svg": "assets/svg/people/account.svg",
+      "legacyName": "account",
+      "png": "assets/png/people/account.png",
+      "png-light": "assets/png-light/people/account.png"
+    },
+    {
+      "id": "badge",
+      "category": "people",
+      "origin": "new",
+      "svg": "assets/svg/people/badge.svg",
+      "png": "assets/png/people/badge.png",
+      "png-light": "assets/png-light/people/badge.png"
+    },
+    {
+      "id": "handshake",
+      "category": "people",
+      "origin": "new",
+      "svg": "assets/svg/people/handshake.svg",
+      "png": "assets/png/people/handshake.png",
+      "png-light": "assets/png-light/people/handshake.png"
+    },
+    {
+      "id": "id-card",
+      "category": "people",
+      "origin": "new",
+      "svg": "assets/svg/people/id-card.svg",
+      "png": "assets/png/people/id-card.png",
+      "png-light": "assets/png-light/people/id-card.png"
+    },
+    {
+      "id": "id-card-add",
+      "category": "people",
+      "origin": "state",
+      "svg": "assets/svg/people/id-card-add.svg",
+      "png": "assets/png/people/id-card-add.png",
+      "png-light": "assets/png-light/people/id-card-add.png"
+    },
+    {
+      "id": "id-card-check",
+      "category": "people",
+      "origin": "state",
+      "svg": "assets/svg/people/id-card-check.svg",
+      "png": "assets/png/people/id-card-check.png",
+      "png-light": "assets/png-light/people/id-card-check.png"
+    },
+    {
+      "id": "id-card-edit",
+      "category": "people",
+      "origin": "state",
+      "svg": "assets/svg/people/id-card-edit.svg",
+      "png": "assets/png/people/id-card-edit.png",
+      "png-light": "assets/png-light/people/id-card-edit.png"
+    },
+    {
+      "id": "id-card-lock",
+      "category": "people",
+      "origin": "state",
+      "svg": "assets/svg/people/id-card-lock.svg",
+      "png": "assets/png/people/id-card-lock.png",
+      "png-light": "assets/png-light/people/id-card-lock.png"
+    },
+    {
+      "id": "id-card-warning",
+      "category": "people",
+      "origin": "state",
+      "svg": "assets/svg/people/id-card-warning.svg",
+      "png": "assets/png/people/id-card-warning.png",
+      "png-light": "assets/png-light/people/id-card-warning.png"
+    },
+    {
+      "id": "organization",
+      "category": "people",
+      "origin": "refined",
+      "svg": "assets/svg/people/organization.svg",
+      "legacyName": "organization",
+      "png": "assets/png/people/organization.png",
+      "png-light": "assets/png-light/people/organization.png"
+    },
+    {
+      "id": "profile",
+      "category": "people",
+      "origin": "redrawn",
+      "svg": "assets/svg/people/profile.svg",
+      "legacyName": "profile",
+      "png": "assets/png/people/profile.png",
+      "png-light": "assets/png-light/people/profile.png"
+    },
+    {
+      "id": "team",
+      "category": "people",
+      "origin": "new",
+      "svg": "assets/svg/people/team.svg",
+      "png": "assets/png/people/team.png",
+      "png-light": "assets/png-light/people/team.png"
+    },
+    {
+      "id": "team-add",
+      "category": "people",
+      "origin": "state",
+      "svg": "assets/svg/people/team-add.svg",
+      "png": "assets/png/people/team-add.png",
+      "png-light": "assets/png-light/people/team-add.png"
+    },
+    {
+      "id": "team-check",
+      "category": "people",
+      "origin": "state",
+      "svg": "assets/svg/people/team-check.svg",
+      "png": "assets/png/people/team-check.png",
+      "png-light": "assets/png-light/people/team-check.png"
+    },
+    {
+      "id": "team-edit",
+      "category": "people",
+      "origin": "state",
+      "svg": "assets/svg/people/team-edit.svg",
+      "png": "assets/png/people/team-edit.png",
+      "png-light": "assets/png-light/people/team-edit.png"
+    },
+    {
+      "id": "team-lock",
+      "category": "people",
+      "origin": "state",
+      "svg": "assets/svg/people/team-lock.svg",
+      "png": "assets/png/people/team-lock.png",
+      "png-light": "assets/png-light/people/team-lock.png"
+    },
+    {
+      "id": "team-remove",
+      "category": "people",
+      "origin": "state",
+      "svg": "assets/svg/people/team-remove.svg",
+      "png": "assets/png/people/team-remove.png",
+      "png-light": "assets/png-light/people/team-remove.png"
+    },
+    {
+      "id": "team-search",
+      "category": "people",
+      "origin": "state",
+      "svg": "assets/svg/people/team-search.svg",
+      "png": "assets/png/people/team-search.png",
+      "png-light": "assets/png-light/people/team-search.png"
+    },
+    {
+      "id": "user",
+      "category": "people",
+      "origin": "new",
+      "svg": "assets/svg/people/user.svg",
+      "png": "assets/png/people/user.png",
+      "png-light": "assets/png-light/people/user.png"
+    },
+    {
+      "id": "user-add",
+      "category": "people",
+      "origin": "state",
+      "svg": "assets/svg/people/user-add.svg",
+      "png": "assets/png/people/user-add.png",
+      "png-light": "assets/png-light/people/user-add.png"
+    },
+    {
+      "id": "user-check",
+      "category": "people",
+      "origin": "state",
+      "svg": "assets/svg/people/user-check.svg",
+      "png": "assets/png/people/user-check.png",
+      "png-light": "assets/png-light/people/user-check.png"
+    },
+    {
+      "id": "user-circle",
+      "category": "people",
+      "origin": "new",
+      "svg": "assets/svg/people/user-circle.svg",
+      "png": "assets/png/people/user-circle.png",
+      "png-light": "assets/png-light/people/user-circle.png"
+    },
+    {
+      "id": "user-clock",
+      "category": "people",
+      "origin": "state",
+      "svg": "assets/svg/people/user-clock.svg",
+      "png": "assets/png/people/user-clock.png",
+      "png-light": "assets/png-light/people/user-clock.png"
+    },
+    {
+      "id": "user-close",
+      "category": "people",
+      "origin": "state",
+      "svg": "assets/svg/people/user-close.svg",
+      "png": "assets/png/people/user-close.png",
+      "png-light": "assets/png-light/people/user-close.png"
+    },
+    {
+      "id": "user-edit",
+      "category": "people",
+      "origin": "state",
+      "svg": "assets/svg/people/user-edit.svg",
+      "png": "assets/png/people/user-edit.png",
+      "png-light": "assets/png-light/people/user-edit.png"
+    },
+    {
+      "id": "user-lock",
+      "category": "people",
+      "origin": "state",
+      "svg": "assets/svg/people/user-lock.svg",
+      "png": "assets/png/people/user-lock.png",
+      "png-light": "assets/png-light/people/user-lock.png"
+    },
+    {
+      "id": "user-remove",
+      "category": "people",
+      "origin": "state",
+      "svg": "assets/svg/people/user-remove.svg",
+      "png": "assets/png/people/user-remove.png",
+      "png-light": "assets/png-light/people/user-remove.png"
+    },
+    {
+      "id": "user-search",
+      "category": "people",
+      "origin": "state",
+      "svg": "assets/svg/people/user-search.svg",
+      "png": "assets/png/people/user-search.png",
+      "png-light": "assets/png-light/people/user-search.png"
+    },
+    {
+      "id": "user-warning",
+      "category": "people",
+      "origin": "state",
+      "svg": "assets/svg/people/user-warning.svg",
+      "png": "assets/png/people/user-warning.png",
+      "png-light": "assets/png-light/people/user-warning.png"
+    },
+    {
+      "id": "users",
+      "category": "people",
+      "origin": "refined",
+      "svg": "assets/svg/people/users.svg",
+      "legacyName": "users",
+      "png": "assets/png/people/users.png",
+      "png-light": "assets/png-light/people/users.png"
+    },
+    {
+      "id": "certificate",
+      "category": "security",
+      "origin": "new",
+      "svg": "assets/svg/security/certificate.svg",
+      "png": "assets/png/security/certificate.png",
+      "png-light": "assets/png-light/security/certificate.png"
+    },
+    {
+      "id": "certificate-add",
+      "category": "security",
+      "origin": "state",
+      "svg": "assets/svg/security/certificate-add.svg",
+      "png": "assets/png/security/certificate-add.png",
+      "png-light": "assets/png-light/security/certificate-add.png"
+    },
+    {
+      "id": "certificate-check",
+      "category": "security",
+      "origin": "state",
+      "svg": "assets/svg/security/certificate-check.svg",
+      "png": "assets/png/security/certificate-check.png",
+      "png-light": "assets/png-light/security/certificate-check.png"
+    },
+    {
+      "id": "certificate-download",
+      "category": "security",
+      "origin": "state",
+      "svg": "assets/svg/security/certificate-download.svg",
+      "png": "assets/png/security/certificate-download.png",
+      "png-light": "assets/png-light/security/certificate-download.png"
+    },
+    {
+      "id": "certificate-lock",
+      "category": "security",
+      "origin": "state",
+      "svg": "assets/svg/security/certificate-lock.svg",
+      "png": "assets/png/security/certificate-lock.png",
+      "png-light": "assets/png-light/security/certificate-lock.png"
+    },
+    {
+      "id": "certificate-warning",
+      "category": "security",
+      "origin": "state",
+      "svg": "assets/svg/security/certificate-warning.svg",
+      "png": "assets/png/security/certificate-warning.png",
+      "png-light": "assets/png-light/security/certificate-warning.png"
+    },
+    {
+      "id": "fingerprint",
+      "category": "security",
+      "origin": "new",
+      "svg": "assets/svg/security/fingerprint.svg",
+      "png": "assets/png/security/fingerprint.png",
+      "png-light": "assets/png-light/security/fingerprint.png"
+    },
+    {
+      "id": "key",
+      "category": "security",
+      "origin": "new",
+      "svg": "assets/svg/security/key.svg",
+      "png": "assets/png/security/key.png",
+      "png-light": "assets/png-light/security/key.png"
+    },
+    {
+      "id": "key-add",
+      "category": "security",
+      "origin": "state",
+      "svg": "assets/svg/security/key-add.svg",
+      "png": "assets/png/security/key-add.png",
+      "png-light": "assets/png-light/security/key-add.png"
+    },
+    {
+      "id": "key-check",
+      "category": "security",
+      "origin": "state",
+      "svg": "assets/svg/security/key-check.svg",
+      "png": "assets/png/security/key-check.png",
+      "png-light": "assets/png-light/security/key-check.png"
+    },
+    {
+      "id": "key-remove",
+      "category": "security",
+      "origin": "state",
+      "svg": "assets/svg/security/key-remove.svg",
+      "png": "assets/png/security/key-remove.png",
+      "png-light": "assets/png-light/security/key-remove.png"
+    },
+    {
+      "id": "key-search",
+      "category": "security",
+      "origin": "state",
+      "svg": "assets/svg/security/key-search.svg",
+      "png": "assets/png/security/key-search.png",
+      "png-light": "assets/png-light/security/key-search.png"
+    },
+    {
+      "id": "key-warning",
+      "category": "security",
+      "origin": "state",
+      "svg": "assets/svg/security/key-warning.svg",
+      "png": "assets/png/security/key-warning.png",
+      "png-light": "assets/png-light/security/key-warning.png"
+    },
+    {
+      "id": "legal",
+      "category": "security",
+      "origin": "refined",
+      "svg": "assets/svg/security/legal.svg",
+      "legacyName": "legal",
+      "png": "assets/png/security/legal.png",
+      "png-light": "assets/png-light/security/legal.png"
+    },
+    {
+      "id": "lock",
+      "category": "security",
+      "origin": "new",
+      "svg": "assets/svg/security/lock.svg",
+      "png": "assets/png/security/lock.png",
+      "png-light": "assets/png-light/security/lock.png"
+    },
+    {
+      "id": "lock-open",
+      "category": "security",
+      "origin": "new",
+      "svg": "assets/svg/security/lock-open.svg",
+      "png": "assets/png/security/lock-open.png",
+      "png-light": "assets/png-light/security/lock-open.png"
+    },
+    {
+      "id": "login",
+      "category": "security",
+      "origin": "redrawn",
+      "svg": "assets/svg/security/login.svg",
+      "legacyName": "login",
+      "png": "assets/png/security/login.png",
+      "png-light": "assets/png-light/security/login.png"
+    },
+    {
+      "id": "logout",
+      "category": "security",
+      "origin": "redrawn",
+      "svg": "assets/svg/security/logout.svg",
+      "legacyName": "logout",
+      "png": "assets/png/security/logout.png",
+      "png-light": "assets/png-light/security/logout.png"
+    },
+    {
+      "id": "password",
+      "category": "security",
+      "origin": "new",
+      "svg": "assets/svg/security/password.svg",
+      "png": "assets/png/security/password.png",
+      "png-light": "assets/png-light/security/password.png"
+    },
+    {
+      "id": "privacy",
+      "category": "security",
+      "origin": "refined",
+      "svg": "assets/svg/security/privacy.svg",
+      "legacyName": "privacy",
+      "png": "assets/png/security/privacy.png",
+      "png-light": "assets/png-light/security/privacy.png"
+    },
+    {
+      "id": "scan",
+      "category": "security",
+      "origin": "new",
+      "svg": "assets/svg/security/scan.svg",
+      "png": "assets/png/security/scan.png",
+      "png-light": "assets/png-light/security/scan.png"
+    },
+    {
+      "id": "security",
+      "category": "security",
+      "origin": "redrawn",
+      "svg": "assets/svg/security/security.svg",
+      "legacyName": "security",
+      "png": "assets/png/security/security.png",
+      "png-light": "assets/png-light/security/security.png"
+    },
+    {
+      "id": "shield",
+      "category": "security",
+      "origin": "new",
+      "svg": "assets/svg/security/shield.svg",
+      "png": "assets/png/security/shield.png",
+      "png-light": "assets/png-light/security/shield.png"
+    },
+    {
+      "id": "shield-add",
+      "category": "security",
+      "origin": "state",
+      "svg": "assets/svg/security/shield-add.svg",
+      "png": "assets/png/security/shield-add.png",
+      "png-light": "assets/png-light/security/shield-add.png"
+    },
+    {
+      "id": "shield-alert",
+      "category": "security",
+      "origin": "new",
+      "svg": "assets/svg/security/shield-alert.svg",
+      "png": "assets/png/security/shield-alert.png",
+      "png-light": "assets/png-light/security/shield-alert.png"
+    },
+    {
+      "id": "shield-check",
+      "category": "security",
+      "origin": "state",
+      "svg": "assets/svg/security/shield-check.svg",
+      "png": "assets/png/security/shield-check.png",
+      "png-light": "assets/png-light/security/shield-check.png"
+    },
+    {
+      "id": "shield-lock",
+      "category": "security",
+      "origin": "state",
+      "svg": "assets/svg/security/shield-lock.svg",
+      "png": "assets/png/security/shield-lock.png",
+      "png-light": "assets/png-light/security/shield-lock.png"
+    },
+    {
+      "id": "shield-off",
+      "category": "security",
+      "origin": "state",
+      "svg": "assets/svg/security/shield-off.svg",
+      "png": "assets/png/security/shield-off.png",
+      "png-light": "assets/png-light/security/shield-off.png"
+    },
+    {
+      "id": "alarm",
+      "category": "time",
+      "origin": "new",
+      "svg": "assets/svg/time/alarm.svg",
+      "png": "assets/png/time/alarm.png",
+      "png-light": "assets/png-light/time/alarm.png"
+    },
+    {
+      "id": "calendar",
+      "category": "time",
+      "origin": "refined",
+      "svg": "assets/svg/time/calendar.svg",
+      "legacyName": "calendar",
+      "png": "assets/png/time/calendar.png",
+      "png-light": "assets/png-light/time/calendar.png"
+    },
+    {
+      "id": "calendar-add",
+      "category": "time",
+      "origin": "state",
+      "svg": "assets/svg/time/calendar-add.svg",
+      "png": "assets/png/time/calendar-add.png",
+      "png-light": "assets/png-light/time/calendar-add.png"
+    },
+    {
+      "id": "calendar-check",
+      "category": "time",
+      "origin": "state",
+      "svg": "assets/svg/time/calendar-check.svg",
+      "png": "assets/png/time/calendar-check.png",
+      "png-light": "assets/png-light/time/calendar-check.png"
+    },
+    {
+      "id": "calendar-clock",
+      "category": "time",
+      "origin": "state",
+      "svg": "assets/svg/time/calendar-clock.svg",
+      "png": "assets/png/time/calendar-clock.png",
+      "png-light": "assets/png-light/time/calendar-clock.png"
+    },
+    {
+      "id": "calendar-edit",
+      "category": "time",
+      "origin": "state",
+      "svg": "assets/svg/time/calendar-edit.svg",
+      "png": "assets/png/time/calendar-edit.png",
+      "png-light": "assets/png-light/time/calendar-edit.png"
+    },
+    {
+      "id": "calendar-lock",
+      "category": "time",
+      "origin": "state",
+      "svg": "assets/svg/time/calendar-lock.svg",
+      "png": "assets/png/time/calendar-lock.png",
+      "png-light": "assets/png-light/time/calendar-lock.png"
+    },
+    {
+      "id": "calendar-range",
+      "category": "time",
+      "origin": "new",
+      "svg": "assets/svg/time/calendar-range.svg",
+      "png": "assets/png/time/calendar-range.png",
+      "png-light": "assets/png-light/time/calendar-range.png"
+    },
+    {
+      "id": "calendar-remove",
+      "category": "time",
+      "origin": "state",
+      "svg": "assets/svg/time/calendar-remove.svg",
+      "png": "assets/png/time/calendar-remove.png",
+      "png-light": "assets/png-light/time/calendar-remove.png"
+    },
+    {
+      "id": "calendar-search",
+      "category": "time",
+      "origin": "state",
+      "svg": "assets/svg/time/calendar-search.svg",
+      "png": "assets/png/time/calendar-search.png",
+      "png-light": "assets/png-light/time/calendar-search.png"
+    },
+    {
+      "id": "clock",
+      "category": "time",
+      "origin": "new",
+      "svg": "assets/svg/time/clock.svg",
+      "png": "assets/png/time/clock.png",
+      "png-light": "assets/png-light/time/clock.png"
+    },
+    {
+      "id": "history",
+      "category": "time",
+      "origin": "new",
+      "svg": "assets/svg/time/history.svg",
+      "png": "assets/png/time/history.png",
+      "png-light": "assets/png-light/time/history.png"
+    },
+    {
+      "id": "hourglass",
+      "category": "time",
+      "origin": "new",
+      "svg": "assets/svg/time/hourglass.svg",
+      "png": "assets/png/time/hourglass.png",
+      "png-light": "assets/png-light/time/hourglass.png"
+    },
+    {
+      "id": "schedule",
+      "category": "time",
+      "origin": "new",
+      "svg": "assets/svg/time/schedule.svg",
+      "png": "assets/png/time/schedule.png",
+      "png-light": "assets/png-light/time/schedule.png"
+    },
+    {
+      "id": "sunrise",
+      "category": "time",
+      "origin": "new",
+      "svg": "assets/svg/time/sunrise.svg",
+      "png": "assets/png/time/sunrise.png",
+      "png-light": "assets/png-light/time/sunrise.png"
+    },
+    {
+      "id": "timer",
+      "category": "time",
+      "origin": "new",
+      "svg": "assets/svg/time/timer.svg",
+      "png": "assets/png/time/timer.png",
+      "png-light": "assets/png-light/time/timer.png"
+    },
+    {
+      "id": "bicycle",
+      "category": "travel",
+      "origin": "new",
+      "svg": "assets/svg/travel/bicycle.svg",
+      "png": "assets/png/travel/bicycle.png",
+      "png-light": "assets/png-light/travel/bicycle.png"
+    },
+    {
+      "id": "boat",
+      "category": "travel",
+      "origin": "new",
+      "svg": "assets/svg/travel/boat.svg",
+      "png": "assets/png/travel/boat.png",
+      "png-light": "assets/png-light/travel/boat.png"
+    },
+    {
+      "id": "bus",
+      "category": "travel",
+      "origin": "new",
+      "svg": "assets/svg/travel/bus.svg",
+      "png": "assets/png/travel/bus.png",
+      "png-light": "assets/png-light/travel/bus.png"
+    },
+    {
+      "id": "car",
+      "category": "travel",
+      "origin": "new",
+      "svg": "assets/svg/travel/car.svg",
+      "png": "assets/png/travel/car.png",
+      "png-light": "assets/png-light/travel/car.png"
+    },
+    {
+      "id": "mountain",
+      "category": "travel",
+      "origin": "new",
+      "svg": "assets/svg/travel/mountain.svg",
+      "png": "assets/png/travel/mountain.png",
+      "png-light": "assets/png-light/travel/mountain.png"
+    },
+    {
+      "id": "plane",
+      "category": "travel",
+      "origin": "new",
+      "svg": "assets/svg/travel/plane.svg",
+      "png": "assets/png/travel/plane.png",
+      "png-light": "assets/png-light/travel/plane.png"
+    },
+    {
+      "id": "suitcase",
+      "category": "travel",
+      "origin": "new",
+      "svg": "assets/svg/travel/suitcase.svg",
+      "png": "assets/png/travel/suitcase.png",
+      "png-light": "assets/png-light/travel/suitcase.png"
+    },
+    {
+      "id": "tent",
+      "category": "travel",
+      "origin": "new",
+      "svg": "assets/svg/travel/tent.svg",
+      "png": "assets/png/travel/tent.png",
+      "png-light": "assets/png-light/travel/tent.png"
+    },
+    {
+      "id": "ticket",
+      "category": "travel",
+      "origin": "new",
+      "svg": "assets/svg/travel/ticket.svg",
+      "png": "assets/png/travel/ticket.png",
+      "png-light": "assets/png-light/travel/ticket.png"
+    },
+    {
+      "id": "ticket-add",
+      "category": "travel",
+      "origin": "state",
+      "svg": "assets/svg/travel/ticket-add.svg",
+      "png": "assets/png/travel/ticket-add.png",
+      "png-light": "assets/png-light/travel/ticket-add.png"
+    },
+    {
+      "id": "ticket-check",
+      "category": "travel",
+      "origin": "state",
+      "svg": "assets/svg/travel/ticket-check.svg",
+      "png": "assets/png/travel/ticket-check.png",
+      "png-light": "assets/png-light/travel/ticket-check.png"
+    },
+    {
+      "id": "ticket-download",
+      "category": "travel",
+      "origin": "state",
+      "svg": "assets/svg/travel/ticket-download.svg",
+      "png": "assets/png/travel/ticket-download.png",
+      "png-light": "assets/png-light/travel/ticket-download.png"
+    },
+    {
+      "id": "ticket-search",
+      "category": "travel",
+      "origin": "state",
+      "svg": "assets/svg/travel/ticket-search.svg",
+      "png": "assets/png/travel/ticket-search.png",
+      "png-light": "assets/png-light/travel/ticket-search.png"
+    },
+    {
+      "id": "ticket-warning",
+      "category": "travel",
+      "origin": "state",
+      "svg": "assets/svg/travel/ticket-warning.svg",
+      "png": "assets/png/travel/ticket-warning.png",
+      "png-light": "assets/png-light/travel/ticket-warning.png"
+    },
+    {
+      "id": "train",
+      "category": "travel",
+      "origin": "new",
+      "svg": "assets/svg/travel/train.svg",
+      "png": "assets/png/travel/train.png",
+      "png-light": "assets/png-light/travel/train.png"
+    }
+  ]
+}

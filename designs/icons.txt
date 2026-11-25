@@ -1,0 +1,258 @@
+# category | name | drawing elements separated by ;
+navigation|arrow-up|M32 54V10M17 25l15-15 15 15
+navigation|arrow-down|M32 10v44M17 39l15 15 15-15
+navigation|arrow-up-left|M49 49 15 15m0 20V15h20
+navigation|arrow-up-right|M15 49 49 15m-20 0h20v20
+navigation|arrow-down-left|M49 15 15 49m0-20v20h20
+navigation|arrow-down-right|M15 15l34 34m-20 0h20V29
+navigation|arrow-first|M46 14 28 32l18 18M17 13v38
+navigation|arrow-last|M18 14l18 18-18 18m29-37v38
+navigation|chevron-left|M41 13 22 32l19 19
+navigation|chevrons-up|M18 39l14-14 14 14M18 25l14-14 14 14
+navigation|chevrons-down|M18 25l14 14 14-14M18 39l14 14 14-14
+navigation|corner-up-left|M52 52V34a10 10 0 0 0-10-10H13m13-12L13 24l13 12
+navigation|corner-up-right|M12 52V34a10 10 0 0 1 10-10h29M38 12l13 12-13 12
+navigation|undo|M12 26h27a13 13 0 0 1 0 26H28M24 14 12 26l12 12
+navigation|redo|M52 26H25a13 13 0 0 0 0 26h11M40 14l12 12-12 12
+navigation|maximize|M25 12H12v13m27-13h13v13M12 39v13h13m27-13v13H39
+navigation|minimize|M12 25h13V12m27 13H39V12M12 39h13v13m27-13H39v13
+navigation|panel-left|r 10 13 44 38 4;M24 13v38
+navigation|panel-right|r 10 13 44 38 4;M40 13v38
+navigation|split-horizontal|r 10 13 44 38 4;M10 32h44
+navigation|breadcrumb|M10 23l9 9-9 9m17-18 9 9-9 9m17-18 9 9-9 9
+navigation|compass|c 32 32 22;M23 41l5-13 13-5-5 13-13 5Z
+navigation|map|M8 18l15-7 18 7 15-7v35l-15 7-18-7-15 7ZM23 11v35m18-28v35
+navigation|route|c 14 45 5;c 50 19 5;M19 45h17a8 8 0 0 0 0-16H27a8 8 0 0 1 0-16h9
+navigation|waypoint|M32 53V12m0 5h19l-5 7 5 7H32m0 1H13l5 7-5 7h19
+interface|about|M13 51V13h38v38H13Zm8-28h22m-22 9h22m-22 9h13
+interface|grid|r 10 10 18 18 3;r 36 10 18 18 3;r 10 36 18 18 3;r 36 36 18 18 3
+interface|list|M22 15h31M22 32h31M22 49h31;c 12 15 1.5;c 12 32 1.5;c 12 49 1.5
+interface|sort|M19 12v40m-9-9 9 9 9-9m17 9V12m-9 9 9-9 9 9
+interface|sort-ascending|M19 12v40m-9-9 9 9 9-9m8-24h16M36 32h11m-11 13h6
+interface|sort-descending|M19 52V12m-9 9 9-9 9 9m8 24h16M36 32h11m-11-13h6
+interface|minus|M15 32h34
+interface|x-circle|c 32 32 22;M24 24l16 16m0-16L24 40
+interface|more-horizontal|c 14 32 2;c 32 32 2;c 50 32 2
+interface|more-vertical|c 32 14 2;c 32 32 2;c 32 50 2
+interface|toggle-off|r 9 20 46 24 12;c 21 32 6
+interface|toggle-on|r 9 20 46 24 12;c 43 32 6
+interface|checkbox|r 12 12 40 40 5
+interface|checkbox-checked|r 12 12 40 40 5;M21 32l7 7 15-15
+interface|radio|c 32 32 20
+interface|radio-selected|c 32 32 20;c 32 32 7
+interface|sliders|M10 16h14m8 0h22M10 32h30m8 0h6M10 48h6m8 0h30;c 28 16 4;c 44 32 4;c 20 48 4
+interface|eye|M7 32s9-15 25-15 25 15 25 15-9 15-25 15S7 32 7 32Z;c 32 32 7
+interface|eye-off|M8 9l48 46M9 32s3-5 9-9m8-5c2-.5 4-1 6-1 16 0 25 15 25 15s-3 5-9 9M41 46c-3 1-6 1-9 1-16 0-23-15-23-15
+interface|pin|M23 12h18l-4 7v10l7 8H20l7-8V19l-4-7Zm9 25v16
+interface|cursor|M15 9l35 29-17 2-8 15L15 9Z
+interface|hand|M17 34V23a4 4 0 0 1 8 0V12a4 4 0 0 1 8 0v11-6a4 4 0 0 1 8 0v9-3a4 4 0 0 1 8 0v15a15 15 0 0 1-15 15h-3c-6 0-10-3-13-8l-7-11a4 4 0 0 1 6 0Z
+interface|move|M32 8v48M8 32h48M26 14l6-6 6 6m-12 36 6 6 6-6M14 26l-6 6 6 6m36-12 6 6-6 6
+interface|focus|M25 12H12v13m27-13h13v13m0 14v13H39m-14 0H12V39;c 32 32 5
+interface|layers|M8 25 32 10l24 15-24 15L8 25Zm0 8 24 15 24-15M8 41l24 15 24-15
+files|file|M16 9h21l11 11v35H16Zm21 0v12h11
+files|folder|M9 16h17l6 6h23v27H9Z
+files|folder-open|M9 48V16h18l6 6h17v8m-41 18 7-18h39l-7 18Z
+files|archive|r 12 22 40 30 4;r 9 12 46 10 2;M25 32h14
+files|clipboard|M22 15h-9v38h38V15h-9;r 22 10 20 10 3
+files|trash|M11 18h42m-31 0v-7h20v7m-26 0 3 35h26l3-35m-21 9v17m10-17v17
+files|save|M12 11h33l8 8v34H12Zm9 0v15h22v-15M21 53V35h23v18
+files|upload|M32 44V11m-13 13 13-13 13 13M11 43v10h42V43
+files|file-text|M16 9h21l11 11v35H16Zm21 0v12h11M23 31h18M23 39h18M23 47h11
+files|file-image|M16 9h21l11 11v35H16Zm21 0v12h11;c 26 31 3;M21 48l8-8 6 6 6-8 7 9
+files|file-audio|M16 9h21l11 11v35H16Zm21 0v12h11M30 44V28l11-3v15;e 26 45 4 3;e 37 41 4 3
+files|file-video|M16 9h21l11 11v35H16Zm21 0v12h11M27 29l13 8-13 8Z
+files|file-table|M16 9h21l11 11v35H16Zm21 0v12h11m-25 8h18v17H23Zm9 0v17m-9-9h18
+files|file-zip|M16 9h21l11 11v35H16Zm21 0v12h11M28 11v21m-3-16h6m-6 6h6m-6 6h6;r 24 33 8 10 2
+files|file-code|M16 9h21l11 11v35H16Zm21 0v12h11M26 31l-5 6 5 6m12-12 5 6-5 6m-3-15-6 18
+files|file-binary|M16 9h21l11 11v35H16Zm21 0v12h11m-9 9v9m-4 0h8m-4-9-3 3;r 22 29 8 11 3
+files|file-signature|M16 9h21l11 11v35H16Zm21 0v12h11M21 45l7-9 3 7 6-6 5 4
+files|file-compare|M9 13h16l6 6v22H9Zm24 10h16l6 6v22H33m-12-3h8m8-31h8
+files|file-import|M31 10h11l10 10v32H27V39m15-29v11h10M9 32h26m-8-8 8 8-8 8
+files|file-export|M30 10h12l10 10v32H24V39m18-29v11h10M35 32H9m8-8-8 8 8 8
+files|hard-drive|M11 36l6-20h30l6 20v14H11Zm0 0h42m-31 7h2m8 0h2
+files|database|e 32 16 19 7;M13 16v32c0 4 8 7 19 7s19-3 19-7V16M13 32c0 4 8 7 19 7s19-3 19-7
+files|package-open|M12 27v17l20 11 20-11V27M12 27l20 10 20-10M12 27 7 17l20-9 5 10 5-10 20 9-5 10m-40 0 20-9 20 9M32 37v18
+files|inbox|M9 36l8-21h30l8 21v14H9Zm0 0h15l3 6h10l3-6h15
+files|outbox|M23 15h-6L9 36v14h46V36l-8-21h-6M9 36h15l3 6h10l3-6h15M32 9v23m-7-16 7-7 7 7
+development|developer|M18 25l-9 7 9 7m28-14 9 7-9 7m-8-18L26 43M19 11h26m-26 42h26
+development|github|c 17 16 4;c 17 48 4;c 47 16 4;c 47 34 4;M17 20v24m30-24v10m-4 4H32a15 15 0 0 1-15-14
+development|git-branch|c 18 14 4;c 18 50 4;c 46 17 4;M18 18v28m28-25a19 19 0 0 1-19 19h-9
+development|git-commit|c 32 32 7;M9 32h16m14 0h16
+development|git-merge|c 17 14 4;c 17 50 4;c 47 38 4;M17 18v28m0-27c0 13 7 19 26 19
+development|git-pull-request|c 17 14 4;c 17 50 4;c 47 50 4;M17 18v28m30 0V27c0-8-5-13-13-13h-5m7-7-7 7 7 7
+development|terminal|r 10 13 44 38 5;M18 24l9 8-9 8m16 0h12
+development|bug|r 20 19 24 33 12;M20 27l-8-6m32 6 8-6M10 35h10m24 0h10M20 42l-8 7m32-7 8 7M24 20l-5-9m21 9 5-9M32 30v22
+development|braces|M25 11h-4c-4 0-6 2-6 6v8c0 4-2 7-5 7 3 0 5 3 5 7v8c0 4 2 6 6 6h4m14-42h4c4 0 6 2 6 6v8c0 4 2 7 5 7-3 0-5 3-5 7v8c0 4-2 6-6 6h-4
+development|brackets|M24 11H13v42h11m16-42h11v42H40
+development|command|M23 24h18v16H23Zm0 0h-5a5 5 0 1 1 5-5Zm18 0v-5a5 5 0 1 1 5 5Zm0 16h5a5 5 0 1 1-5 5Zm-18 0v5a5 5 0 1 1-5-5Z
+development|function|M16 52c7 0 9-4 11-13l5-22c1-6 4-8 11-8m-25 17h25
+development|variable|M19 22c6-5 11-2 13 10s7 15 13 10m-26 0c6 5 11 2 13-10s7-15 13-10
+development|webhook|c 32 14 5;c 15 45 5;c 49 45 5;M32 19l-9 15a9 9 0 0 1-8 4m5 9h18a8 8 0 0 0 8-5m1-2-8-15a8 8 0 0 0-7-4
+development|pipeline|r 8 23 12 18 3;r 26 23 12 18 3;r 44 23 12 18 3;M20 32h6m12 0h6
+development|workflow|r 25 9 14 13 3;r 8 42 13 13 3;r 43 42 13 13 3;M32 22v9m-18 11V31h36v11
+development|test-tube|M15 11h34m-28 0v30a11 11 0 0 0 22 0V11M21 31h22m-15 8h3
+development|flask|M22 10h20m-16 0v16L12 49c-2 3 0 5 4 5h32c4 0 6-2 4-5L38 26V10M20 39h24
+development|dependency|r 9 11 17 17 3;r 38 36 17 17 3;M18 28v17h20m-6-6 6 6-6 6
+development|package-manager|M10 20 32 8l22 12v24L32 56 10 44V20Zm0 0 22 12 22-12M32 32v24M21 14l22 12v9
+development|regex|c 17 45 2;M38 12v28m-12-21 24 14m0-14L26 33
+development|sandbox|M11 19 32 9l21 10v26L32 55 11 45V19Zm0 0 21 10 21-10M32 29v26m-12-22 4 2m16 4 5-3
+development|script|M15 12h29v35H15Zm0 35-5 6h37c4 0 6-3 6-6h-9M22 26l5 5-5 5m10 0h6
+development|browser|r 9 13 46 38 5;M9 24h46m-37-5h2m5 0h2m5 0h2
+development|build|M14 43l19-19 7 7-19 19Zm19-19 2-10 9-4-2 9 5 5 9-2-4 9-10 2-2-2
+network|wifi|M8 22a37 37 0 0 1 48 0M15 31a26 26 0 0 1 34 0M22 40a15 15 0 0 1 20 0;c 32 49 2
+network|ethernet|r 11 15 42 34 5;M21 25h22v11h-7v5h-8v-5h-7Zm5 0v5m6-5v5m6-5v5
+network|router|r 9 30 46 19 4;M17 30V15m30 15V15m-28 25h2m7 0h2m7 0h9
+network|satellite|M25 22l11 11-8 8-11-11Zm5 5 8-8m-17 17-8 8m23-23 8-8 7 7-8 8Zm-25 25 8-8 7 7-8 8ZM39 35a11 11 0 0 1 11 11m-11-4a4 4 0 0 1 4 4
+network|signal|M12 51V43m13 8V32m14 19V22m13 29V12
+network|link-broken|M23 36l-5 5a7 7 0 0 0 10 10l8-8m-8-22 8-8a7 7 0 0 1 10 10l-5 5M15 15l8 8m18 18 8 8
+network|packet-loss|M12 42l11-11 8 6m10-9 10-10M43 18h8v8M26 15l12 12m0-12L26 27
+network|globe|c 32 32 22;e 32 32 10 22;M11 25h42M11 39h42
+network|dns|r 8 13 18 13 3;r 38 13 18 13 3;r 23 39 18 13 3;M17 26v7h30v-7M32 33v6
+network|antenna|M32 33v21m-10 0h20M19 13a18 18 0 0 0 0 26m26-26a18 18 0 0 1 0 26m-21-21a11 11 0 0 0 0 16m16-16a11 11 0 0 1 0 16;c 32 26 3
+network|broadcast-tower|M24 53l8-24 8 24m-13-10h10M20 16a16 16 0 0 0 0 19m24-19a16 16 0 0 1 0 19;c 32 23 3
+devices|desktop|r 8 12 48 33 4;M32 45v9m-13 0h26
+devices|laptop|r 13 12 38 34 4;M13 46h38l5 7H8Zm12 0 2 3h10l2-3
+devices|smartphone|r 19 8 26 48 5;M27 15h10m-7 34h4
+devices|tablet|r 14 8 36 48 5;M29 49h6
+devices|printer|M19 24V11h26v13M19 45H9V24h46v21H45m-26-7h26v15H19Zm-3-7h4
+devices|keyboard|r 8 16 48 32 5;M15 25h3m6 0h3m7 0h3m8 0h3M15 33h3m6 0h3m7 0h3m8 0h3M22 41h20
+devices|mouse|r 19 9 26 46 13;M32 15v10
+devices|camera|r 8 19 48 32 5;M20 19l5-7h14l5 7;c 32 35 9
+devices|webcam|c 32 26 16;c 32 26 6;M32 42v11m-13 0h26
+devices|microphone|r 25 9 14 29 7;M19 28v3a13 13 0 0 0 26 0v-3M32 44v10m-9 0h18
+devices|headphones|M11 35v-4a21 21 0 0 1 42 0v4;r 11 32 11 17 4;r 42 32 11 17 4
+devices|speaker|r 18 8 28 48 4;c 32 20 4;c 32 40 8
+devices|battery|r 8 20 44 24 4;M52 27h4v10h-4m-36-5h12m8 0h8
+devices|plug|M19 23h26v7a13 13 0 0 1-26 0Zm7 0V11m12 12V11m-6 32v11
+devices|usb|M32 54V11m-6 6 6-6 6 6M32 40l-11-10v-7m11 9 11-8v-6;c 21 20 3;r 40 12 6 6 1
+devices|watch|r 17 18 30 28 7;M23 18l3-9h12l3 9m-18 28 3 9h12l3-9m-9-19v6l4 3
+communication|contact|r 10 14 44 36 5;c 23 27 5;M15 41a8 8 0 0 1 16 0m7-14h9m-9 8h9
+communication|message|M10 14h44v32H24l-12 8v-8h-2Z
+communication|chat|M9 12h39v29H22l-9 7v-7H9Zm39 12h7v26h-7v6l-9-6H26v-9
+communication|send|M9 11l46 21-46 21 8-21-8-21Zm8 21h38
+communication|reply|M10 28l16-15v10h10c12 0 19 8 19 22-7-7-13-12-24-12h-5v10Z
+communication|forward|M54 28 38 13v10H28C16 23 9 31 9 45c7-7 13-12 24-12h5v10Z
+communication|megaphone|M10 27h12l23-13v36L22 37H10Zm14 10 5 15h-8l-5-15m34-13 5-4m-5 12h6m-6 8 5 4
+communication|voicemail|c 20 33 10;c 44 33 10;M20 43h24
+communication|quotation|M13 18h15v14c0 8-4 12-11 14m19-28h15v14c0 8-4 12-11 14
+communication|mention|c 29 31 7;M36 24v11c0 4 2 6 5 6 6 0 9-5 9-11a18 18 0 1 0-8 16
+communication|translate|M10 16h29m-14-5v5m-10 5c3 11 10 17 20 22m-2-27c-2 13-10 23-23 29m27 8 10-26 10 26m-17-8h14
+media|image|r 9 12 46 40 4;c 24 25 4;M10 44l13-11 9 8 9-12 14 14
+media|film|r 8 13 48 38 4;M18 13v38m28-38v38M8 25h10m-10 14h10m28-14h10m-10 14h10
+media|video|r 8 18 34 28 5;M42 28l14-8v24l-14-8
+media|music|M25 45V16l23-6v31M25 25l23-6;e 20 46 5 4;e 43 42 5 4
+media|volume|M9 26h10l12-11v34L19 38H9Zm29-4a14 14 0 0 1 0 20m7-27a24 24 0 0 1 0 34
+media|volume-muted|M9 26h10l12-11v34L19 38H9Zm32 0 12 12m0-12L41 38
+media|stop|r 17 17 30 30 4
+media|record|c 32 32 21;d 32 32 8
+media|skip-back|M45 17 23 32l22 15ZM18 17v30
+media|skip-forward|M19 17l22 15-22 15Zm27 0v30
+media|repeat|M47 23H20a8 8 0 0 0-8 8v4m28-19 7 7-7 7M17 41h27a8 8 0 0 0 8-8v-4m-28 5-7 7 7 7
+media|shuffle|M10 20h7c12 0 18 24 30 24h7m-7-7 7 7-7 7M10 44h7c12 0 18-24 30-24h7m-7-7 7 7-7 7
+media|equalizer|M13 26v12m9-21v30m10-37v44m10-37v30m9-21v12
+media|playlist|M11 15h42M11 26h31M11 37h23m-23 11h17m13-14 14 8-14 8Z
+media|subtitles|r 8 15 48 34 5;M18 29h13m7 0h8M18 37h8m7 0h13
+people|profile|c 32 21 9;M13 52v-4c0-7 8-13 19-13s19 6 19 13v4m-32 0h26
+people|user|c 32 20 9;M13 53v-5a19 14 0 0 1 38 0v5
+people|user-circle|c 32 32 22;c 32 25 7;M17 47a16 12 0 0 1 30 0
+people|id-card|r 8 14 48 36 4;c 22 28 5;M14 42a8 7 0 0 1 16 0m8-15h11m-11 8h11
+people|team|c 25 21 8;c 45 24 6;M10 51v-5a15 12 0 0 1 30 0v5m3-13c7 0 12 4 12 10v3
+people|accessibility|c 32 13 4;M13 23l19 6 19-6M32 29v11m0 0L22 54m10-14 10 14
+people|badge|M32 10l5 4 6-1 3 5 6 2v6l3 6-3 5v7l-6 2-3 5-6-1-5 4-5-4-6 1-3-5-6-2v-7l-3-5 3-6v-6l6-2 3-5 6 1Z;c 32 32 9
+people|handshake|M8 28l8-11 9 3 7-3 10 4 7-3 7 11-7 13-8 6-11-2-11-8-6-2Zm17-8-8 9 6 5 8-6 16 15m-19-7 10 10m-16-6 6 5
+security|login|M34 12h15a4 4 0 0 1 4 4v32a4 4 0 0 1-4 4H34M9 32h32m-11-11 11 11-11 11
+security|logout|M30 12H15a4 4 0 0 0-4 4v32a4 4 0 0 0 4 4h15m-7-20h32m-11-11 11 11-11 11
+security|lock-open|r 14 29 36 24 5;M23 29v-8a9 9 0 0 1 18 0m-9 17v6
+security|lock|r 14 29 36 24 5;M23 29v-8a9 9 0 0 1 18 0v8m-9 9v6
+security|key|c 23 25 12;M32 33l17 17 5-5-5-5-4 4-4-4 4-4-7-7;c 21 23 2
+security|shield|M32 9l19 8v14c0 12-8 18-19 24-11-6-19-12-19-24V17Z
+security|shield-alert|M32 9l19 8v14c0 12-8 18-19 24-11-6-19-12-19-24V17Zm0 14v11;d 32 41 1.5
+security|fingerprint|M11 33a21 21 0 1 1 42 0m-34 0a13 13 0 1 1 26 0v11m-18 5c3-6 1-10 1-16a4 4 0 1 1 8 0c0 8 0 14-4 21m-13-9 1-6m25 8-1 4
+security|scan|M24 11H11v13m29-13h13v13M11 40v13h13m29-13v13H40M8 32h48
+security|password|r 9 19 46 26 4;M20 27v10m-4-8 8 6m0-6-8 6m16-8v10m-4-8 8 6m0-6-8 6m16-8v10m-4-8 8 6m0-6-8 6
+security|certificate|r 12 10 40 36 4;M20 19h24m-24 8h14;c 40 38 6;M35 42l-2 12 7-4 7 4-2-12
+gaming|dice|r 11 11 42 42 7;d 21 21 2.5;d 43 21 2.5;d 32 32 2.5;d 21 43 2.5;d 43 43 2.5
+gaming|trophy|M21 11h22v16a11 11 0 0 1-22 0Zm0 5H10v5a10 10 0 0 0 11 10m22-15h11v5a10 10 0 0 1-11 10M32 38v14m-11 0h22
+gaming|medal|c 32 38 14;M22 28l-8-17h12l6 13 6-13h12l-8 17m-15 9 3 3 6-6
+gaming|flag|M14 54V11h34l-8 10 8 10H14
+gaming|puzzle|M12 12h15a6 6 0 1 0 10 0h15v15a6 6 0 1 0 0 10v15H37a6 6 0 1 0-10 0H12V37a6 6 0 1 0 0-10Z
+gaming|joystick|r 9 37 46 16 5;M32 37V22;c 32 15 7;M45 45h3m-32 0h3
+gaming|potion|M24 10h16m-13 0v15L14 43a7 7 0 0 0 6 11h24a7 7 0 0 0 6-11L37 25V10M20 36h24;c 26 45 2
+gaming|target|c 32 32 22;c 32 32 14;c 32 32 5
+gaming|checkpoint|M16 54V11h33l-7 8 7 8H16m10-9 4 4 8-8
+gaming|lives|M12 21c6-7 14-5 20 2 6-7 14-9 20-2 5 7 1 16-5 22L32 55 17 43c-6-6-10-15-5-22Z;M16 32h8l4-6 6 12 4-6h10
+gaming|chess-knight|M16 51h34v-7H22l3-13-12 3 2-9 9-8 2-7 6 4h4c8 4 12 13 12 23v7m-22-21h3
+gaming|achievement|M16 16h32v23H16Z;M23 39l-2 15 11-6 11 6-2-15m-14-11 3 3 7-7
+time|clock|c 32 32 22;M32 18v15l10 6
+time|alarm|c 32 34 17;M32 24v11l7 4M15 14l7-5m27 5-7-5M20 47l-5 7m29-7 5 7
+time|timer|c 32 36 17;M32 12v7m-7-7h14m6 10 5-5M32 27v10l7 4
+time|hourglass|M17 11h30m-30 42h30m-26-42v9c0 4 3 7 11 12-8 5-11 8-11 12v9m22-42v9c0 4-3 7-11 12 8 5 11 8 11 12v9M24 47h16
+time|history|M13 28a20 20 0 1 1 2 15M13 15v13h13m6-8v13l9 5
+time|schedule|r 9 14 46 39 5;M20 9v11M44 9v11M9 25h46m-33 10h4m8 0h8m-20 9h15
+time|calendar-range|r 9 14 46 39 5;M20 9v11M44 9v11M9 25h46m-34 14h22;c 19 39 2;c 45 39 2
+time|sunrise|M8 47h48M17 40a15 15 0 0 1 30 0M32 9v18m-6-12 6-6 6 6M15 19l5 6m29-6-5 6
+commerce|cart|M8 13h7l5 27h29l6-21H16;c 24 50 4;c 45 50 4
+commerce|basket|M10 27h44l-6 24H16Zm10 0 8-14m16 14-8-14m-11 23 2 8m12-8-2 8
+commerce|bag|M13 22h38l3 32H10Zm11 3V17a8 8 0 0 1 16 0v8
+commerce|receipt|M15 10h34v44l-6-4-6 4-5-4-5 4-6-4-6 4Zm8 11h18m-18 9h18m-18 9h11
+commerce|card|r 8 15 48 34 5;M8 26h48m-40 13h10m5 0h5
+commerce|wallet|r 9 14 46 36 5;M54 26H41a6 6 0 0 0 0 12h13m-13-6h2
+commerce|coin|c 32 32 21;M40 24c-2-3-13-4-14 2-1 7 14 4 14 11 0 5-11 7-16 3m8-22v28
+commerce|gift|r 12 27 40 27 3;r 9 19 46 9 2;M32 19v35m0-35c-11 2-18-2-15-7 3-4 12-1 15 7Zm0 0c11 2 18-2 15-7-3-4-12-1-15 7Z
+commerce|invoice|M15 9h23l11 11v35H15Zm23 0v12h11M22 29h20M22 37h7m6 0h7m-20 8h7m6 0h7
+commerce|barcode|M9 13v38m7-38v38m7-38v38m9-38v38m6-38v38m9-38v38m8-38v38
+commerce|percent|c 20 20 6;c 44 44 6;M14 50l36-36
+analytics|chart-bar|M10 10v44h45m-38-7V34h8v13m6 0V25h8v22m6 0V16h8v31
+analytics|chart-line|M10 10v44h45m-36-13 9-13 9 5 14-17
+analytics|chart-area|M9 10v44h46M16 44l10-12 9 4 16-18v29H16Z
+analytics|chart-pie|M29 10a22 22 0 1 0 25 25H29Zm7-1v19h19A20 20 0 0 0 36 9Z
+analytics|chart-scatter|M10 10v44h45;d 19 43 2.5;d 25 34 2.5;d 31 39 2.5;d 36 22 2.5;d 43 26 2.5;d 49 17 2.5
+analytics|gauge|M9 46a23 23 0 1 1 46 0H9Zm23-6 11-14M19 31l3 4m10-9v4;c 32 40 2
+analytics|trend-up|M9 46l15-15 10 9 19-21m-13 0h13v13
+analytics|trend-down|M9 18l15 15 10-9 19 21m-13 0h13V32
+analytics|funnel-chart|M8 13h48L38 34v13l-12 5V34Zm7 9h34m-26 8h18
+analytics|dashboard|r 8 10 48 44 5;M8 23h48M22 23v31;r 30 31 18 14 2
+creation|pen|M11 53l9-26 18-6 5 5-6 18-26 9Zm0 0 17-17;c 30 34 3;M38 21l5-9 9 9-9 5
+creation|brush|M24 39 44 12c4-5 10 1 6 5L28 43Zm0 0c-10-2-12 5-12 10 0 3-2 4-4 5 9 2 19-1 20-11
+creation|eraser|M12 39l24-24a4 4 0 0 1 6 0l11 11a4 4 0 0 1 0 6L33 52H23Zm12-12 18 18m-9 7h22
+creation|crop|M17 8v39h39M8 17h39v39
+creation|scissors|c 17 17 7;c 17 47 7;M22 22l28 28M22 42l28-28
+creation|palette|M32 10a22 22 0 1 0 0 44h4c4 0 6-5 3-8-3-3 0-6 4-6h3c7 0 9-5 9-9 0-12-10-21-23-21Z;d 20 26 2;d 30 18 2;d 42 23 2;d 17 37 2
+creation|ruler|M9 43 43 9l12 12-34 34Zm10-10 6 6m3-15 6 6m3-15 6 6
+creation|align-left|M11 9v46;r 19 14 30 8 2;r 19 28 22 8 2;r 19 42 35 8 2
+creation|align-center|M32 9v46;r 15 14 34 8 2;r 21 28 22 8 2;r 9 42 46 8 2
+creation|align-right|M53 9v46;r 15 14 30 8 2;r 23 28 22 8 2;r 10 42 35 8 2
+creation|color-picker|M35 16l13 13m-9-18a5 5 0 0 1 7 0l7 7a5 5 0 0 1 0 7l-9 9-7-7-15 15-10 3 3-10 15-15-4-4
+creation|bezier|r 10 14 8 8 1;r 46 14 8 8 1;c 32 49 4;M18 18h28M20 18c0 13 12 12 12 27 0-15 12-14 12-27
+travel|car|M11 31l6-14h30l6 14v16H11Zm0 0h42M16 47v6m32-6v6M18 39h6m16 0h6
+travel|bus|r 13 9 38 42 6;M13 33h38M13 19h38M19 51v5m26-5v5m-24-15h3m16 0h3
+travel|train|r 16 9 32 39 6;M16 30h32M32 16v14m-9 18-7 7m25-7 7 7;d 24 39 2;d 40 39 2
+travel|bicycle|c 16 43 10;c 48 43 10;M16 43l10-17 10 17H16m10-17h15l7 17m-7-17-3-9h7m-22 4h8
+travel|boat|M11 34h42l-8 13H19Zm12 0V19h18v15M31 19v-7M9 53c5 0 8-2 11-4 4 3 8 4 12 4s8-1 12-4c3 2 6 4 11 4
+travel|plane|M10 38l17-8V13a5 5 0 0 1 10 0v17l17 8v6l-17-4v8l7 5v4l-12-3-12 3v-4l7-5v-8l-17 4Z
+travel|ticket|M9 17h46v10a5 5 0 0 0 0 10v10H9V37a5 5 0 0 0 0-10Zm32 7v3m0 4v3m0 4v3
+travel|suitcase|r 10 18 44 36 5;M24 18v-7h16v7m-18 0v36m20-36v36
+travel|tent|M8 53l24-39 24 39ZM32 14v39m0-19L21 53m11-19 11 19
+travel|mountain|M8 52l18-34 9 16 6-11 15 29Z;M20 29l6 5 5-4m6 0 4 4 4-3
+nature|sun|c 32 32 12;M32 7v6m0 38v6M7 32h6m38 0h6M14 14l4 4m28 28 4 4m0-36-4 4M18 46l-4 4
+nature|moon|M49 44a21 21 0 0 1-29-29 22 22 0 1 0 29 29Z
+nature|rain|M15 38a8 8 0 1 1 4-15 13 13 0 0 1 24 4 6 6 0 1 1 3 11Zm9 6-3 9m13-9-3 9m13-9-3 9
+nature|snowflake|M32 8v48M11 20l42 24M11 44l42-24M26 12l6 6 6-6m-12 40 6-6 6 6M13 27l8-2-2-8m26 30-2-8 8-2m0-10-8-2 2-8M19 47l2-8-8-2
+nature|leaf|M12 52c1-11 10-22 22-29M18 41C6 21 28 13 53 11c-2 25-10 46-32 34
+nature|tree|M32 8l-13 16h7L15 37h9L12 48h40L40 37h9L38 24h7Zm0 40v8
+nature|droplet|M32 9c-6 10-17 23-17 31a17 17 0 0 0 34 0c0-8-11-21-17-31Zm-8 31a8 8 0 0 0 8 8
+nature|wind|M9 23h29a6 6 0 1 0-6-6m-22 15h41a5 5 0 1 1-5 5M10 41h23a6 6 0 1 1-6 6
+education|book|M32 16c-8-5-16-6-23-4v37c8-2 16-1 23 4 7-5 15-6 23-4V12c-7-2-15-1-23 4Zm0 0v37
+education|graduation|M8 25l24-13 24 13-24 13Zm12 7v12c6 7 18 7 24 0V32m12-7v18
+education|calculator|r 15 9 34 46 5;r 22 16 20 10 2;d 24 34 1.5;d 32 34 1.5;d 40 34 1.5;d 24 43 1.5;d 32 43 1.5;d 40 43 1.5
+education|microscope|M13 54h38m-16-1a15 15 0 0 0 1-28m-22 15h21m-15 0v7m1-27L31 10l9 9-10 10Zm7 7-4 5m16-18 3-3
+education|pencil|M12 43l32-32 9 9-32 32-11 2Zm25-25 9 9
+education|whiteboard|r 9 10 46 34 4;M22 44l-5 11m25-11 5 11M20 35l8-9 7 5 9-11
+development|launch|M20 40c3-15 15-26 33-29-2 18-13 30-28 33l-5-4Zm19-13a3 3 0 1 0 0-6 3 3 0 0 0 0 6ZM19 39l-8 5 2-10 9-5m4 16-5 8 10-2 5-9M13 51l-4 4
+gaming|fps|M10 46V18h44v28H10Zm6-14h8l5-8 5 16 5-8h9
+interface|error|M24 10h16l14 14v16L40 54H24L10 40V24Zm0 14 16 16m0-16L24 40
+navigation|back|M53 48v-5a12 12 0 0 0-12-12H12m12-12L12 31l12 12
+security|security|M32 9l19 8v14c0 12-8 18-19 24-11-6-19-12-19-24V17Z;r 25 29 14 11 2;M28 29v-3a4 4 0 0 1 8 0v3
+network|language|M33 47a19 19 0 1 1 16-21M26 11c-8 8-8 26 0 36m-13-23h36M12 33h17M33 29h22v17H44l-9 7v-7h-2Z;M39 35h10m-10 5h7
+gaming|open-world|M8 50h48M8 43l13-18 9 8 9-14 17 24M34 55c0-7 9-8 9-13 0-3-4-4-5-7;c 16 15 4
+interface|library|r 11 13 10 37 2;r 22 13 10 37 2;M34 16l9-3 12 33-9 3Zm-18 7h5m1 0h5m12 1 8-3
